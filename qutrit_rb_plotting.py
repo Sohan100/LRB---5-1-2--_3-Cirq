@@ -82,8 +82,16 @@ class LogicalRbPlotter:
             Plots logical-success depth curves.
         plot_logical_vs_physical_infidelity():
             Plots logical vs physical infidelity with optional threshold fit.
-        overlay_with_physical_rb(physical_results_path, error_rates=None):
+        overlay_with_physical_rb(physical_results_path, error_rates=None,
+                                 show_plot=True, fit_curves=True,
+                                 y_range=None):
             Overlays logical and physical RB expectation data for each rate.
+            Fit curves can be enabled/disabled.
+        overlay_terminal_check_with_physical_rb_no_fit(
+            physical_results_path, error_rates=None, show_plot=True,
+            y_range=None):
+            Convenience wrapper for terminal-check overlays without fit
+            models.
 
     Internal helper methods:
         _fit_func, _fit_func_with_offset, _sigmoid, _load_pickle,
@@ -862,6 +870,7 @@ Raises:
                                  physical_results_path: str,
                                  error_rates: Optional[List[float]] = None,
                                  show_plot: bool = True,
+                                 fit_curves: bool = True,
                                  y_range: Optional[
                                      Tuple[float, float]] = None):
         """
@@ -874,6 +883,9 @@ Args:
                                          When omitted, available rates are
                                          inferred from checkpoint files.
     show_plot (bool): If `True`, display the overlay figure with `plt.show()`.
+    fit_curves (bool): If `True`, fit exponential RB models and draw fit
+                       curves/annotations. If `False`, plot only raw
+                       depth-averaged traces.
     y_range (Optional[Tuple[float, float]]): Fixed y-axis range
                                              `(y_min, y_max)`. If `None`,
                                              use adaptive range
@@ -902,6 +914,7 @@ Raises:
             physical_results=physical_results,
             error_rates=selected_rates,
             show_plot=show_plot,
+            fit_curves=fit_curves,
             y_range=y_range,
         )
 
@@ -909,6 +922,7 @@ Raises:
                                  physicalResults: np.ndarray,
                                  errorRates: List[float],
                                  show_plot: bool = True,
+                                 fit_curves: bool = True,
                                  y_range: Optional[
                                      Tuple[float, float]] = None):
         """
@@ -919,6 +933,9 @@ Raises:
                                           from `.npy`.
             errorRates (List[float]): Physical error rates to include.
             show_plot (bool): If `True`, display the figure with `plt.show()`.
+            fit_curves (bool): If `True`, fit/plot exponential models; if
+                `False`, plot only depth-averaged traces without fit
+                overlays.
             y_range (Optional[Tuple[float, float]]): Fixed y-axis range
                 `(y_min, y_max)`. If `None`, use adaptive range
                 `[-0.1, max(y)+0.45]`.
@@ -937,6 +954,45 @@ Raises:
             physical_results=physical_results,
             error_rates=errorRates,
             show_plot=show_plot,
+            fit_curves=fit_curves,
+            y_range=y_range,
+        )
+
+    def overlay_terminal_check_with_physical_rb_no_fit(
+            self,
+            physical_results_path: str,
+            error_rates: Optional[List[float]] = None,
+            show_plot: bool = True,
+            y_range: Optional[Tuple[float, float]] = None):
+        """
+Overlay terminal-check logical RB against physical RB without fit models.
+
+This helper is intended for the terminal-check experiment where logical
+decay is not expected to follow a clean exponential model. It plots only
+depth-averaged expectation traces and intentionally omits fit curves and
+fit-derived fidelity annotations.
+
+Args:
+    physical_results_path (str): Path to physical RB `.npy` results.
+    error_rates (Optional[List[float]]): Optional rate list. If omitted,
+                                         rates are inferred from logical
+                                         checkpoints.
+    show_plot (bool): If `True`, display figure with `plt.show()`.
+    y_range (Optional[Tuple[float, float]]): Optional fixed y-limits.
+
+Returns:
+    Dict[float, Dict[str, float]]: Per-`p` summary dictionary. Fidelity fields
+                                   are `nan` when fitting is disabled.
+
+Raises:
+    OSError: If output files cannot be written.
+    ValueError: If inputs are inconsistent with expected data schema.
+"""
+        return self.overlay_with_physical_rb(
+            physical_results_path=physical_results_path,
+            error_rates=error_rates,
+            show_plot=show_plot,
+            fit_curves=False,
             y_range=y_range,
         )
 
@@ -945,6 +1001,7 @@ Raises:
             physical_results: dict,
             error_rates: List[float],
             show_plot: bool = True,
+            fit_curves: bool = True,
             y_range: Optional[Tuple[float, float]] = None):
         """
         Internal implementation shared by file-based and in-memory overlays.
@@ -962,6 +1019,11 @@ Raises:
         figure_title = (
             "Logical RB vs Physical RB under Logical Depolarizing Channel"
             if self.experiment_name == "logical_noise"
+            else (
+                "Terminal-Check Logical RB vs Physical RB "
+                "(No Exponential Fits)"
+            )
+            if self.experiment_name == "terminal_check" and not fit_curves
             else f"Logical vs Physical RB ({self.experiment_name})"
         )
         fig = plt.figure(figsize=(6 * cols, 5 * rows))
@@ -987,14 +1049,16 @@ Raises:
                     logical_metric)
 
                 if logical_x:
-                    try:
-                        logical_fit, logical_fidelity = (
-                            self._fit_decay_and_fidelity(logical_x, logical_y)
-                        )
-                    except Exception as exc:
-                        print(
-                            f"Logical fit failed for p={physical_error_rate}: "
-                            f"{exc}")
+                    if fit_curves:
+                        try:
+                            logical_fit, logical_fidelity = (
+                                self._fit_decay_and_fidelity(
+                                    logical_x, logical_y)
+                            )
+                        except Exception as exc:
+                            print(
+                                "Logical fit failed for "
+                                f"p={physical_error_rate}: {exc}")
                     ax.plot(
                         logical_x,
                         logical_y,
@@ -1004,7 +1068,7 @@ Raises:
                         linewidth=1.8,
                         label="Logical LRB",
                     )
-                    if logical_fit is not None:
+                    if fit_curves and logical_fit is not None:
                         # Smooth fitted logical decay curve over plotted range.
                         x_fit = np.linspace(min(logical_x), max(logical_x),
                                             200)
@@ -1038,48 +1102,50 @@ Raises:
                     # physical data, then fallback to stored parameters.
                     infidelity_raw = physical_entry.get("infidelity")
 
-                    try:
-                        physical_fit, physical_fidelity = (
-                            self._fit_decay_and_fidelity(
-                                physical_x,
-                                physical_y,
-                            )
-                        )
-                    except Exception as exc:
-                        print(
-                            f"Physical fit failed for p="
-                            f"{physical_error_rate}: {exc}")
-                        fit_params_raw = physical_entry.get(
-                            "fitParams", physical_entry.get("fit_params"))
-                        if fit_params_raw is not None and len(
-                                fit_params_raw) >= 2:
-                            physical_fit = np.array(fit_params_raw,
-                                                    dtype=float)
-                            physical_fidelity = self._fidelity_from_decay(
-                                float(physical_fit[1]))
-                        elif infidelity_raw is not None:
-                            physical_fidelity = float(
-                                1.0 - float(infidelity_raw))
-                            physical_fit = None
-                        else:
-                            physical_fit = None
-                            physical_fidelity = None
-
-                    if physical_fit is None and infidelity_raw is not None:
-                        # Keep fidelity value available even when fit curve is
-                        # unavailable.
-                        physical_fidelity = float(1.0 - float(infidelity_raw))
-
-                    if physical_fit is None and infidelity_raw is None:
+                    if fit_curves:
                         try:
                             physical_fit, physical_fidelity = (
                                 self._fit_decay_and_fidelity(
-                                    physical_x, physical_y)
+                                    physical_x,
+                                    physical_y,
+                                )
                             )
                         except Exception as exc:
                             print(
                                 f"Physical fit failed for p="
                                 f"{physical_error_rate}: {exc}")
+                            fit_params_raw = physical_entry.get(
+                                "fitParams", physical_entry.get("fit_params"))
+                            if fit_params_raw is not None and len(
+                                    fit_params_raw) >= 2:
+                                physical_fit = np.array(fit_params_raw,
+                                                        dtype=float)
+                                physical_fidelity = self._fidelity_from_decay(
+                                    float(physical_fit[1]))
+                            elif infidelity_raw is not None:
+                                physical_fidelity = float(
+                                    1.0 - float(infidelity_raw))
+                                physical_fit = None
+                            else:
+                                physical_fit = None
+                                physical_fidelity = None
+
+                        if physical_fit is None and infidelity_raw is not None:
+                            # Keep fidelity value available even when fit
+                            # curve is unavailable.
+                            physical_fidelity = float(
+                                1.0 - float(infidelity_raw))
+
+                        if physical_fit is None and infidelity_raw is None:
+                            try:
+                                physical_fit, physical_fidelity = (
+                                    self._fit_decay_and_fidelity(
+                                        physical_x, physical_y)
+                                )
+                            except Exception as exc:
+                                print(
+                                    f"Physical fit failed for p="
+                                    f"{physical_error_rate}: {exc}")
 
                     ax.plot(
                         physical_x,
@@ -1090,7 +1156,7 @@ Raises:
                         linewidth=1.8,
                         label="Physical RB",
                     )
-                    if physical_fit is not None:
+                    if fit_curves and physical_fit is not None:
                         # Smooth fitted physical decay curve over
                         # plotted range.
                         x_fit = np.linspace(
@@ -1129,10 +1195,11 @@ Raises:
 
             # Fidelity annotation.
             text_lines = []
-            if logical_fidelity is not None:
-                text_lines.append(f"F_LRB={logical_fidelity:.16f}")
-            if physical_fidelity is not None:
-                text_lines.append(f"F_RB={physical_fidelity:.16f}")
+            if fit_curves:
+                if logical_fidelity is not None:
+                    text_lines.append(f"F_LRB={logical_fidelity:.16f}")
+                if physical_fidelity is not None:
+                    text_lines.append(f"F_RB={physical_fidelity:.16f}")
             if text_lines:
                 ax.text(
                     0.98,
