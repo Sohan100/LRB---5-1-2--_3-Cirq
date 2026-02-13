@@ -405,5 +405,4 @@ keeping physical baseline constant.
 
 ## License and Attribution
 
-No license file is currently included in this repository. If you plan to share
-or publish derived code, add an explicit license and citation policy first.
+See License file
