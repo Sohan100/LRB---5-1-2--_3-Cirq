@@ -1,0 +1,298 @@
+import os
+import copy
+import numpy as np
+import cirq
+import matplotlib.pyplot as plt
+from scipy.optimize import curve_fit
+
+from qutrit_clifford import QutritCliffordGroup
+from gates import QuditHadamard
+from noise import QuditDepolarizingChannel
+from rb_seq import RBSeq
+
+
+class PhysicalRBSim:
+    """
+    A class to perform physical randomized benchmarking (RB) simulations for a
+    qutrit under depolarizing noise. It encapsulates functions for generating
+    RB circuits, simulating them, fitting the RB decay curve, saving
+    checkpoint data, and plotting fidelity curves.
+    """
+
+    def __init__(self, checkpoint_dir: str, seed: int = 24,
+                 circuits_per_sequence: int = 30, dimension: int = 3):
+        """
+        Initializes the simulation.
+
+        Args:
+            checkpoint_dir (str): Directory to save simulation results and plots.
+            seed (int): Random seed for reproducibility.
+            circuits_per_sequence (int): Number of circuits per RB sequence.
+            dimension (int): Qudit dimension (default is 3 for qutrits).
+        """
+        self.checkpoint_dir = checkpoint_dir
+        os.makedirs(self.checkpoint_dir, exist_ok=True)
+        self.seed = seed
+        self.circuits_per_sequence = circuits_per_sequence
+        self.dimension = dimension
+
+        # Get the Clifford group gates for a qutrit.
+        self.clifford_gates = QutritCliffordGroup(self.dimension).get_group()
+        # Use the qutrit Hadamard gate as the measurement basis transform.
+        self.hadamard = QuditHadamard(self.dimension)
+        # The noise channel class (will be instantiated later).
+        self.QuditDepolarizingChannel = QuditDepolarizingChannel
+        # The RB sequence generator.
+        self.RBSeq = RBSeq
+
+    def generate_rb_circuits(self, p: float):
+        """
+        Generate RB circuits for a given depolarizing noise parameter.
+
+        Args:
+            p (float): Depolarizing noise parameter.
+
+        Returns:
+            list: List of Cirq Circuit objects.
+        """
+        qutrit = [cirq.LineQid(5, self.dimension)]
+        noise_channel = self.QuditDepolarizingChannel(self.dimension, p)
+        rb_seq = self.RBSeq(
+            qudits=qutrit,
+            gates=self.clifford_gates,
+            measurementBasisTransformation=self.hadamard,
+            seed=self.seed,
+            noiseChannel=noise_channel
+        )
+        return rb_seq.getrbCircuits()
+
+    def run_rb_simulation(self, p: float):
+        """
+        Run the RB simulation for a single depolarizing noise parameter.
+
+        Args:
+            p (float): Depolarizing noise parameter.
+
+        Returns:
+            tuple: (dict of raw expectation values, dict of averaged
+            expectation values)
+        """
+        rb_circuits = self.generate_rb_circuits(p)
+        rb_sim = cirq.DensityMatrixSimulator(dtype=np.complex128)
+        w = np.exp(2j * np.pi / self.dimension)  # cube root of unity
+        expectation_values = {}
+
+        for i, circ in enumerate(rb_circuits):
+            key = str(2 * (i // self.circuits_per_sequence))
+            noisy_circ = cirq.Circuit(
+                self.hadamard.on(cirq.LineQid(5, self.dimension))
+            )
+            noisy_circ += circ
+            result = rb_sim.run(noisy_circ, repetitions=5000)
+            meas = result.measurements['q(5) (d=3)']
+            flat_results = [item for sublist in meas for item in sublist]
+            prob0 = flat_results.count(0) / len(flat_results)
+            prob1 = flat_results.count(1) / len(flat_results)
+            prob2 = flat_results.count(2) / len(flat_results)
+            exp_value = np.abs(prob0 + prob1 * w + prob2 * w**2)
+            expectation_values.setdefault(key, []).append(exp_value)
+
+        average = {k: np.mean(v) for k, v in expectation_values.items()}
+        return expectation_values, average
+
+    @staticmethod
+    def rb_fit_function(x, A, p):
+        """
+        The exponential decay function for RB fitting.
+
+        Args:
+            x (float): Independent variable (e.g. circuit depth).
+            A (float): Amplitude parameter.
+            p (float): Decay parameter.
+
+        Returns:
+            float: The modeled expectation value.
+        """
+        return A * (p ** x)
+
+    def fit_data_and_calculate_infidelity(self, xData, yData):
+        """
+        Fit the RB decay data and calculate the gate infidelity.
+
+        Args:
+            xData (list): Circuit depths.
+            yData (list): Average expectation values.
+
+        Returns:
+            tuple: (optimal fit parameters, infidelity)
+        """
+        p0 = [1.0, 0.99]
+        popt, _ = curve_fit(self.rb_fit_function, xData, yData, p0=p0,
+                             bounds=([0, 0], [2, 1]))
+        A, f = popt
+        d = self.dimension
+        avg_gate_fidelity = (1 + (d - 1) * f) / d
+        infidelity = 1 - avg_gate_fidelity
+        return popt, infidelity
+
+    def simulate_for_p_values(self, pValues: list):
+        """
+        Perform RB simulations over a range of depolarizing noise parameters.
+
+        Args:
+            pValues (list): List of depolarizing parameters.
+
+        Returns:
+            tuple: (results dictionary, list of infidelities)
+        """
+        results = {}
+        infidelities = []
+        for p in pValues:
+            print(f"Simulating for p = {p}")
+            exp_vals, avg_vals = self.run_rb_simulation(p)
+            print("Expectation values: ", exp_vals)
+            print("Averages: ", avg_vals)
+            print('\n')
+            xData = [int(key) for key in avg_vals.keys()]
+            yData = [avg_vals[key] for key in avg_vals.keys()]
+            fitParams, infidelity = self.fit_data_and_calculate_infidelity(
+                xData, yData)
+            results[p] = {
+                'xData': xData,
+                'yData': yData,
+                'fitParams': fitParams,
+                'infidelity': infidelity,
+                'expectationValues': exp_vals,
+                'average': avg_vals
+            }
+            infidelities.append(infidelity)
+        return results, infidelities
+
+    def save_physical_rb_infidelities(self, physical_rb_results, filename: str):
+        """
+        Save the computed infidelities to a file.
+
+        Args:
+            physical_rb_results (dict): The simulation results.
+            filename (str): File path to save the infidelities.
+        """
+        physical_rates = {p: data['infidelity']
+                          for p, data in physical_rb_results.items()}
+        np.save(filename, physical_rates)
+        print(f"Physical RB infidelities saved to {filename}")
+
+    def plot_rb_fidelity_curves(self, pValues, results,
+                                suptitle='Physical RB Graphs'):
+        """
+        Plot the RB fidelity curves (with violin and scatter plots) and the
+        exponential fit.
+
+        Args:
+            pValues (list): List of p values to plot.
+            results (dict): Simulation results mapping each p to its data.
+            suptitle (str): Title for the plot.
+        """
+        num_plots = len(pValues)
+        cols = 3
+        rows = (num_plots - 1) // cols + 1
+        fig, axes = plt.subplots(rows, cols, figsize=(6 * cols, 5 * rows))
+        fig.suptitle(suptitle, fontsize=16, y=0.96)
+        for i, p in enumerate(pValues):
+            data = results[p]
+            expectationValues = data.get('expectationValues', {})
+            if expectationValues:
+                if rows > 1:
+                    ax = axes[i // cols, i % cols]
+                else:
+                    ax = axes[i % cols]
+                xData = data.get('xData')
+                yData = [np.mean(expectationValues[key])
+                         for key in expectationValues.keys()]
+                try:
+                    popt, _ = curve_fit(self.rb_fit_function, xData, yData,
+                                        p0=[0.5, 0.5],
+                                        bounds=([0, 0], [1, 1]))
+                except Exception as e:
+                    print(f"Curve fitting failed for p = {p} with error: {e}")
+                    popt = [0.0, 0.0]
+                violin_data = [expectationValues[key]
+                               for key in expectationValues.keys()]
+                violins = ax.violinplot(violin_data, xData, showmedians=True)
+                for pc in violins['bodies']:
+                    pc.set_facecolor('lightblue')
+                    pc.set_edgecolor('blue')
+                    pc.set_alpha(0.6)
+                if 'cmedians' in violins:
+                    violins['cmedians'].set_color('navy')
+                for j, d_points in enumerate(violin_data):
+                    xs = [xData[j]] * len(d_points)
+                    ax.scatter(xs, d_points, color='blue', alpha=0.4, s=5)
+                x_fit = np.linspace(min(xData), max(xData), 100)
+                ax.plot(x_fit, self.rb_fit_function(x_fit, *popt), 'b-',
+                        label=f'A = {popt[0]:.4f}\nf = {popt[1]:.4f}')
+                ax.set_xlabel('Circuit Depth of Clifford Gates')
+                ax.set_ylabel('Expectation Value')
+                ax.set_title(f'Depolarizing Noise Error: p = {p}')
+                ax.legend(fontsize='small')
+                ax.set_xticks(range(0, max(xData) + 1, 4))
+                ax.set_xlim(-0.1, 21)
+                ax.set_ylim(-0.1, max(yData) + 0.2)
+                d = self.dimension
+                f_val = popt[1]
+                avg_gate_fidelity = (1 + (d - 1) * f_val) / d
+                ax.text(0.95, 0.95,
+                        f"Avg Gate Fidelity: {avg_gate_fidelity:.4f}\n"
+                        f"Avg Gate Infidelity: {1 - avg_gate_fidelity:.4f}",
+                        transform=ax.transAxes,
+                        bbox=dict(facecolor='white', alpha=0.8),
+                        fontsize='small', ha='right', va='top')
+                print(f"Plot for p = {p} added to the grid.")
+            else:
+                print(f"No expectation values found for p = {p}")
+        total_axes = rows * cols
+        for j in range(i + 1, total_axes):
+            if rows > 1:
+                fig.delaxes(axes[j // cols, j % cols])
+            else:
+                fig.delaxes(axes[j % cols])
+        plt.tight_layout(rect=[0, 0.03, 1, 0.96])
+        fidelity_dir = f"{self.checkpoint_dir}/Fidelity Curves"
+        os.makedirs(fidelity_dir, exist_ok=True)
+        save_path = f"{fidelity_dir}/RB_Fidelity_Curves.pdf"
+        plt.savefig(save_path, format='pdf', dpi=300, bbox_inches='tight')
+        plt.show()
+        print("All plots displayed.")
+
+    def run_experiment(self, pValues: list):
+        """
+        Run the full simulation experiment over a range of p values:
+        simulate and fit RB data, save results, and plot fidelity curves.
+
+        Args:
+            pValues (list): List of depolarizing noise parameters.
+        """
+        results, infidelities = self.simulate_for_p_values(pValues)
+        sim_file = os.path.join(self.checkpoint_dir,
+                                "physicalRB_SimulationResults.npy")
+        np.save(sim_file, results)
+        print(f"Results saved to '{sim_file}'")
+        infid_file = os.path.join(self.checkpoint_dir,
+                                  "physical_rb_infidelities.npy")
+        self.save_physical_rb_infidelities(results, infid_file)
+        pValues_sorted = np.sort(pValues)
+        self.plot_rb_fidelity_curves(
+            pValues_sorted[:min(len(pValues_sorted), 85)], results)
+
+
+if __name__ == '__main__':
+    """checkpoint_dir = (
+        'Threshold Testing for Logical Plus State with Logical Depolarizing Noise'
+    )
+    sim = PhysicalRBSim(checkpoint_dir=checkpoint_dir)
+    pValues = [1.0e-7, 7.84759970e-6, 3.35981829e-5, 6.15848211e-4,
+               1.12883789e-2, 2.06130785e-2, 2.33572147e-2, 3.11537409e-2,
+               3.62021775e-2, 4.20687089e-2, 4.83293024e-2, 4.83293024e-2,
+               5.47144504e-2, 6.35808794e-2, 7.38841056e-2, 8.58569606e-2,
+               9.25524149e-2, 1.0e-1, 1.43844989e-1, 2.06913808e-1,
+               3.35981829e-1]
+    sim.run_experiment(pValues)"""

@@ -1,0 +1,27 @@
+#!/bin/bash
+#SBATCH --job-name=qutrit_sim
+#SBATCH --output=qutrit_sim_%A_%a.out
+#SBATCH --error=qutrit_sim_%A_%a.err
+#SBATCH --array=0-19
+#SBATCH -C cpu
+#SBATCH -q regular
+#SBATCH -t 47:30:00
+
+# OpenMP settings
+export OMP_NUM_THREADS=1
+export OMP_PLACES=threads
+export OMP_PROC_BIND=spread
+
+# Define error rates array (20 values)
+error_rates=(1.0e-7 7.8476e-6 3.3598e-5 6.1585e-4 1.1288e-2 \
+             2.0613e-2 2.3357e-2 3.1154e-2 3.6202e-2 4.2069e-2 \
+             4.8329e-2 5.4714e-2 6.3581e-2 7.3884e-2 8.5857e-2 \
+             9.2552e-2 1.0e-1 1.4384e-1 2.0691e-1 3.3598e-1)
+
+# Get the error rate corresponding to this array index
+p_val=${error_rates[$SLURM_ARRAY_TASK_ID]}
+SIM_SCRIPT="/global/homes/s/sohan100/qutrit_simulation/"\
+"qutrit_logical_rb_logical_noise_sim.py"
+
+# Run the simulation script with the selected error rate as argument
+srun python ${SIM_SCRIPT} ${p_val}
