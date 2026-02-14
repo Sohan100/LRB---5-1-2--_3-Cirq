@@ -211,6 +211,7 @@ fidelity_summary = plotter.overlay_with_physical_rb(
     ),
     error_rates=None,         # infer from logicalRB_p*.pkl
     show_plot=True,           # force on-screen rendering
+    fit_curves=True,          # enable exponential fits + fidelity text
     y_range=(0.0, 1.2),       # optional fixed y-limits
 )
 
@@ -233,6 +234,33 @@ When `y_range=None`, the overlay uses adaptive limits equivalent to:
 
 This avoids compressed traces while preserving full depth-domain visibility.
 
+### Terminal-Check Overlay Without Fits
+
+For terminal-check LRB, you can explicitly disable fit overlays:
+
+```python
+from qutrit_rb_plotting import LogicalRbPlotter
+
+plotter = LogicalRbPlotter(
+    logical_checkpoint_dir="qutrit_rb_results_terminal_check_local_noise",
+    experiment_name="terminal_check",
+)
+
+plotter.overlay_terminal_check_with_physical_rb_no_fit(
+    physical_results_path=(
+        "qutrit_rb_results_terminal_check_local_noise/"
+        "physicalRB_SimulationResults.npy"
+    ),
+    error_rates=None,
+    show_plot=True,
+    y_range=None,
+)
+```
+
+Equivalent low-level call:
+
+`overlay_with_physical_rb(..., fit_curves=False)`
+
 ### Other Plot APIs
 
 `LogicalRbPlotter` also supports:
@@ -241,6 +269,7 @@ This avoids compressed traces while preserving full depth-domain visibility.
 - `plot_survival_ratios(...)`
 - `plot_logical_success(...)`
 - `plot_logical_vs_physical_infidelity()`
+- `overlay_terminal_check_with_physical_rb_no_fit(...)`
 
 Generated files are saved under:
 
@@ -258,7 +287,11 @@ Recommended notebook setup:
 
 1. Select your experiment key (`logical_noise` or `terminal_check`).
 2. Point `checkpoint_dir` and `physical_results_path` to matching runs.
-3. Call `overlay_with_physical_rb(..., show_plot=True)`.
+3. For logical-noise overlays, call:
+   `overlay_with_physical_rb(..., show_plot=True, fit_curves=True)`.
+4. For terminal-check overlays, call:
+   `overlay_terminal_check_with_physical_rb_no_fit(...)`.
+5. Keep a markdown header before each plotting code cell describing the plot.
 
 If your backend does not render figures automatically, add:
 
@@ -337,18 +370,25 @@ Dictionary keyed by physical `p`, each value includes:
 
 ## Running on SLURM
 
-Provided scripts show two patterns:
+Provided scripts use one common pattern:
 
-- Parallel launch of multiple `p` values in one job:
-  - `run_logical_rb_logical_noise3.sh`
-  - `run_logical_rb_logical_noise4.sh`
-- Job-array mapping one `p` per task:
-  - `run_logical_rb_terminal_check.sh`
+- One SLURM job requests `N` tasks.
+- The script launches one backgrounded `srun --exclusive` per `p` value.
+- Each `srun` writes an individual per-probability log file.
+- The script `wait`s until all simulations complete.
+
+Scripts:
+
+- `run_logical_rb_logical_noise3.sh`
+- `run_logical_rb_logical_noise4.sh`
+- `run_logical_rb_terminal_check.sh`
 
 Edit these fields before submission:
 
 - checkpoint directory
 - script path (`SIM_SCRIPT`)
+- scripts root (`SCRIPTS_DIR`)
+- repetitions (`REPS`)
 - queue/account constraints
 - error-rate list
 - thread count (`OMP_NUM_THREADS`)
@@ -398,11 +438,11 @@ python test_noise.py
 3. Generate overlay and save fidelity summary.
 4. Run terminal-check LRB sweep into a second directory.
 5. Generate overlay for that directory with the same physical baseline.
-6. Compare fitted `F_LRB` vs `F_RB` across both logical models.
+6. Compare fitted `F_LRB` vs `F_RB` across applicable models.
 
 This gives you a clean side-by-side study of noise-model sensitivity while
 keeping physical baseline constant.
 
 ## License and Attribution
 
-See License file
+This repository includes a license file at `LICENSE`.
