@@ -1,0 +1,2200 @@
+No checkpoint found at qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 0: ['I', 'tM'] with key 0
+Accepted indices: 9984/10000
+Effective shots: 9984
+Key: 0
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 1: ['I', 'tM'] with key 0
+Accepted indices: 9978/10000
+Effective shots: 9978
+Key: 0
+Expectation value: 1.0
+
+Running circuit 2: ['I', 'tM'] with key 0
+Accepted indices: 9983/10000
+Effective shots: 9983
+Key: 0
+Expectation value: 1.0
+
+Running circuit 3: ['I', 'tM'] with key 0
+Accepted indices: 9978/10000
+Effective shots: 9978
+Key: 0
+Expectation value: 1.0
+
+Running circuit 4: ['I', 'tM'] with key 0
+Accepted indices: 9977/10000
+Effective shots: 9977
+Key: 0
+Expectation value: 1.0
+
+Running circuit 5: ['I', 'tM'] with key 0
+Accepted indices: 9975/10000
+Effective shots: 9975
+Key: 0
+Expectation value: 1.0
+
+Running circuit 6: ['I', 'tM'] with key 0
+Accepted indices: 9980/10000
+Effective shots: 9980
+Key: 0
+Expectation value: 1.0
+
+Running circuit 7: ['I', 'tM'] with key 0
+Accepted indices: 9972/10000
+Effective shots: 9972
+Key: 0
+Expectation value: 1.0
+
+Running circuit 8: ['I', 'tM'] with key 0
+Accepted indices: 9982/10000
+Effective shots: 9982
+Key: 0
+Expectation value: 1.0
+
+Running circuit 9: ['I', 'tM'] with key 0
+Accepted indices: 9972/10000
+Effective shots: 9972
+Key: 0
+Expectation value: 1.0
+
+Running circuit 10: ['I', 'tM'] with key 0
+Accepted indices: 9981/10000
+Effective shots: 9981
+Key: 0
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 11: ['I', 'tM'] with key 0
+Accepted indices: 9985/10000
+Effective shots: 9985
+Key: 0
+Expectation value: 1.0
+
+Running circuit 12: ['I', 'tM'] with key 0
+Accepted indices: 9980/10000
+Effective shots: 9980
+Key: 0
+Expectation value: 1.0
+
+Running circuit 13: ['I', 'tM'] with key 0
+Accepted indices: 9974/10000
+Effective shots: 9974
+Key: 0
+Expectation value: 1.0
+
+Running circuit 14: ['I', 'tM'] with key 0
+Accepted indices: 9978/10000
+Effective shots: 9978
+Key: 0
+Expectation value: 1.0
+
+Running circuit 15: ['I', 'tM'] with key 0
+Accepted indices: 9965/10000
+Effective shots: 9965
+Key: 0
+Expectation value: 1.0
+
+Running circuit 16: ['I', 'tM'] with key 0
+Accepted indices: 9986/10000
+Effective shots: 9986
+Key: 0
+Expectation value: 1.0
+
+Running circuit 17: ['I', 'tM'] with key 0
+Accepted indices: 9982/10000
+Effective shots: 9982
+Key: 0
+Expectation value: 1.0
+
+Running circuit 18: ['I', 'tM'] with key 0
+Accepted indices: 9980/10000
+Effective shots: 9980
+Key: 0
+Expectation value: 1.0
+
+Running circuit 19: ['I', 'tM'] with key 0
+Accepted indices: 9983/10000
+Effective shots: 9983
+Key: 0
+Expectation value: 1.0
+
+Running circuit 20: ['I', 'tM'] with key 0
+Accepted indices: 9975/10000
+Effective shots: 9975
+Key: 0
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 21: ['I', 'tM'] with key 0
+Accepted indices: 9976/10000
+Effective shots: 9976
+Key: 0
+Expectation value: 1.0
+
+Running circuit 22: ['I', 'tM'] with key 0
+Accepted indices: 9982/10000
+Effective shots: 9982
+Key: 0
+Expectation value: 1.0
+
+Running circuit 23: ['I', 'tM'] with key 0
+Accepted indices: 9983/10000
+Effective shots: 9983
+Key: 0
+Expectation value: 1.0
+
+Running circuit 24: ['I', 'tM'] with key 0
+Accepted indices: 9986/10000
+Effective shots: 9986
+Key: 0
+Expectation value: 1.0
+
+Running circuit 25: ['I', 'tM'] with key 0
+Accepted indices: 9974/10000
+Effective shots: 9974
+Key: 0
+Expectation value: 1.0
+
+Running circuit 26: ['I', 'tM'] with key 0
+Accepted indices: 9978/10000
+Effective shots: 9978
+Key: 0
+Expectation value: 1.0
+
+Running circuit 27: ['I', 'tM'] with key 0
+Accepted indices: 9985/10000
+Effective shots: 9985
+Key: 0
+Expectation value: 1.0
+
+Running circuit 28: ['I', 'tM'] with key 0
+Accepted indices: 9982/10000
+Effective shots: 9982
+Key: 0
+Expectation value: 1.0
+
+Running circuit 29: ['I', 'tM'] with key 0
+Accepted indices: 9986/10000
+Effective shots: 9986
+Key: 0
+Expectation value: 1.0
+
+Running circuit 30: ['Z^2H^3SH', 'X^2ZHS', '(Z^2H^3SH)^-1(X^2ZHS)^-1', 'tM'] with key 2
+Accepted indices: 9914/10000
+Effective shots: 9914
+Key: 2
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 31: ['Z^2XS^2HS', 'ZHSHS^2', '(Z^2XS^2HS)^-1(ZHSHS^2)^-1', 'tM'] with key 2
+Accepted indices: 9895/10000
+Effective shots: 9895
+Key: 2
+Expectation value: 1.0
+
+Running circuit 32: ['XS^2HS', 'XZH^2', '(XS^2HS)^-1(XZH^2)^-1', 'tM'] with key 2
+Accepted indices: 9896/10000
+Effective shots: 9896
+Key: 2
+Expectation value: 1.0
+
+Running circuit 33: ['XSHSH', 'XZH', '(XSHSH)^-1(XZH)^-1', 'tM'] with key 2
+Accepted indices: 9915/10000
+Effective shots: 9915
+Key: 2
+Expectation value: 1.0
+
+Running circuit 34: ['XSHS^2', 'Z^2HSH', '(XSHS^2)^-1(Z^2HSH)^-1', 'tM'] with key 2
+Accepted indices: 9906/10000
+Effective shots: 9906
+Key: 2
+Expectation value: 1.0
+
+Running circuit 35: ['Z^2HS^2', 'S^2HSH', '(Z^2HS^2)^-1(S^2HSH)^-1', 'tM'] with key 2
+Accepted indices: 9923/10000
+Effective shots: 9923
+Key: 2
+Expectation value: 1.0
+
+Running circuit 36: ['Z^2H^3', 'Z^2XH', '(Z^2H^3)^-1(Z^2XH)^-1', 'tM'] with key 2
+Accepted indices: 9929/10000
+Effective shots: 9929
+Key: 2
+Expectation value: 1.0
+
+Running circuit 37: ['XH^3SH', 'Z^2XH^3SH', '(XH^3SH)^-1(Z^2XH^3SH)^-1', 'tM'] with key 2
+Accepted indices: 9906/10000
+Effective shots: 9906
+Key: 2
+Expectation value: 1.0
+
+Running circuit 38: ['Z^2H^3', 'X^2', '(Z^2H^3)^-1(X^2)^-1', 'tM'] with key 2
+Accepted indices: 9941/10000
+Effective shots: 9941
+Key: 2
+Expectation value: 1.0
+
+Running circuit 39: ['Z^2SHS', 'Z^2XHSHS', '(Z^2SHS)^-1(Z^2XHSHS)^-1', 'tM'] with key 2
+Accepted indices: 9921/10000
+Effective shots: 9921
+Key: 2
+Expectation value: 1.0
+
+Running circuit 40: ['HSHS', 'X^2ZSH', '(HSHS)^-1(X^2ZSH)^-1', 'tM'] with key 2
+Accepted indices: 9913/10000
+Effective shots: 9913
+Key: 2
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 41: ['X^2ZS^2HSH', 'Z^2SH', '(X^2ZS^2HSH)^-1(Z^2SH)^-1', 'tM'] with key 2
+Accepted indices: 9895/10000
+Effective shots: 9895
+Key: 2
+Expectation value: 1.0
+
+Running circuit 42: ['ZSHSH', 'XHSHS^2', '(ZSHSH)^-1(XHSHS^2)^-1', 'tM'] with key 2
+Accepted indices: 9901/10000
+Effective shots: 9901
+Key: 2
+Expectation value: 1.0
+
+Running circuit 43: ['H^2S', 'X^2Z^2H^3', '(H^2S)^-1(X^2Z^2H^3)^-1', 'tM'] with key 2
+Accepted indices: 9916/10000
+Effective shots: 9916
+Key: 2
+Expectation value: 1.0
+
+Running circuit 44: ['XSHS^2', 'X^2Z^2HSHS^2', '(XSHS^2)^-1(X^2Z^2HSHS^2)^-1', 'tM'] with key 2
+Accepted indices: 9931/10000
+Effective shots: 9931
+Key: 2
+Expectation value: 1.0
+
+Running circuit 45: ['Z^2S^2H', 'X^2ZSHS', '(Z^2S^2H)^-1(X^2ZSHS)^-1', 'tM'] with key 2
+Accepted indices: 9919/10000
+Effective shots: 9919
+Key: 2
+Expectation value: 1.0
+
+Running circuit 46: ['Z^2HS^2', 'X^2HSHS^2', '(Z^2HS^2)^-1(X^2HSHS^2)^-1', 'tM'] with key 2
+Accepted indices: 9900/10000
+Effective shots: 9900
+Key: 2
+Expectation value: 1.0
+
+Running circuit 47: ['X^2Z^2H^2', 'S^2H', '(X^2Z^2H^2)^-1(S^2H)^-1', 'tM'] with key 2
+Accepted indices: 9890/10000
+Effective shots: 9890
+Key: 2
+Expectation value: 0.9998483354825924
+
+Running circuit 48: ['Z^2H^2', 'Z^2XHS', '(Z^2H^2)^-1(Z^2XHS)^-1', 'tM'] with key 2
+Accepted indices: 9908/10000
+Effective shots: 9908
+Key: 2
+Expectation value: 1.0
+
+Running circuit 49: ['XZSHS', 'Z^2XS^2HSH', '(XZSHS)^-1(Z^2XS^2HSH)^-1', 'tM'] with key 2
+Accepted indices: 9912/10000
+Effective shots: 9912
+Key: 2
+Expectation value: 1.0
+
+Running circuit 50: ['ZH^3', 'XSH', '(ZH^3)^-1(XSH)^-1', 'tM'] with key 2
+Accepted indices: 9909/10000
+Effective shots: 9909
+Key: 2
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 51: ['Z^2HS^2', 'X^2H^2S^2', '(Z^2HS^2)^-1(X^2H^2S^2)^-1', 'tM'] with key 2
+Accepted indices: 9918/10000
+Effective shots: 9918
+Key: 2
+Expectation value: 1.0
+
+Running circuit 52: ['X^2HS^2', 'SHS^2', '(X^2HS^2)^-1(SHS^2)^-1', 'tM'] with key 2
+Accepted indices: 9917/10000
+Effective shots: 9917
+Key: 2
+Expectation value: 1.0
+
+Running circuit 53: ['X^2Z^2SHSH', 'ZS^2HS', '(X^2Z^2SHSH)^-1(ZS^2HS)^-1', 'tM'] with key 2
+Accepted indices: 9920/10000
+Effective shots: 9920
+Key: 2
+Expectation value: 1.0
+
+Running circuit 54: ['X^2S^2H', 'Z^2H', '(X^2S^2H)^-1(Z^2H)^-1', 'tM'] with key 2
+Accepted indices: 9919/10000
+Effective shots: 9919
+Key: 2
+Expectation value: 1.0
+
+Running circuit 55: ['H^2SH', 'XZHS^2', '(H^2SH)^-1(XZHS^2)^-1', 'tM'] with key 2
+Accepted indices: 9919/10000
+Effective shots: 9919
+Key: 2
+Expectation value: 1.0
+
+Running circuit 56: ['X^2H^2S', 'X^2H^3SH', '(X^2H^2S)^-1(X^2H^3SH)^-1', 'tM'] with key 2
+Accepted indices: 9909/10000
+Effective shots: 9909
+Key: 2
+Expectation value: 1.0
+
+Running circuit 57: ['Z^2S^2HS', 'SHS', '(Z^2S^2HS)^-1(SHS)^-1', 'tM'] with key 2
+Accepted indices: 9921/10000
+Effective shots: 9921
+Key: 2
+Expectation value: 1.0
+
+Running circuit 58: ['X^2H^2', 'X', '(X^2H^2)^-1(X)^-1', 'tM'] with key 2
+Accepted indices: 9945/10000
+Effective shots: 9945
+Key: 2
+Expectation value: 1.0
+
+Running circuit 59: ['XZH^3SH', 'Z^2HS', '(XZH^3SH)^-1(Z^2HS)^-1', 'tM'] with key 2
+Accepted indices: 9927/10000
+Effective shots: 9927
+Key: 2
+Expectation value: 1.0
+
+Running circuit 60: ['ZH^2S', 'Z^2XH^3', 'XS', 'Z^2XSHS', '(ZH^2S)^-1(Z^2XH^3)^-1(XS)^-1(Z^2XSHS)^-1', 'tM'] with key 4
+Accepted indices: 9838/10000
+Effective shots: 9838
+Key: 4
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 61: ['X^2Z^2HSHS^2', 'X^2', 'XZS^2', 'X^2Z^2S^2HSH', '(X^2Z^2HSHS^2)^-1(X^2)^-1(XZS^2)^-1(X^2Z^2S^2HSH)^-1', 'tM'] with key 4
+Accepted indices: 9856/10000
+Effective shots: 9856
+Key: 4
+Expectation value: 1.0
+
+Running circuit 62: ['Z^2S^2HS', 'XZS^2HS', 'XZHS', 'S^2HSH', '(Z^2S^2HS)^-1(XZS^2HS)^-1(XZHS)^-1(S^2HSH)^-1', 'tM'] with key 4
+Accepted indices: 9826/10000
+Effective shots: 9826
+Key: 4
+Expectation value: 1.0
+
+Running circuit 63: ['ZHSH', 'X^2Z^2HS^2', 'Z^2XH^2S', 'XS', '(ZHSH)^-1(X^2Z^2HS^2)^-1(Z^2XH^2S)^-1(XS)^-1', 'tM'] with key 4
+Accepted indices: 9849/10000
+Effective shots: 9849
+Key: 4
+Expectation value: 1.0
+
+Running circuit 64: ['ZS^2HSH', 'XH^3', 'X^2H^2S^2', 'X^2Z^2HS', '(ZS^2HSH)^-1(XH^3)^-1(X^2H^2S^2)^-1(X^2Z^2HS)^-1', 'tM'] with key 4
+Accepted indices: 9810/10000
+Effective shots: 9810
+Key: 4
+Expectation value: 1.0
+
+Running circuit 65: ['XZHS', 'Z^2HSH', 'ZH^2SHS', 'Z^2XH^2S', '(XZHS)^-1(Z^2HSH)^-1(ZH^2SHS)^-1(Z^2XH^2S)^-1', 'tM'] with key 4
+Accepted indices: 9827/10000
+Effective shots: 9827
+Key: 4
+Expectation value: 0.9998473631999589
+
+Running circuit 66: ['XH^2SH', 'X^2Z^2H', 'X^2Z^2H^2SH', 'XZSHSH', '(XH^2SH)^-1(X^2Z^2H)^-1(X^2Z^2H^2SH)^-1(XZSHSH)^-1', 'tM'] with key 4
+Accepted indices: 9844/10000
+Effective shots: 9844
+Key: 4
+Expectation value: 1.0
+
+Running circuit 67: ['X^2Z^2H^2SHS', 'Z^2XHSH', 'XZH^2SH', 'X^2Z^2SH', '(X^2Z^2H^2SHS)^-1(Z^2XHSH)^-1(XZH^2SH)^-1(X^2Z^2SH)^-1', 'tM'] with key 4
+Accepted indices: 9826/10000
+Effective shots: 9826
+Key: 4
+Expectation value: 0.9998473476663832
+
+Running circuit 68: ['Z^2XH^2S^2', 'XZH^3SH', 'S^2H', 'ZSHS', '(Z^2XH^2S^2)^-1(XZH^3SH)^-1(S^2H)^-1(ZSHS)^-1', 'tM'] with key 4
+Accepted indices: 9807/10000
+Effective shots: 9807
+Key: 4
+Expectation value: 1.0
+
+Running circuit 69: ['XH^2SHS', 'XZSHSH', 'X^2H^2S', 'ZS^2', '(XH^2SHS)^-1(XZSHSH)^-1(X^2H^2S)^-1(ZS^2)^-1', 'tM'] with key 4
+Accepted indices: 9834/10000
+Effective shots: 9834
+Key: 4
+Expectation value: 1.0
+
+Running circuit 70: ['X^2Z^2SHSH', 'ZS^2HS', 'XZH^2SHS', 'X^2ZHSHS', '(X^2Z^2SHSH)^-1(ZS^2HS)^-1(XZH^2SHS)^-1(X^2ZHSHS)^-1', 'tM'] with key 4
+Accepted indices: 9831/10000
+Effective shots: 9831
+Key: 4
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 71: ['XZHSHS', 'Z^2XH^2S^2', 'X^2HS^2', 'X^2ZH^2', '(XZHSHS)^-1(Z^2XH^2S^2)^-1(X^2HS^2)^-1(X^2ZH^2)^-1', 'tM'] with key 4
+Accepted indices: 9837/10000
+Effective shots: 9837
+Key: 4
+Expectation value: 1.0
+
+Running circuit 72: ['SHS', 'X^2Z^2', 'X^2S^2', 'Z^2XS^2', '(SHS)^-1(X^2Z^2)^-1(X^2S^2)^-1(Z^2XS^2)^-1', 'tM'] with key 4
+Accepted indices: 9831/10000
+Effective shots: 9831
+Key: 4
+Expectation value: 1.0
+
+Running circuit 73: ['X^2H^2S^2', 'XZSH', 'Z^2XHS^2', 'XS^2HSH', '(X^2H^2S^2)^-1(XZSH)^-1(Z^2XHS^2)^-1(XS^2HSH)^-1', 'tM'] with key 4
+Accepted indices: 9831/10000
+Effective shots: 9831
+Key: 4
+Expectation value: 0.9998474253026615
+
+Running circuit 74: ['Z^2S^2HS', 'ZHSH', 'Z^2XSHS^2', 'X^2ZS', '(Z^2S^2HS)^-1(ZHSH)^-1(Z^2XSHS^2)^-1(X^2ZS)^-1', 'tM'] with key 4
+Accepted indices: 9838/10000
+Effective shots: 9838
+Key: 4
+Expectation value: 1.0
+
+Running circuit 75: ['X^2S', 'XZS', 'X^2S^2HSH', 'H^2SH', '(X^2S)^-1(XZS)^-1(X^2S^2HSH)^-1(H^2SH)^-1', 'tM'] with key 4
+Accepted indices: 9815/10000
+Effective shots: 9815
+Key: 4
+Expectation value: 0.9998471765881474
+
+Running circuit 76: ['I', 'X^2ZSHS^2', 'Z^2H^2S^2', 'X^2H^2S', '(I)^-1(X^2ZSHS^2)^-1(Z^2H^2S^2)^-1(X^2H^2S)^-1', 'tM'] with key 4
+Accepted indices: 9799/10000
+Effective shots: 9799
+Key: 4
+Expectation value: 1.0
+
+Running circuit 77: ['X^2ZSH', 'X^2ZSHSH', 'Z^2XH^2SH', 'Z^2XHSH', '(X^2ZSH)^-1(X^2ZSHSH)^-1(Z^2XH^2SH)^-1(Z^2XHSH)^-1', 'tM'] with key 4
+Accepted indices: 9832/10000
+Effective shots: 9832
+Key: 4
+Expectation value: 1.0
+
+Running circuit 78: ['S^2HS', 'H^2SHS', 'S^2', 'X^2H^2S^2', '(S^2HS)^-1(H^2SHS)^-1(S^2)^-1(X^2H^2S^2)^-1', 'tM'] with key 4
+Accepted indices: 9807/10000
+Effective shots: 9807
+Key: 4
+Expectation value: 0.999847051926567
+
+Running circuit 79: ['Z^2H^3SH', 'X^2ZH^2S', 'Z^2XS', 'X^2Z', '(Z^2H^3SH)^-1(X^2ZH^2S)^-1(Z^2XS)^-1(X^2Z)^-1', 'tM'] with key 4
+Accepted indices: 9862/10000
+Effective shots: 9862
+Key: 4
+Expectation value: 1.0
+
+Running circuit 80: ['X^2Z^2SHS', 'X^2Z^2H^2', 'ZHSH', 'X^2Z^2H^3SH', '(X^2Z^2SHS)^-1(X^2Z^2H^2)^-1(ZHSH)^-1(X^2Z^2H^3SH)^-1', 'tM'] with key 4
+Accepted indices: 9828/10000
+Effective shots: 9828
+Key: 4
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 81: ['X^2ZH^2S', 'X^2ZHSHS^2', 'Z^2XS^2HS', 'XZH^2S', '(X^2ZH^2S)^-1(X^2ZHSHS^2)^-1(Z^2XS^2HS)^-1(XZH^2S)^-1', 'tM'] with key 4
+Accepted indices: 9840/10000
+Effective shots: 9840
+Key: 4
+Expectation value: 1.0
+
+Running circuit 82: ['X^2', 'X^2HSHS^2', 'X^2S^2HSH', 'X^2HSH', '(X^2)^-1(X^2HSHS^2)^-1(X^2S^2HSH)^-1(X^2HSH)^-1', 'tM'] with key 4
+Accepted indices: 9859/10000
+Effective shots: 9859
+Key: 4
+Expectation value: 0.9998478586106196
+
+Running circuit 83: ['XH^3S', 'X^2H^3SH', 'Z^2S^2HS', 'SH', '(XH^3S)^-1(X^2H^3SH)^-1(Z^2S^2HS)^-1(SH)^-1', 'tM'] with key 4
+Accepted indices: 9840/10000
+Effective shots: 9840
+Key: 4
+Expectation value: 1.0
+
+Running circuit 84: ['Z^2XH^3', 'ZHSHS', 'ZS^2', 'Z^2XH^3S', '(Z^2XH^3)^-1(ZHSHS)^-1(ZS^2)^-1(Z^2XH^3S)^-1', 'tM'] with key 4
+Accepted indices: 9806/10000
+Effective shots: 9806
+Key: 4
+Expectation value: 1.0
+
+Running circuit 85: ['HSHS^2', 'XZSHS^2', 'X^2Z^2SHS^2', 'HSHS', '(HSHS^2)^-1(XZSHS^2)^-1(X^2Z^2SHS^2)^-1(HSHS)^-1', 'tM'] with key 4
+Accepted indices: 9823/10000
+Effective shots: 9823
+Key: 4
+Expectation value: 1.0
+
+Running circuit 86: ['Z^2H^2SH', 'ZS^2H', 'X^2ZH^2S^2', 'X^2ZHS^2', '(Z^2H^2SH)^-1(ZS^2H)^-1(X^2ZH^2S^2)^-1(X^2ZHS^2)^-1', 'tM'] with key 4
+Accepted indices: 9830/10000
+Effective shots: 9830
+Key: 4
+Expectation value: 1.0
+
+Running circuit 87: ['ZSHS', 'X^2ZHSHS', 'X^2HS', 'XZS^2', '(ZSHS)^-1(X^2ZHSHS)^-1(X^2HS)^-1(XZS^2)^-1', 'tM'] with key 4
+Accepted indices: 9847/10000
+Effective shots: 9847
+Key: 4
+Expectation value: 0.9998476732089434
+
+Running circuit 88: ['X^2ZSHS^2', 'X^2ZH', 'Z^2HSHS^2', 'Z^2XHS', '(X^2ZSHS^2)^-1(X^2ZH)^-1(Z^2HSHS^2)^-1(Z^2XHS)^-1', 'tM'] with key 4
+Accepted indices: 9832/10000
+Effective shots: 9832
+Key: 4
+Expectation value: 1.0
+
+Running circuit 89: ['X^2S^2HSH', 'X^2H^2SH', 'Z^2SH', 'HSH', '(X^2S^2HSH)^-1(X^2H^2SH)^-1(Z^2SH)^-1(HSH)^-1', 'tM'] with key 4
+Accepted indices: 9824/10000
+Effective shots: 9824
+Key: 4
+Expectation value: 1.0
+
+Running circuit 90: ['X^2ZHSHS^2', 'HSHS^2', 'X^2Z^2HSH', 'X^2ZS^2HS', 'Z^2XH^2SHS', 'SHS', '(X^2ZHSHS^2)^-1(HSHS^2)^-1(X^2Z^2HSH)^-1(X^2ZS^2HS)^-1(Z^2XH^2SHS)^-1(SHS)^-1', 'tM'] with key 6
+Accepted indices: 9752/10000
+Effective shots: 9752
+Key: 6
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 91: ['XSHS^2', 'Z^2XH^2S', 'XZH^2S^2', 'XH^2S', 'X^2Z^2S', 'ZS^2HSH', '(XSHS^2)^-1(Z^2XH^2S)^-1(XZH^2S^2)^-1(XH^2S)^-1(X^2Z^2S)^-1(ZS^2HSH)^-1', 'tM'] with key 6
+Accepted indices: 9709/10000
+Effective shots: 9709
+Key: 6
+Expectation value: 1.0
+
+Running circuit 92: ['ZHS^2', 'XZHS^2', 'X^2ZSHSH', 'XH^2SHS', 'XS^2', 'Z^2XSHS^2', '(ZHS^2)^-1(XZHS^2)^-1(X^2ZSHSH)^-1(XH^2SHS)^-1(XS^2)^-1(Z^2XSHS^2)^-1', 'tM'] with key 6
+Accepted indices: 9737/10000
+Effective shots: 9737
+Key: 6
+Expectation value: 0.9998459524000022
+
+Running circuit 93: ['H^3S', 'XHSHS', 'Z^2XSHS^2', 'S^2H', 'H^3SH', 'XZH^3', '(H^3S)^-1(XHSHS)^-1(Z^2XSHS^2)^-1(S^2H)^-1(H^3SH)^-1(XZH^3)^-1', 'tM'] with key 6
+Accepted indices: 9763/10000
+Effective shots: 9763
+Key: 6
+Expectation value: 0.9998463626360982
+
+Running circuit 94: ['H^2', 'X^2Z^2S^2HS', 'Z^2H^2S^2', 'X^2Z^2HSHS^2', 'H^3S', 'XS^2HS', '(H^2)^-1(X^2Z^2S^2HS)^-1(Z^2H^2S^2)^-1(X^2Z^2HSHS^2)^-1(H^3S)^-1(XS^2HS)^-1', 'tM'] with key 6
+Accepted indices: 9738/10000
+Effective shots: 9738
+Key: 6
+Expectation value: 1.0
+
+Running circuit 95: ['X^2H^3S', 'Z^2XH^2S^2', 'X^2H^2', 'XHS', 'XS^2HS', 'XHSHS', '(X^2H^3S)^-1(Z^2XH^2S^2)^-1(X^2H^2)^-1(XHS)^-1(XS^2HS)^-1(XHSHS)^-1', 'tM'] with key 6
+Accepted indices: 9732/10000
+Effective shots: 9732
+Key: 6
+Expectation value: 1.0
+
+Running circuit 96: ['XH^3', 'Z^2XH^2', 'X^2Z^2H^2SH', 'Z^2XHSH', 'S^2', 'ZH^2S', '(XH^3)^-1(Z^2XH^2)^-1(X^2Z^2H^2SH)^-1(Z^2XHSH)^-1(S^2)^-1(ZH^2S)^-1', 'tM'] with key 6
+Accepted indices: 9746/10000
+Effective shots: 9746
+Key: 6
+Expectation value: 1.0
+
+Running circuit 97: ['Z^2XH^3', 'X^2Z^2H^3S', 'X^2Z^2H^2', 'X^2Z^2H^3S', 'Z^2H^3', 'X^2HS^2', '(Z^2XH^3)^-1(X^2Z^2H^3S)^-1(X^2Z^2H^2)^-1(X^2Z^2H^3S)^-1(Z^2H^3)^-1(X^2HS^2)^-1', 'tM'] with key 6
+Accepted indices: 9755/10000
+Effective shots: 9755
+Key: 6
+Expectation value: 1.0
+
+Running circuit 98: ['XZSHS', 'Z^2H^2', 'ZS^2HSH', 'X^2ZS^2', 'X^2ZS^2H', 'ZS^2H', '(XZSHS)^-1(Z^2H^2)^-1(ZS^2HSH)^-1(X^2ZS^2)^-1(X^2ZS^2H)^-1(ZS^2H)^-1', 'tM'] with key 6
+Accepted indices: 9746/10000
+Effective shots: 9746
+Key: 6
+Expectation value: 1.0
+
+Running circuit 99: ['X^2Z', 'X^2ZH^2SH', 'Z^2', 'Z^2S^2H', 'Z^2XS^2H', 'XS', '(X^2Z)^-1(X^2ZH^2SH)^-1(Z^2)^-1(Z^2S^2H)^-1(Z^2XS^2H)^-1(XS)^-1', 'tM'] with key 6
+Accepted indices: 9769/10000
+Effective shots: 9769
+Key: 6
+Expectation value: 1.0
+
+Running circuit 100: ['X^2S', 'S^2', 'XZ', 'X^2Z^2S', 'XS', 'XS^2HS', '(X^2S)^-1(S^2)^-1(XZ)^-1(X^2Z^2S)^-1(XS)^-1(XS^2HS)^-1', 'tM'] with key 6
+Accepted indices: 9729/10000
+Effective shots: 9729
+Key: 6
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 101: ['XH^2SH', 'X^2ZSH', 'X^2S', 'X^2', 'XZH^2S^2', 'ZS^2', '(XH^2SH)^-1(X^2ZSH)^-1(X^2S)^-1(X^2)^-1(XZH^2S^2)^-1(ZS^2)^-1', 'tM'] with key 6
+Accepted indices: 9795/10000
+Effective shots: 9795
+Key: 6
+Expectation value: 1.0
+
+Running circuit 102: ['ZH^3SH', 'XH^2SHS', 'XZS', 'XH', 'X^2HS^2', 'Z^2S^2HSH', '(ZH^3SH)^-1(XH^2SHS)^-1(XZS)^-1(XH)^-1(X^2HS^2)^-1(Z^2S^2HSH)^-1', 'tM'] with key 6
+Accepted indices: 9766/10000
+Effective shots: 9766
+Key: 6
+Expectation value: 1.0
+
+Running circuit 103: ['ZSHS^2', 'ZH^2S^2', 'ZH^2SHS', 'XZH^3', 'XZS^2H', 'X^2ZS^2HS', '(ZSHS^2)^-1(ZH^2S^2)^-1(ZH^2SHS)^-1(XZH^3)^-1(XZS^2H)^-1(X^2ZS^2HS)^-1', 'tM'] with key 6
+Accepted indices: 9727/10000
+Effective shots: 9727
+Key: 6
+Expectation value: 1.0
+
+Running circuit 104: ['SH', 'XZ', 'XZHS^2', 'X^2Z', 'ZS', 'Z', '(SH)^-1(XZ)^-1(XZHS^2)^-1(X^2Z)^-1(ZS)^-1(Z)^-1', 'tM'] with key 6
+Accepted indices: 9804/10000
+Effective shots: 9804
+Key: 6
+Expectation value: 1.0
+
+Running circuit 105: ['Z^2XH^3SH', 'X^2Z^2H', 'ZHS^2', 'X^2S', 'Z^2XHS', 'X^2ZS^2', '(Z^2XH^3SH)^-1(X^2Z^2H)^-1(ZHS^2)^-1(X^2S)^-1(Z^2XHS)^-1(X^2ZS^2)^-1', 'tM'] with key 6
+Accepted indices: 9753/10000
+Effective shots: 9753
+Key: 6
+Expectation value: 1.0
+
+Running circuit 106: ['Z^2H^2S', 'XS', 'H^3', 'XS^2', 'XSHS^2', 'Z^2XSHS', '(Z^2H^2S)^-1(XS)^-1(H^3)^-1(XS^2)^-1(XSHS^2)^-1(Z^2XSHS)^-1', 'tM'] with key 6
+Accepted indices: 9732/10000
+Effective shots: 9732
+Key: 6
+Expectation value: 1.0
+
+Running circuit 107: ['XZ', 'Z^2SHS^2', 'Z^2XSHS^2', 'XZH^2SH', 'HSHS', 'XZH^2S^2', '(XZ)^-1(Z^2SHS^2)^-1(Z^2XSHS^2)^-1(XZH^2SH)^-1(HSHS)^-1(XZH^2S^2)^-1', 'tM'] with key 6
+Accepted indices: 9765/10000
+Effective shots: 9765
+Key: 6
+Expectation value: 1.0
+
+Running circuit 108: ['XZS^2HS', 'X^2HS^2', 'X^2Z^2H', 'Z^2HSHS^2', 'ZS', 'Z^2S^2HSH', '(XZS^2HS)^-1(X^2HS^2)^-1(X^2Z^2H)^-1(Z^2HSHS^2)^-1(ZS)^-1(Z^2S^2HSH)^-1', 'tM'] with key 6
+Accepted indices: 9738/10000
+Effective shots: 9738
+Key: 6
+Expectation value: 1.0
+
+Running circuit 109: ['ZHSHS', 'XZH^3S', 'X^2H^3', 'XZSHS^2', 'XZH^3', 'X^2HS', '(ZHSHS)^-1(XZH^3S)^-1(X^2H^3)^-1(XZSHS^2)^-1(XZH^3)^-1(X^2HS)^-1', 'tM'] with key 6
+Accepted indices: 9747/10000
+Effective shots: 9747
+Key: 6
+Expectation value: 0.9998461104421152
+
+Running circuit 110: ['X^2Z^2H', 'X^2Z^2S^2H', 'X^2', 'H^2S', 'XZH^3S', 'X^2SH', '(X^2Z^2H)^-1(X^2Z^2S^2H)^-1(X^2)^-1(H^2S)^-1(XZH^3S)^-1(X^2SH)^-1', 'tM'] with key 6
+Accepted indices: 9779/10000
+Effective shots: 9779
+Key: 6
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 111: ['ZSHS', 'ZH^2S', 'ZH', 'X^2HSH', 'XZH^2S', 'X^2S^2H', '(ZSHS)^-1(ZH^2S)^-1(ZH)^-1(X^2HSH)^-1(XZH^2S)^-1(X^2S^2H)^-1', 'tM'] with key 6
+Accepted indices: 9740/10000
+Effective shots: 9740
+Key: 6
+Expectation value: 1.0
+
+Running circuit 112: ['Z^2XS^2H', 'XZH^2SHS', 'Z^2XH^2S^2', 'Z^2XSHS', 'Z^2XH^2S', 'X^2Z^2H^2SHS', '(Z^2XS^2H)^-1(XZH^2SHS)^-1(Z^2XH^2S^2)^-1(Z^2XSHS)^-1(Z^2XH^2S)^-1(X^2Z^2H^2SHS)^-1', 'tM'] with key 6
+Accepted indices: 9725/10000
+Effective shots: 9725
+Key: 6
+Expectation value: 0.9996915167095115
+
+Running circuit 113: ['X^2ZHSHS', 'X^2H^3S', 'SHS^2', 'S^2H', 'X^2SHS^2', 'X^2ZSHS', '(X^2ZHSHS)^-1(X^2H^3S)^-1(SHS^2)^-1(S^2H)^-1(X^2SHS^2)^-1(X^2ZSHS)^-1', 'tM'] with key 6
+Accepted indices: 9763/10000
+Effective shots: 9763
+Key: 6
+Expectation value: 1.0
+
+Running circuit 114: ['Z^2XS^2HSH', 'X^2ZSHS^2', 'X^2SHS^2', 'X^2ZSHSH', 'X^2Z^2', 'Z', '(Z^2XS^2HSH)^-1(X^2ZSHS^2)^-1(X^2SHS^2)^-1(X^2ZSHSH)^-1(X^2Z^2)^-1(Z)^-1', 'tM'] with key 6
+Accepted indices: 9776/10000
+Effective shots: 9776
+Key: 6
+Expectation value: 1.0
+
+Running circuit 115: ['X^2ZH^2SH', 'XZH^3', 'H^2SH', 'XHSH', 'XSHS', 'X^2Z^2H^3', '(X^2ZH^2SH)^-1(XZH^3)^-1(H^2SH)^-1(XHSH)^-1(XSHS)^-1(X^2Z^2H^3)^-1', 'tM'] with key 6
+Accepted indices: 9757/10000
+Effective shots: 9757
+Key: 6
+Expectation value: 1.0
+
+Running circuit 116: ['H^2S', 'Z^2XHSHS^2', 'Z^2XH^2', 'X^2HSHS^2', 'ZSHSH', 'Z^2XH^2S', '(H^2S)^-1(Z^2XHSHS^2)^-1(Z^2XH^2)^-1(X^2HSHS^2)^-1(ZSHSH)^-1(Z^2XH^2S)^-1', 'tM'] with key 6
+Accepted indices: 9749/10000
+Effective shots: 9749
+Key: 6
+Expectation value: 0.9998461420116321
+
+Running circuit 117: ['X^2Z^2SHSH', 'Z^2XS^2', 'SHS', 'ZHSHS^2', 'Z^2', 'X^2S^2', '(X^2Z^2SHSH)^-1(Z^2XS^2)^-1(SHS)^-1(ZHSHS^2)^-1(Z^2)^-1(X^2S^2)^-1', 'tM'] with key 6
+Accepted indices: 9759/10000
+Effective shots: 9759
+Key: 6
+Expectation value: 1.0
+
+Running circuit 118: ['XZHS', 'Z^2H^3', 'Z^2XHSH', 'Z^2H^2', 'ZH^2S^2', 'XZHS^2', '(XZHS)^-1(Z^2H^3)^-1(Z^2XHSH)^-1(Z^2H^2)^-1(ZH^2S^2)^-1(XZHS^2)^-1', 'tM'] with key 6
+Accepted indices: 9734/10000
+Effective shots: 9734
+Key: 6
+Expectation value: 1.0
+
+Running circuit 119: ['X^2SHS^2', 'XH^3', 'XHSHS^2', 'ZS^2H', 'Z^2XS^2', 'X^2Z^2H^3S', '(X^2SHS^2)^-1(XH^3)^-1(XHSHS^2)^-1(ZS^2H)^-1(Z^2XS^2)^-1(X^2Z^2H^3S)^-1', 'tM'] with key 6
+Accepted indices: 9740/10000
+Effective shots: 9740
+Key: 6
+Expectation value: 1.0
+
+Running circuit 120: ['XZHS^2', 'X^2Z^2H^3', 'XZSH', 'ZH^3', 'ZSHS', 'Z^2H^3S', 'X^2S^2HS', 'XSH', '(XZHS^2)^-1(X^2Z^2H^3)^-1(XZSH)^-1(ZH^3)^-1(ZSHS)^-1(Z^2H^3S)^-1(X^2S^2HS)^-1(XSH)^-1', 'tM'] with key 8
+Accepted indices: 9619/10000
+Effective shots: 9619
+Key: 8
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 121: ['XZS^2HSH', 'X^2Z^2H^3', 'X^2ZSHSH', 'X^2H', 'XSHS', 'X^2', 'ZHSHS', 'XH^3', '(XZS^2HSH)^-1(X^2Z^2H^3)^-1(X^2ZSHSH)^-1(X^2H)^-1(XSHS)^-1(X^2)^-1(ZHSHS)^-1(XH^3)^-1', 'tM'] with key 8
+Accepted indices: 9691/10000
+Effective shots: 9691
+Key: 8
+Expectation value: 0.9998452212054161
+
+Running circuit 122: ['X^2ZH', 'ZH^3', 'HSHS^2', 'SHS^2', 'XZH^3S', 'X^2Z^2HSH', 'HS', 'XZS', '(X^2ZH)^-1(ZH^3)^-1(HSHS^2)^-1(SHS^2)^-1(XZH^3S)^-1(X^2Z^2HSH)^-1(HS)^-1(XZS)^-1', 'tM'] with key 8
+Accepted indices: 9669/10000
+Effective shots: 9669
+Key: 8
+Expectation value: 1.0
+
+Running circuit 123: ['X^2Z^2H^2SHS', 'Z^2XHSHS^2', 'X^2Z^2HSHS', 'Z^2XHSHS', 'X^2Z^2HSHS', 'XH^2S^2', 'X^2Z^2SHS', 'Z^2SHSH', '(X^2Z^2H^2SHS)^-1(Z^2XHSHS^2)^-1(X^2Z^2HSHS)^-1(Z^2XHSHS)^-1(X^2Z^2HSHS)^-1(XH^2S^2)^-1(X^2Z^2SHS)^-1(Z^2SHSH)^-1', 'tM'] with key 8
+Accepted indices: 9640/10000
+Effective shots: 9640
+Key: 8
+Expectation value: 1.0
+
+Running circuit 124: ['XZH^2SHS', 'Z^2XS^2HSH', 'ZH^2SH', 'X^2SHS', 'X', 'ZH^2SHS', 'ZSHS^2', 'ZS^2HS', '(XZH^2SHS)^-1(Z^2XS^2HSH)^-1(ZH^2SH)^-1(X^2SHS)^-1(X)^-1(ZH^2SHS)^-1(ZSHS^2)^-1(ZS^2HS)^-1', 'tM'] with key 8
+Accepted indices: 9701/10000
+Effective shots: 9701
+Key: 8
+Expectation value: 1.0
+
+Running circuit 125: ['XHSHS', 'X^2S', 'ZSH', 'Z^2SHS^2', 'XS^2H', 'Z^2H', 'ZH^2SHS', 'Z^2XHSHS', '(XHSHS)^-1(X^2S)^-1(ZSH)^-1(Z^2SHS^2)^-1(XS^2H)^-1(Z^2H)^-1(ZH^2SHS)^-1(Z^2XHSHS)^-1', 'tM'] with key 8
+Accepted indices: 9673/10000
+Effective shots: 9673
+Key: 8
+Expectation value: 1.0
+
+Running circuit 126: ['XZH^2SHS', 'ZHSHS', 'XZHSH', 'X^2S', 'XS^2', 'ZH^2SH', 'X^2ZH^2S^2', 'XZH^2S^2', '(XZH^2SHS)^-1(ZHSHS)^-1(XZHSH)^-1(X^2S)^-1(XS^2)^-1(ZH^2SH)^-1(X^2ZH^2S^2)^-1(XZH^2S^2)^-1', 'tM'] with key 8
+Accepted indices: 9670/10000
+Effective shots: 9670
+Key: 8
+Expectation value: 0.9998448850864267
+
+Running circuit 127: ['Z^2X', 'XZSHS', 'X^2Z^2H', 'X^2ZH', 'X^2Z^2S^2HSH', 'S', 'X^2ZS^2HSH', 'X^2Z^2SHSH', '(Z^2X)^-1(XZSHS)^-1(X^2Z^2H)^-1(X^2ZH)^-1(X^2Z^2S^2HSH)^-1(S)^-1(X^2ZS^2HSH)^-1(X^2Z^2SHSH)^-1', 'tM'] with key 8
+Accepted indices: 9663/10000
+Effective shots: 9663
+Key: 8
+Expectation value: 1.0
+
+Running circuit 128: ['X^2S^2H', 'X^2HS^2', 'XZHS', 'X^2Z^2', 'Z^2XS^2HSH', 'Z^2S^2H', 'Z^2XH^2SHS', 'Z^2HS', '(X^2S^2H)^-1(X^2HS^2)^-1(XZHS)^-1(X^2Z^2)^-1(Z^2XS^2HSH)^-1(Z^2S^2H)^-1(Z^2XH^2SHS)^-1(Z^2HS)^-1', 'tM'] with key 8
+Accepted indices: 9673/10000
+Effective shots: 9673
+Key: 8
+Expectation value: 1.0
+
+Running circuit 129: ['Z^2S^2', 'XZH^3SH', 'ZS^2H', 'XSHSH', 'X^2Z^2SHS', 'Z^2XSHSH', 'Z^2XHSH', 'H', '(Z^2S^2)^-1(XZH^3SH)^-1(ZS^2H)^-1(XSHSH)^-1(X^2Z^2SHS)^-1(Z^2XSHSH)^-1(Z^2XHSH)^-1(H)^-1', 'tM'] with key 8
+Accepted indices: 9648/10000
+Effective shots: 9648
+Key: 8
+Expectation value: 0.999844531392434
+
+Running circuit 130: ['XZS^2HSH', 'Z^2HSHS', 'XH^2S^2', 'X^2Z^2S^2HS', 'SHSH', 'X^2Z^2H^2SH', 'X^2Z^2S', 'X^2Z^2S', '(XZS^2HSH)^-1(Z^2HSHS)^-1(XH^2S^2)^-1(X^2Z^2S^2HS)^-1(SHSH)^-1(X^2Z^2H^2SH)^-1(X^2Z^2S)^-1(X^2Z^2S)^-1', 'tM'] with key 8
+Accepted indices: 9679/10000
+Effective shots: 9679
+Key: 8
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 131: ['Z^2S^2HSH', 'ZH^3SH', 'XZH^3SH', 'Z^2S^2', 'Z^2XS^2H', 'X^2ZSHS^2', 'Z^2XH^2', 'ZSH', '(Z^2S^2HSH)^-1(ZH^3SH)^-1(XZH^3SH)^-1(Z^2S^2)^-1(Z^2XS^2H)^-1(X^2ZSHS^2)^-1(Z^2XH^2)^-1(ZSH)^-1', 'tM'] with key 8
+Accepted indices: 9699/10000
+Effective shots: 9699
+Key: 8
+Expectation value: 1.0
+
+Running circuit 132: ['X^2H^2S', 'ZHSH', 'XZH', 'XSHS^2', 'H', 'X^2S^2HS', 'ZH^2SHS', 'Z^2XHSHS^2', '(X^2H^2S)^-1(ZHSH)^-1(XZH)^-1(XSHS^2)^-1(H)^-1(X^2S^2HS)^-1(ZH^2SHS)^-1(Z^2XHSHS^2)^-1', 'tM'] with key 8
+Accepted indices: 9663/10000
+Effective shots: 9663
+Key: 8
+Expectation value: 1.0
+
+Running circuit 133: ['X^2Z^2H', 'ZH^3SH', 'H^3', 'XH^2S', 'Z^2HS', 'XSHS', 'X^2S', 'ZS^2HSH', '(X^2Z^2H)^-1(ZH^3SH)^-1(H^3)^-1(XH^2S)^-1(Z^2HS)^-1(XSHS)^-1(X^2S)^-1(ZS^2HSH)^-1', 'tM'] with key 8
+Accepted indices: 9645/10000
+Effective shots: 9645
+Key: 8
+Expectation value: 1.0
+
+Running circuit 134: ['XZS^2HSH', 'X^2ZH^3', 'XZ', 'ZS^2', 'XH^2', 'XZH^2S^2', 'X^2ZS', 'ZS', '(XZS^2HSH)^-1(X^2ZH^3)^-1(XZ)^-1(ZS^2)^-1(XH^2)^-1(XZH^2S^2)^-1(X^2ZS)^-1(ZS)^-1', 'tM'] with key 8
+Accepted indices: 9679/10000
+Effective shots: 9679
+Key: 8
+Expectation value: 1.0
+
+Running circuit 135: ['X^2HSH', 'Z^2XHS^2', 'Z^2H^3SH', 'XZHSH', 'X^2Z^2HS', 'XZH^2SHS', 'XZH^2', 'XZS^2', '(X^2HSH)^-1(Z^2XHS^2)^-1(Z^2H^3SH)^-1(XZHSH)^-1(X^2Z^2HS)^-1(XZH^2SHS)^-1(XZH^2)^-1(XZS^2)^-1', 'tM'] with key 8
+Accepted indices: 9656/10000
+Effective shots: 9656
+Key: 8
+Expectation value: 1.0
+
+Running circuit 136: ['X^2ZS', 'XH^3SH', 'X^2Z^2H^2S', 'Z', 'Z^2S^2HSH', 'Z^2XH^2S', 'ZH^2SHS', 'XZH^2S^2', '(X^2ZS)^-1(XH^3SH)^-1(X^2Z^2H^2S)^-1(Z)^-1(Z^2S^2HSH)^-1(Z^2XH^2S)^-1(ZH^2SHS)^-1(XZH^2S^2)^-1', 'tM'] with key 8
+Accepted indices: 9662/10000
+Effective shots: 9662
+Key: 8
+Expectation value: 1.0
+
+Running circuit 137: ['Z^2SH', 'Z^2XH^2S^2', 'X^2Z^2H^3S', 'XHSHS^2', 'XZS^2HS', 'XHSHS', 'Z^2SH', 'HSH', '(Z^2SH)^-1(Z^2XH^2S^2)^-1(X^2Z^2H^3S)^-1(XHSHS^2)^-1(XZS^2HS)^-1(XHSHS)^-1(Z^2SH)^-1(HSH)^-1', 'tM'] with key 8
+Accepted indices: 9669/10000
+Effective shots: 9669
+Key: 8
+Expectation value: 1.0
+
+Running circuit 138: ['XH^2S', 'X^2SHS^2', 'Z^2SHS', 'ZHS', 'Z^2XH^2S^2', 'X^2ZH^2SH', 'XH^3', 'X^2Z^2H^3SH', '(XH^2S)^-1(X^2SHS^2)^-1(Z^2SHS)^-1(ZHS)^-1(Z^2XH^2S^2)^-1(X^2ZH^2SH)^-1(XH^3)^-1(X^2Z^2H^3SH)^-1', 'tM'] with key 8
+Accepted indices: 9642/10000
+Effective shots: 9642
+Key: 8
+Expectation value: 1.0
+
+Running circuit 139: ['H', 'X^2SHS^2', 'ZSH', 'XS^2HSH', 'X^2ZH^2SH', 'X^2Z^2SH', 'X^2HS', 'Z^2HSHS', '(H)^-1(X^2SHS^2)^-1(ZSH)^-1(XS^2HSH)^-1(X^2ZH^2SH)^-1(X^2Z^2SH)^-1(X^2HS)^-1(Z^2HSHS)^-1', 'tM'] with key 8
+Accepted indices: 9665/10000
+Effective shots: 9665
+Key: 8
+Expectation value: 1.0
+
+Running circuit 140: ['XH^2S^2', 'Z^2XSHSH', 'XZSHSH', 'SHSH', 'XZHSHS^2', 'XH', 'Z^2XHSHS^2', 'X^2ZH^3SH', '(XH^2S^2)^-1(Z^2XSHSH)^-1(XZSHSH)^-1(SHSH)^-1(XZHSHS^2)^-1(XH)^-1(Z^2XHSHS^2)^-1(X^2ZH^3SH)^-1', 'tM'] with key 8
+Accepted indices: 9658/10000
+Effective shots: 9658
+Key: 8
+Expectation value: 0.9998446923621811
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 141: ['Z^2XH^2S', 'X^2HSHS^2', 'XH^3S', 'ZH^2SH', 'X^2H^2SHS', 'Z^2SHS', 'X', 'XZH^2S^2', '(Z^2XH^2S)^-1(X^2HSHS^2)^-1(XH^3S)^-1(ZH^2SH)^-1(X^2H^2SHS)^-1(Z^2SHS)^-1(X)^-1(XZH^2S^2)^-1', 'tM'] with key 8
+Accepted indices: 9653/10000
+Effective shots: 9653
+Key: 8
+Expectation value: 1.0
+
+Running circuit 142: ['X^2ZH^2', 'XZH^3S', 'Z^2XS^2HSH', 'XSHS', 'ZH^3', 'Z^2XH^2SHS', 'X^2Z^2H^2', 'XHSHS^2', '(X^2ZH^2)^-1(XZH^3S)^-1(Z^2XS^2HSH)^-1(XSHS)^-1(ZH^3)^-1(Z^2XH^2SHS)^-1(X^2Z^2H^2)^-1(XHSHS^2)^-1', 'tM'] with key 8
+Accepted indices: 9670/10000
+Effective shots: 9670
+Key: 8
+Expectation value: 0.9998448850864267
+
+Running circuit 143: ['Z^2S^2HSH', 'H^2SH', 'X', 'ZH^3SH', 'XZS^2HS', 'X^2ZH^2SHS', 'X^2ZS', 'X^2Z^2H^3S', '(Z^2S^2HSH)^-1(H^2SH)^-1(X)^-1(ZH^3SH)^-1(XZS^2HS)^-1(X^2ZH^2SHS)^-1(X^2ZS)^-1(X^2Z^2H^3S)^-1', 'tM'] with key 8
+Accepted indices: 9669/10000
+Effective shots: 9669
+Key: 8
+Expectation value: 1.0
+
+Running circuit 144: ['X^2Z^2', 'XH', 'X^2', 'X^2S^2H', 'Z^2SHS^2', 'ZH^2SH', 'ZH^2SHS', 'X^2ZS', '(X^2Z^2)^-1(XH)^-1(X^2)^-1(X^2S^2H)^-1(Z^2SHS^2)^-1(ZH^2SH)^-1(ZH^2SHS)^-1(X^2ZS)^-1', 'tM'] with key 8
+Accepted indices: 9700/10000
+Effective shots: 9700
+Key: 8
+Expectation value: 0.9998453648109045
+
+Running circuit 145: ['X^2ZHSHS', 'X^2ZHSH', 'XSH', 'XH^3S', 'X^2HSHS', 'Z^2XSHS^2', 'X', 'Z^2XSHS', '(X^2ZHSHS)^-1(X^2ZHSH)^-1(XSH)^-1(XH^3S)^-1(X^2HSHS)^-1(Z^2XSHS^2)^-1(X)^-1(Z^2XSHS)^-1', 'tM'] with key 8
+Accepted indices: 9674/10000
+Effective shots: 9674
+Key: 8
+Expectation value: 0.9998449492215947
+
+Running circuit 146: ['X^2Z^2', 'HSH', 'Z^2XSHS', 'Z^2XH', 'XH^3', 'HSHS^2', 'ZHSH', 'Z^2XH^2SH', '(X^2Z^2)^-1(HSH)^-1(Z^2XSHS)^-1(Z^2XH)^-1(XH^3)^-1(HSHS^2)^-1(ZHSH)^-1(Z^2XH^2SH)^-1', 'tM'] with key 8
+Accepted indices: 9702/10000
+Effective shots: 9702
+Key: 8
+Expectation value: 1.0
+
+Running circuit 147: ['Z^2XHSHS^2', 'ZS^2H', 'X^2ZSHS', 'ZSHS', 'H^2SH', 'XZSHS', 'SHSH', 'Z^2HSH', '(Z^2XHSHS^2)^-1(ZS^2H)^-1(X^2ZSHS)^-1(ZSHS)^-1(H^2SH)^-1(XZSHS)^-1(SHSH)^-1(Z^2HSH)^-1', 'tM'] with key 8
+Accepted indices: 9627/10000
+Effective shots: 9627
+Key: 8
+Expectation value: 1.0
+
+Running circuit 148: ['XS^2HS', 'ZH^2S', 'X^2H', 'X^2ZHS^2', 'XSHS^2', 'X^2S^2HSH', 'XH^2', 'ZHSH', '(XS^2HS)^-1(ZH^2S)^-1(X^2H)^-1(X^2ZHS^2)^-1(XSHS^2)^-1(X^2S^2HSH)^-1(XH^2)^-1(ZHSH)^-1', 'tM'] with key 8
+Accepted indices: 9660/10000
+Effective shots: 9660
+Key: 8
+Expectation value: 0.9998447245161391
+
+Running circuit 149: ['Z^2XHS^2', 'ZH^2', 'XZSH', 'XHS^2', 'ZS^2H', 'X^2SHS^2', 'Z^2S^2HSH', 'X^2Z^2H^2S^2', '(Z^2XHS^2)^-1(ZH^2)^-1(XZSH)^-1(XHS^2)^-1(ZS^2H)^-1(X^2SHS^2)^-1(Z^2S^2HSH)^-1(X^2Z^2H^2S^2)^-1', 'tM'] with key 8
+Accepted indices: 9675/10000
+Effective shots: 9675
+Key: 8
+Expectation value: 0.9998449652471008
+
+Running circuit 150: ['X^2H^2S^2', 'Z^2XH', 'XZSH', 'Z^2HS^2', 'Z^2XH^3S', 'ZS^2', 'ZH', 'Z^2H^3S', 'X^2Z^2SH', 'X^2SHSH', '(X^2H^2S^2)^-1(Z^2XH)^-1(XZSH)^-1(Z^2HS^2)^-1(Z^2XH^3S)^-1(ZS^2)^-1(ZH)^-1(Z^2H^3S)^-1(X^2Z^2SH)^-1(X^2SHSH)^-1', 'tM'] with key 10
+Accepted indices: 9571/10000
+Effective shots: 9571
+Key: 10
+Expectation value: 0.9998432806589697
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 151: ['Z^2H', 'X^2H^3S', 'XH^3S', 'Z^2HSH', 'X^2Z^2S^2HSH', 'XZH^3', 'XH^2SH', 'XH^3', 'Z^2SH', 'XZH^2SHS', '(Z^2H)^-1(X^2H^3S)^-1(XH^3S)^-1(Z^2HSH)^-1(X^2Z^2S^2HSH)^-1(XZH^3)^-1(XH^2SH)^-1(XH^3)^-1(Z^2SH)^-1(XZH^2SHS)^-1', 'tM'] with key 10
+Accepted indices: 9608/10000
+Effective shots: 9608
+Key: 10
+Expectation value: 1.0
+
+Running circuit 152: ['X^2ZH^2S^2', 'X^2ZHS', 'X^2ZH^2S', 'ZHSH', 'XHS', 'X^2ZH^3S', 'XZSHS', 'X^2ZHS^2', 'H^3S', 'X^2HS^2', '(X^2ZH^2S^2)^-1(X^2ZHS)^-1(X^2ZH^2S)^-1(ZHSH)^-1(XHS)^-1(X^2ZH^3S)^-1(XZSHS)^-1(X^2ZHS^2)^-1(H^3S)^-1(X^2HS^2)^-1', 'tM'] with key 10
+Accepted indices: 9558/10000
+Effective shots: 9558
+Key: 10
+Expectation value: 1.0
+
+Running circuit 153: ['X^2ZHSHS^2', 'XZHSHS', 'X^2Z', 'XHSHS^2', 'XZS^2HS', 'XH^2SH', 'XZ', 'X^2ZS^2HS', 'ZSHS', 'X^2H^2S^2', '(X^2ZHSHS^2)^-1(XZHSHS)^-1(X^2Z)^-1(XHSHS^2)^-1(XZS^2HS)^-1(XH^2SH)^-1(XZ)^-1(X^2ZS^2HS)^-1(ZSHS)^-1(X^2H^2S^2)^-1', 'tM'] with key 10
+Accepted indices: 9600/10000
+Effective shots: 9600
+Key: 10
+Expectation value: 1.0
+
+Running circuit 154: ['XSH', 'Z^2XHSHS', 'ZSHSH', 'Z', 'H^2', 'XZH^2', 'Z^2SH', 'XSHS^2', 'ZHS^2', 'X^2H^2SH', '(XSH)^-1(Z^2XHSHS)^-1(ZSHSH)^-1(Z)^-1(H^2)^-1(XZH^2)^-1(Z^2SH)^-1(XSHS^2)^-1(ZHS^2)^-1(X^2H^2SH)^-1', 'tM'] with key 10
+Accepted indices: 9615/10000
+Effective shots: 9615
+Key: 10
+Expectation value: 1.0
+
+Running circuit 155: ['ZS^2', 'S^2H', 'Z^2HSHS', 'XSHS^2', 'X', 'X^2Z^2S^2HS', 'X^2Z^2S^2', 'Z^2XHSH', 'ZHS^2', 'XZH^2S^2', '(ZS^2)^-1(S^2H)^-1(Z^2HSHS)^-1(XSHS^2)^-1(X)^-1(X^2Z^2S^2HS)^-1(X^2Z^2S^2)^-1(Z^2XHSH)^-1(ZHS^2)^-1(XZH^2S^2)^-1', 'tM'] with key 10
+Accepted indices: 9602/10000
+Effective shots: 9602
+Key: 10
+Expectation value: 1.0
+
+Running circuit 156: ['Z^2HSHS', 'XZH^2SHS', 'XZHS', 'Z^2SH', 'X^2SHS', 'X^2Z^2H^2S^2', 'ZH', 'X^2ZSH', 'XZH^3SH', 'ZSHS', '(Z^2HSHS)^-1(XZH^2SHS)^-1(XZHS)^-1(Z^2SH)^-1(X^2SHS)^-1(X^2Z^2H^2S^2)^-1(ZH)^-1(X^2ZSH)^-1(XZH^3SH)^-1(ZSHS)^-1', 'tM'] with key 10
+Accepted indices: 9598/10000
+Effective shots: 9598
+Key: 10
+Expectation value: 1.0
+
+Running circuit 157: ['X^2ZSHS', 'Z^2XHSH', 'XZH^3S', 'X^2Z^2HSH', 'X^2HSH', 'Z^2HSHS^2', 'ZHSHS^2', 'XZHSH', 'X^2Z^2SH', 'Z^2XH^3S', '(X^2ZSHS)^-1(Z^2XHSH)^-1(XZH^3S)^-1(X^2Z^2HSH)^-1(X^2HSH)^-1(Z^2HSHS^2)^-1(ZHSHS^2)^-1(XZHSH)^-1(X^2Z^2SH)^-1(Z^2XH^3S)^-1', 'tM'] with key 10
+Accepted indices: 9569/10000
+Effective shots: 9569
+Key: 10
+Expectation value: 0.9998432479041897
+
+Running circuit 158: ['X^2ZH^2', 'H', 'H^3SH', 'Z^2HS', 'X^2H^2S^2', 'XH^2S^2', 'XH^2S', 'XZ', 'Z^2XS', 'X^2ZHS^2', '(X^2ZH^2)^-1(H)^-1(H^3SH)^-1(Z^2HS)^-1(X^2H^2S^2)^-1(XH^2S^2)^-1(XH^2S)^-1(XZ)^-1(Z^2XS)^-1(X^2ZHS^2)^-1', 'tM'] with key 10
+Accepted indices: 9557/10000
+Effective shots: 9557
+Key: 10
+Expectation value: 1.0
+
+Running circuit 159: ['Z^2XS^2HSH', 'XSHSH', 'XZHSHS^2', 'X^2', 'XHSHS', 'X^2HSHS^2', 'X^2SHS', 'X^2Z^2', 'XZSH', 'X^2H^2SH', '(Z^2XS^2HSH)^-1(XSHSH)^-1(XZHSHS^2)^-1(X^2)^-1(XHSHS)^-1(X^2HSHS^2)^-1(X^2SHS)^-1(X^2Z^2)^-1(XZSH)^-1(X^2H^2SH)^-1', 'tM'] with key 10
+Accepted indices: 9588/10000
+Effective shots: 9588
+Key: 10
+Expectation value: 1.0
+
+Running circuit 160: ['S^2', 'Z^2XSHS', 'XH^2SH', 'X^2H^3', 'S', 'X^2ZH^2SH', 'X^2ZS^2', 'X^2Z^2H^2S^2', 'X^2ZH^3SH', 'X^2ZS^2', '(S^2)^-1(Z^2XSHS)^-1(XH^2SH)^-1(X^2H^3)^-1(S)^-1(X^2ZH^2SH)^-1(X^2ZS^2)^-1(X^2Z^2H^2S^2)^-1(X^2ZH^3SH)^-1(X^2ZS^2)^-1', 'tM'] with key 10
+Accepted indices: 9571/10000
+Effective shots: 9571
+Key: 10
+Expectation value: 0.9998432806589697
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 161: ['Z^2H^3', 'Z^2X', 'Z^2XS^2H', 'X^2H^2S', 'XH^2S^2', 'X^2Z^2S^2HS', 'XH^3', 'Z^2XHS', 'X^2HSH', 'H^3', '(Z^2H^3)^-1(Z^2X)^-1(Z^2XS^2H)^-1(X^2H^2S)^-1(XH^2S^2)^-1(X^2Z^2S^2HS)^-1(XH^3)^-1(Z^2XHS)^-1(X^2HSH)^-1(H^3)^-1', 'tM'] with key 10
+Accepted indices: 9618/10000
+Effective shots: 9618
+Key: 10
+Expectation value: 0.9998440464748884
+
+Running circuit 162: ['X^2ZHSH', 'SHSH', 'X^2ZHSHS', 'Z^2XSHS', 'Z^2XS^2HSH', 'X^2ZHS', 'X^2ZH^3', 'XHS', 'XSH', 'XZH^3', '(X^2ZHSH)^-1(SHSH)^-1(X^2ZHSHS)^-1(Z^2XSHS)^-1(Z^2XS^2HSH)^-1(X^2ZHS)^-1(X^2ZH^3)^-1(XHS)^-1(XSH)^-1(XZH^3)^-1', 'tM'] with key 10
+Accepted indices: 9558/10000
+Effective shots: 9558
+Key: 10
+Expectation value: 1.0
+
+Running circuit 163: ['ZH^2SH', 'H^2', 'XZSHSH', 'XZS^2HS', 'XS^2H', 'XHSH', 'Z^2HS^2', 'XS', 'SH', 'XH^2S', '(ZH^2SH)^-1(H^2)^-1(XZSHSH)^-1(XZS^2HS)^-1(XS^2H)^-1(XHSH)^-1(Z^2HS^2)^-1(XS)^-1(SH)^-1(XH^2S)^-1', 'tM'] with key 10
+Accepted indices: 9550/10000
+Effective shots: 9550
+Key: 10
+Expectation value: 0.999528799925186
+
+Running circuit 164: ['X^2HSH', 'HS^2', 'Z^2XH^2S', 'XZHSH', 'S^2', 'X^2Z^2HSHS', 'ZH^2S^2', 'S^2H', 'ZSHS', 'XZH^2S^2', '(X^2HSH)^-1(HS^2)^-1(Z^2XH^2S)^-1(XZHSH)^-1(S^2)^-1(X^2Z^2HSHS)^-1(ZH^2S^2)^-1(S^2H)^-1(ZSHS)^-1(XZH^2S^2)^-1', 'tM'] with key 10
+Accepted indices: 9580/10000
+Effective shots: 9580
+Key: 10
+Expectation value: 1.0
+
+Running circuit 165: ['Z^2S^2HS', 'Z^2H^2S', 'Z^2SHS', 'Z^2XH^3', 'X^2ZH^2S', 'XSH', 'ZSH', 'XZS^2', 'X^2ZH^3', 'XZS^2HS', '(Z^2S^2HS)^-1(Z^2H^2S)^-1(Z^2SHS)^-1(Z^2XH^3)^-1(X^2ZH^2S)^-1(XSH)^-1(ZSH)^-1(XZS^2)^-1(X^2ZH^3)^-1(XZS^2HS)^-1', 'tM'] with key 10
+Accepted indices: 9578/10000
+Effective shots: 9578
+Key: 10
+Expectation value: 0.9998433951929793
+
+Running circuit 166: ['X^2S^2HS', 'Z^2H^3S', 'XH^2', 'XHSHS^2', 'H^3SH', 'XH^3SH', 'ZS^2', 'X^2S^2HSH', 'X^2', 'XSH', '(X^2S^2HS)^-1(Z^2H^3S)^-1(XH^2)^-1(XHSHS^2)^-1(H^3SH)^-1(XH^3SH)^-1(ZS^2)^-1(X^2S^2HSH)^-1(X^2)^-1(XSH)^-1', 'tM'] with key 10
+Accepted indices: 9627/10000
+Effective shots: 9627
+Key: 10
+Expectation value: 0.9998441922674783
+
+Running circuit 167: ['X^2ZS^2HSH', 'X^2Z^2HS', 'Z^2HSH', 'XH^3S', 'Z^2XH^3SH', 'ZSHSH', 'XHSHS^2', 'X^2S^2HSH', 'XZSHS^2', 'H^2SH', '(X^2ZS^2HSH)^-1(X^2Z^2HS)^-1(Z^2HSH)^-1(XH^3S)^-1(Z^2XH^3SH)^-1(ZSHSH)^-1(XHSHS^2)^-1(X^2S^2HSH)^-1(XZSHS^2)^-1(H^2SH)^-1', 'tM'] with key 10
+Accepted indices: 9560/10000
+Effective shots: 9560
+Key: 10
+Expectation value: 1.0
+
+Running circuit 168: ['X^2H^3', 'XSHSH', 'XZS^2', 'X^2H^2S', 'Z^2XHSHS', 'X^2ZS^2HSH', 'XSHSH', 'ZH^2S^2', 'X^2Z^2', 'X^2ZHSHS^2', '(X^2H^3)^-1(XSHSH)^-1(XZS^2)^-1(X^2H^2S)^-1(Z^2XHSHS)^-1(X^2ZS^2HSH)^-1(XSHSH)^-1(ZH^2S^2)^-1(X^2Z^2)^-1(X^2ZHSHS^2)^-1', 'tM'] with key 10
+Accepted indices: 9621/10000
+Effective shots: 9621
+Key: 10
+Expectation value: 0.9996881983117741
+
+Running circuit 169: ['X', 'X^2H', 'Z^2XS^2HS', 'HSH', 'H^2', 'Z^2H^2S^2', 'XZSHSH', 'SHS^2', 'Z^2SHS^2', 'X^2ZS^2HSH', '(X)^-1(X^2H)^-1(Z^2XS^2HS)^-1(HSH)^-1(H^2)^-1(Z^2H^2S^2)^-1(XZSHSH)^-1(SHS^2)^-1(Z^2SHS^2)^-1(X^2ZS^2HSH)^-1', 'tM'] with key 10
+Accepted indices: 9608/10000
+Effective shots: 9608
+Key: 10
+Expectation value: 0.9996877764538573
+
+Running circuit 170: ['Z^2H^2SH', 'Z^2XS^2HSH', 'XS^2HSH', 'Z^2SHS', 'XZHS', 'ZS^2HSH', 'Z^2H^2S', 'S^2HSH', 'XZH^2S^2', 'ZH^2S^2', '(Z^2H^2SH)^-1(Z^2XS^2HSH)^-1(XS^2HSH)^-1(Z^2SHS)^-1(XZHS)^-1(ZS^2HSH)^-1(Z^2H^2S)^-1(S^2HSH)^-1(XZH^2S^2)^-1(ZH^2S^2)^-1', 'tM'] with key 10
+Accepted indices: 9574/10000
+Effective shots: 9574
+Key: 10
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 171: ['Z^2XH^2S^2', 'XH^2S^2', 'H^2', 'XSHS', 'ZH^2SHS', 'Z^2XHSHS', 'HS^2', 'X^2ZSHSH', 'Z^2XH^2SH', 'S^2HS', '(Z^2XH^2S^2)^-1(XH^2S^2)^-1(H^2)^-1(XSHS)^-1(ZH^2SHS)^-1(Z^2XHSHS)^-1(HS^2)^-1(X^2ZSHSH)^-1(Z^2XH^2SH)^-1(S^2HS)^-1', 'tM'] with key 10
+Accepted indices: 9568/10000
+Effective shots: 9568
+Key: 10
+Expectation value: 1.0
+
+Running circuit 172: ['ZH^2', 'Z^2H^2S^2', 'ZH', 'ZHS', 'X^2S^2HSH', 'Z^2', 'Z^2XH^2S', 'ZHS^2', 'H^2SH', 'XZ', '(ZH^2)^-1(Z^2H^2S^2)^-1(ZH)^-1(ZHS)^-1(X^2S^2HSH)^-1(Z^2)^-1(Z^2XH^2S)^-1(ZHS^2)^-1(H^2SH)^-1(XZ)^-1', 'tM'] with key 10
+Accepted indices: 9624/10000
+Effective shots: 9624
+Key: 10
+Expectation value: 1.0
+
+Running circuit 173: ['XS', 'XHSHS', 'HSHS', 'Z^2SH', 'ZSH', 'Z^2XHSH', 'SH', 'Z', 'HS', 'HS^2', '(XS)^-1(XHSHS)^-1(HSHS)^-1(Z^2SH)^-1(ZSH)^-1(Z^2XHSH)^-1(SH)^-1(Z)^-1(HS)^-1(HS^2)^-1', 'tM'] with key 10
+Accepted indices: 9600/10000
+Effective shots: 9600
+Key: 10
+Expectation value: 1.0
+
+Running circuit 174: ['X^2ZHS^2', 'X^2H^2S', 'Z^2XHS', 'X^2S^2H', 'Z^2XS^2', 'XHSHS', 'X^2S^2HS', 'XSH', 'Z^2XS^2HSH', 'X^2ZH^2SHS', '(X^2ZHS^2)^-1(X^2H^2S)^-1(Z^2XHS)^-1(X^2S^2H)^-1(Z^2XS^2)^-1(XHSHS)^-1(X^2S^2HS)^-1(XSH)^-1(Z^2XS^2HSH)^-1(X^2ZH^2SHS)^-1', 'tM'] with key 10
+Accepted indices: 9531/10000
+Effective shots: 9531
+Key: 10
+Expectation value: 1.0
+
+Running circuit 175: ['H^2', 'XHSH', 'ZSHS', 'XZH^3', 'X^2ZH^3', 'HSH', 'H^3SH', 'XZSHS^2', 'X^2H^3', 'ZH^2', '(H^2)^-1(XHSH)^-1(ZSHS)^-1(XZH^3)^-1(X^2ZH^3)^-1(HSH)^-1(H^3SH)^-1(XZSHS^2)^-1(X^2H^3)^-1(ZH^2)^-1', 'tM'] with key 10
+Accepted indices: 9590/10000
+Effective shots: 9590
+Key: 10
+Expectation value: 0.9998435911480031
+
+Running circuit 176: ['Z^2XHSHS^2', 'Z^2XH^2S^2', 'X^2H^2S^2', 'Z^2SH', 'X^2Z^2SHS', 'XH^3S', 'S^2HSH', 'XS^2H', 'X^2ZH^3SH', 'XZ', '(Z^2XHSHS^2)^-1(Z^2XH^2S^2)^-1(X^2H^2S^2)^-1(Z^2SH)^-1(X^2Z^2SHS)^-1(XH^3S)^-1(S^2HSH)^-1(XS^2H)^-1(X^2ZH^3SH)^-1(XZ)^-1', 'tM'] with key 10
+Accepted indices: 9590/10000
+Effective shots: 9590
+Key: 10
+Expectation value: 0.9998435911480031
+
+Running circuit 177: ['Z^2XHS^2', 'XZH', 'XZHSHS', 'XZS^2HSH', 'X^2ZHS', 'Z^2XH^2', 'X^2HS', 'H^3SH', 'X^2ZHSH', 'Z^2HS', '(Z^2XHS^2)^-1(XZH)^-1(XZHSHS)^-1(XZS^2HSH)^-1(X^2ZHS)^-1(Z^2XH^2)^-1(X^2HS)^-1(H^3SH)^-1(X^2ZHSH)^-1(Z^2HS)^-1', 'tM'] with key 10
+Accepted indices: 9557/10000
+Effective shots: 9557
+Key: 10
+Expectation value: 0.9998430510876231
+
+Running circuit 178: ['XZH^3', 'X^2ZHS^2', 'ZH', 'X^2ZSHS^2', 'X^2SHSH', 'Z^2S^2H', 'ZH^2SHS', 'X^2ZH', 'X^2Z^2S', 'Z^2XHSH', '(XZH^3)^-1(X^2ZHS^2)^-1(ZH)^-1(X^2ZSHS^2)^-1(X^2SHSH)^-1(Z^2S^2H)^-1(ZH^2SHS)^-1(X^2ZH)^-1(X^2Z^2S)^-1(Z^2XHSH)^-1', 'tM'] with key 10
+Accepted indices: 9588/10000
+Effective shots: 9588
+Key: 10
+Expectation value: 0.9998435585228941
+
+Running circuit 179: ['X^2Z^2H^2', 'X^2ZHS^2', 'XH^2SH', 'X^2SHS', 'XZSHSH', 'X^2ZS^2HSH', 'Z^2XH^2S^2', 'Z^2', 'ZHSHS', 'XS^2', '(X^2Z^2H^2)^-1(X^2ZHS^2)^-1(XH^2SH)^-1(X^2SHS)^-1(XZSHSH)^-1(X^2ZS^2HSH)^-1(Z^2XH^2S^2)^-1(Z^2)^-1(ZHSHS)^-1(XS^2)^-1', 'tM'] with key 10
+Accepted indices: 9632/10000
+Effective shots: 9632
+Key: 10
+Expectation value: 0.9998442731456383
+
+Running circuit 180: ['XZS^2HS', 'XSHSH', 'XSH', 'X^2ZHSHS', 'ZS^2HS', 'ZH^2S', 'XHS^2', 'X^2Z^2H^2SH', 'ZH^3', 'ZS^2H', 'ZH^3SH', 'Z^2H^2S^2', '(XZS^2HS)^-1(XSHSH)^-1(XSH)^-1(X^2ZHSHS)^-1(ZS^2HS)^-1(ZH^2S)^-1(XHS^2)^-1(X^2Z^2H^2SH)^-1(ZH^3)^-1(ZS^2H)^-1(ZH^3SH)^-1(Z^2H^2S^2)^-1', 'tM'] with key 12
+Accepted indices: 9475/10000
+Effective shots: 9475
+Key: 12
+Expectation value: 0.9998416928320953
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 181: ['X^2HSH', 'X^2H^3', 'SHS', 'Z^2', 'Z^2XHSH', 'X^2Z^2SHSH', 'X^2ZSHS', 'X^2H^3S', 'ZS^2H', 'XH^3S', 'X^2ZS^2', 'XHSHS^2', '(X^2HSH)^-1(X^2H^3)^-1(SHS)^-1(Z^2)^-1(Z^2XHSH)^-1(X^2Z^2SHSH)^-1(X^2ZSHS)^-1(X^2H^3S)^-1(ZS^2H)^-1(XH^3S)^-1(X^2ZS^2)^-1(XHSHS^2)^-1', 'tM'] with key 12
+Accepted indices: 9512/10000
+Effective shots: 9512
+Key: 12
+Expectation value: 0.9998423086028282
+
+Running circuit 182: ['Z^2SHSH', 'ZSH', 'ZHS^2', 'X^2ZHS', 'S^2HSH', 'ZS^2HSH', 'X^2H^2SHS', 'S^2HSH', 'X^2Z^2HSHS', 'Z^2XH^2S^2', 'ZH^3S', 'ZS', '(Z^2SHSH)^-1(ZSH)^-1(ZHS^2)^-1(X^2ZHS)^-1(S^2HSH)^-1(ZS^2HSH)^-1(X^2H^2SHS)^-1(S^2HSH)^-1(X^2Z^2HSHS)^-1(Z^2XH^2S^2)^-1(ZH^3S)^-1(ZS)^-1', 'tM'] with key 12
+Accepted indices: 9510/10000
+Effective shots: 9510
+Key: 12
+Expectation value: 0.9995268180284799
+
+Running circuit 183: ['X^2ZS', 'X^2ZSH', 'XH^3S', 'X^2S^2H', 'S^2', 'X^2ZH^2SHS', 'X^2H^2', 'X^2Z^2S^2', 'X^2HS', 'X^2S^2HSH', 'SHS', 'X^2HSH', '(X^2ZS)^-1(X^2ZSH)^-1(XH^3S)^-1(X^2S^2H)^-1(S^2)^-1(X^2ZH^2SHS)^-1(X^2H^2)^-1(X^2Z^2S^2)^-1(X^2HS)^-1(X^2S^2HSH)^-1(SHS)^-1(X^2HSH)^-1', 'tM'] with key 12
+Accepted indices: 9480/10000
+Effective shots: 9480
+Key: 12
+Expectation value: 0.9998417763252343
+
+Running circuit 184: ['Z^2S^2HSH', 'ZH^2', 'Z^2XH^2SHS', 'X^2Z^2H^3', 'X^2Z^2H^3S', 'XSHSH', 'H^2SHS', 'ZH^3', 'Z^2XS^2HSH', 'X^2ZH^3', 'X^2ZH^2SH', 'H^2S^2', '(Z^2S^2HSH)^-1(ZH^2)^-1(Z^2XH^2SHS)^-1(X^2Z^2H^3)^-1(X^2Z^2H^3S)^-1(XSHSH)^-1(H^2SHS)^-1(ZH^3)^-1(Z^2XS^2HSH)^-1(X^2ZH^3)^-1(X^2ZH^2SH)^-1(H^2S^2)^-1', 'tM'] with key 12
+Accepted indices: 9477/10000
+Effective shots: 9477
+Key: 12
+Expectation value: 1.0
+
+Running circuit 185: ['Z^2SHSH', 'SHS', 'XZHSHS^2', 'XZSHSH', 'X^2H^2SH', 'X^2SHSH', 'Z', 'ZH^2S^2', 'Z^2SHS^2', 'XZHSHS', 'XSHS', 'H^2S^2', '(Z^2SHSH)^-1(SHS)^-1(XZHSHS^2)^-1(XZSHSH)^-1(X^2H^2SH)^-1(X^2SHSH)^-1(Z)^-1(ZH^2S^2)^-1(Z^2SHS^2)^-1(XZHSHS)^-1(XSHS)^-1(H^2S^2)^-1', 'tM'] with key 12
+Accepted indices: 9575/10000
+Effective shots: 9575
+Key: 12
+Expectation value: 0.9998433461274805
+
+Running circuit 186: ['Z^2XH^2SHS', 'XZSHS', 'XHS', 'ZS^2H', 'Z^2XHSHS', 'Z^2HS^2', 'X^2H^2S', 'X^2Z^2SHS', 'X^2HSHS^2', 'Z^2SH', 'X^2Z^2HSH', 'ZSHS', '(Z^2XH^2SHS)^-1(XZSHS)^-1(XHS)^-1(ZS^2H)^-1(Z^2XHSHS)^-1(Z^2HS^2)^-1(X^2H^2S)^-1(X^2Z^2SHS)^-1(X^2HSHS^2)^-1(Z^2SH)^-1(X^2Z^2HSH)^-1(ZSHS)^-1', 'tM'] with key 12
+Accepted indices: 9478/10000
+Effective shots: 9478
+Key: 12
+Expectation value: 1.0
+
+Running circuit 187: ['XSH', 'H^2SHS', 'ZH^2SH', 'X^2H^3SH', 'Z^2XSHS', 'HS', 'Z^2H^2', 'XSHS^2', 'X^2Z^2H^2SHS', 'XZSHSH', 'X^2Z^2SHSH', 'Z^2S', '(XSH)^-1(H^2SHS)^-1(ZH^2SH)^-1(X^2H^3SH)^-1(Z^2XSHS)^-1(HS)^-1(Z^2H^2)^-1(XSHS^2)^-1(X^2Z^2H^2SHS)^-1(XZSHSH)^-1(X^2Z^2SHSH)^-1(Z^2S)^-1', 'tM'] with key 12
+Accepted indices: 9528/10000
+Effective shots: 9528
+Key: 12
+Expectation value: 0.9993702770780857
+
+Running circuit 188: ['X^2HSHS', 'Z^2HS^2', 'XS^2', 'X^2Z^2H', 'Z^2H^2S', 'X^2ZHS^2', 'Z^2', 'Z^2', 'Z^2H^2S^2', 'XZS^2', 'S^2H', 'ZS^2', '(X^2HSHS)^-1(Z^2HS^2)^-1(XS^2)^-1(X^2Z^2H)^-1(Z^2H^2S)^-1(X^2ZHS^2)^-1(Z^2)^-1(Z^2)^-1(Z^2H^2S^2)^-1(XZS^2)^-1(S^2H)^-1(ZS^2)^-1', 'tM'] with key 12
+Accepted indices: 9550/10000
+Effective shots: 9550
+Key: 12
+Expectation value: 0.9996858638743454
+
+Running circuit 189: ['X^2Z^2', 'XZHS', 'XZH^3', 'X^2HSHS', 'X^2H^2S^2', 'ZHSH', 'X^2Z^2S^2', 'ZHSHS', 'XZSH', 'X^2Z^2S^2HS', 'Z^2X', 'X', '(X^2Z^2)^-1(XZHS)^-1(XZH^3)^-1(X^2HSHS)^-1(X^2H^2S^2)^-1(ZHSH)^-1(X^2Z^2S^2)^-1(ZHSHS)^-1(XZSH)^-1(X^2Z^2S^2HS)^-1(Z^2X)^-1(X)^-1', 'tM'] with key 12
+Accepted indices: 9556/10000
+Effective shots: 9556
+Key: 12
+Expectation value: 1.0
+
+Running circuit 190: ['X^2ZS', 'Z^2XH', 'XZH', 'Z^2H^2SH', 'X^2S^2', 'Z^2XSHS^2', 'Z^2XS^2', 'X^2ZHS^2', 'XH^2S', 'S^2HSH', 'XHSHS', 'XZH^2S^2', '(X^2ZS)^-1(Z^2XH)^-1(XZH)^-1(Z^2H^2SH)^-1(X^2S^2)^-1(Z^2XSHS^2)^-1(Z^2XS^2)^-1(X^2ZHS^2)^-1(XH^2S)^-1(S^2HSH)^-1(XHSHS)^-1(XZH^2S^2)^-1', 'tM'] with key 12
+Accepted indices: 9477/10000
+Effective shots: 9477
+Key: 12
+Expectation value: 0.9998417262399227
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 191: ['ZH^2', 'XH^2', 'X^2ZHSHS', 'Z', 'XZSHS^2', 'XZH^2S^2', 'XZH^3S', 'XH^3SH', 'H', 'Z^2H^3', 'XZH^2SH', 'XZSHS^2', '(ZH^2)^-1(XH^2)^-1(X^2ZHSHS)^-1(Z)^-1(XZSHS^2)^-1(XZH^2S^2)^-1(XZH^3S)^-1(XH^3SH)^-1(H)^-1(Z^2H^3)^-1(XZH^2SH)^-1(XZSHS^2)^-1', 'tM'] with key 12
+Accepted indices: 9504/10000
+Effective shots: 9504
+Key: 12
+Expectation value: 1.0
+
+Running circuit 192: ['Z^2XHS', 'X^2Z^2S', 'XSHS^2', 'HSH', 'XH^2S', 'Z^2XS^2', 'X^2ZHSHS^2', 'X^2ZH^2SHS', 'X^2SHS', 'ZH^2SH', 'Z^2XHSH', 'ZSHS', '(Z^2XHS)^-1(X^2Z^2S)^-1(XSHS^2)^-1(HSH)^-1(XH^2S)^-1(Z^2XS^2)^-1(X^2ZHSHS^2)^-1(X^2ZH^2SHS)^-1(X^2SHS)^-1(ZH^2SH)^-1(Z^2XHSH)^-1(ZSHS)^-1', 'tM'] with key 12
+Accepted indices: 9468/10000
+Effective shots: 9468
+Key: 12
+Expectation value: 0.9998415757935544
+
+Running circuit 193: ['X^2ZH^3S', 'XH^2', 'X^2H^2SH', 'X^2ZSHS^2', 'Z^2H^2SH', 'X^2Z^2S^2HSH', 'X^2ZSHSH', 'XZS^2H', 'Z^2XHS^2', 'S^2', 'ZH^3S', 'X^2H^2', '(X^2ZH^3S)^-1(XH^2)^-1(X^2H^2SH)^-1(X^2ZSHS^2)^-1(Z^2H^2SH)^-1(X^2Z^2S^2HSH)^-1(X^2ZSHSH)^-1(XZS^2H)^-1(Z^2XHS^2)^-1(S^2)^-1(ZH^3S)^-1(X^2H^2)^-1', 'tM'] with key 12
+Accepted indices: 9465/10000
+Effective shots: 9465
+Key: 12
+Expectation value: 0.9998415255811864
+
+Running circuit 194: ['SH', 'X^2Z^2H^2', 'Z^2H^2', 'XHSHS', 'XZS^2', 'XZH^2S', 'X^2HS', 'X^2ZHS', 'ZS^2', 'X^2H', 'X^2Z^2H^2SH', 'ZHSHS^2', '(SH)^-1(X^2Z^2H^2)^-1(Z^2H^2)^-1(XHSHS)^-1(XZS^2)^-1(XZH^2S)^-1(X^2HS)^-1(X^2ZHS)^-1(ZS^2)^-1(X^2H)^-1(X^2Z^2H^2SH)^-1(ZHSHS^2)^-1', 'tM'] with key 12
+Accepted indices: 9475/10000
+Effective shots: 9475
+Key: 12
+Expectation value: 0.9998416928320953
+
+Running circuit 195: ['Z^2H^3SH', 'Z^2XH^2S^2', 'X^2SHSH', 'X^2HSHS', 'Z^2XH^2SHS', 'ZHS^2', 'I', 'X^2HSHS', 'X^2Z^2HSHS', 'Z^2XS^2H', 'HSHS^2', 'XH^2S', '(Z^2H^3SH)^-1(Z^2XH^2S^2)^-1(X^2SHSH)^-1(X^2HSHS)^-1(Z^2XH^2SHS)^-1(ZHS^2)^-1(I)^-1(X^2HSHS)^-1(X^2Z^2HSHS)^-1(Z^2XS^2H)^-1(HSHS^2)^-1(XH^2S)^-1', 'tM'] with key 12
+Accepted indices: 9479/10000
+Effective shots: 9479
+Key: 12
+Expectation value: 0.9998417596336528
+
+Running circuit 196: ['XZS^2', 'XH^3S', 'X^2ZH^3S', 'ZSH', 'H^2S^2', 'H^3S', 'Z^2', 'Z^2XS^2HS', 'XS^2HSH', 'X^2HSH', 'X^2ZSHS', 'XH^3', '(XZS^2)^-1(XH^3S)^-1(X^2ZH^3S)^-1(ZSH)^-1(H^2S^2)^-1(H^3S)^-1(Z^2)^-1(Z^2XS^2HS)^-1(XS^2HSH)^-1(X^2HSH)^-1(X^2ZSHS)^-1(XH^3)^-1', 'tM'] with key 12
+Accepted indices: 9545/10000
+Effective shots: 9545
+Key: 12
+Expectation value: 0.9998428537761929
+
+Running circuit 197: ['XH^3', 'Z^2XHSHS^2', 'X^2ZHSHS^2', 'ZHS^2', 'H^2S', 'H^3S', 'X^2ZSH', 'X^2Z^2HS^2', 'ZH^2SH', 'ZH^3S', 'Z^2S^2', 'Z^2XHSHS^2', '(XH^3)^-1(Z^2XHSHS^2)^-1(X^2ZHSHS^2)^-1(ZHS^2)^-1(H^2S)^-1(H^3S)^-1(X^2ZSH)^-1(X^2Z^2HS^2)^-1(ZH^2SH)^-1(ZH^3S)^-1(Z^2S^2)^-1(Z^2XHSHS^2)^-1', 'tM'] with key 12
+Accepted indices: 9501/10000
+Effective shots: 9501
+Key: 12
+Expectation value: 1.0
+
+Running circuit 198: ['Z^2XH^2S', 'ZS', 'X^2Z^2H', 'X^2H^2S', 'XH^2S^2', 'S^2HS', 'X^2ZS', 'H^3S', 'XHSHS^2', 'X^2S^2', 'X^2ZH^2S', 'Z^2XHSH', '(Z^2XH^2S)^-1(ZS)^-1(X^2Z^2H)^-1(X^2H^2S)^-1(XH^2S^2)^-1(S^2HS)^-1(X^2ZS)^-1(H^3S)^-1(XHSHS^2)^-1(X^2S^2)^-1(X^2ZH^2S)^-1(Z^2XHSH)^-1', 'tM'] with key 12
+Accepted indices: 9510/10000
+Effective shots: 9510
+Key: 12
+Expectation value: 1.0
+
+Running circuit 199: ['X^2ZHSH', 'X^2ZHSHS', 'XS', 'X^2Z^2H^2S', 'X^2Z^2HS^2', 'Z^2XSHS^2', 'XH^2SH', 'Z^2HSHS^2', 'Z^2S^2HS', 'Z^2H^2S^2', 'HS^2', 'Z^2XS^2HSH', '(X^2ZHSH)^-1(X^2ZHSHS)^-1(XS)^-1(X^2Z^2H^2S)^-1(X^2Z^2HS^2)^-1(Z^2XSHS^2)^-1(XH^2SH)^-1(Z^2HSHS^2)^-1(Z^2S^2HS)^-1(Z^2H^2S^2)^-1(HS^2)^-1(Z^2XS^2HSH)^-1', 'tM'] with key 12
+Accepted indices: 9509/10000
+Effective shots: 9509
+Key: 12
+Expectation value: 1.0
+
+Running circuit 200: ['XHSHS^2', 'XHSH', 'Z^2H^2SH', 'Z^2S^2', 'X^2Z^2HS^2', 'X^2S', 'XZSH', 'Z^2H^2S', 'XZSHSH', 'Z^2XH', 'XH^2', 'XZ', '(XHSHS^2)^-1(XHSH)^-1(Z^2H^2SH)^-1(Z^2S^2)^-1(X^2Z^2HS^2)^-1(X^2S)^-1(XZSH)^-1(Z^2H^2S)^-1(XZSHSH)^-1(Z^2XH)^-1(XH^2)^-1(XZ)^-1', 'tM'] with key 12
+Accepted indices: 9505/10000
+Effective shots: 9505
+Key: 12
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 201: ['XHSHS^2', 'X^2HSH', 'XS^2HSH', 'HS^2', 'X^2H^2SH', 'X^2ZH^3S', 'Z^2H^3', 'ZS^2HSH', 'X^2H^2SH', 'ZS^2', 'Z^2H^3S', 'Z^2HSHS', '(XHSHS^2)^-1(X^2HSH)^-1(XS^2HSH)^-1(HS^2)^-1(X^2H^2SH)^-1(X^2ZH^3S)^-1(Z^2H^3)^-1(ZS^2HSH)^-1(X^2H^2SH)^-1(ZS^2)^-1(Z^2H^3S)^-1(Z^2HSHS)^-1', 'tM'] with key 12
+Accepted indices: 9530/10000
+Effective shots: 9530
+Key: 12
+Expectation value: 1.0
+
+Running circuit 202: ['X^2Z^2SHS', 'H^3S', 'XH^3S', 'X^2Z^2HS^2', 'Z^2SHSH', 'Z^2XS^2HSH', 'ZHSHS^2', 'Z^2H^3', 'X^2ZS^2H', 'Z^2XS^2HSH', 'X^2HS^2', 'ZH^2SH', '(X^2Z^2SHS)^-1(H^3S)^-1(XH^3S)^-1(X^2Z^2HS^2)^-1(Z^2SHSH)^-1(Z^2XS^2HSH)^-1(ZHSHS^2)^-1(Z^2H^3)^-1(X^2ZS^2H)^-1(Z^2XS^2HSH)^-1(X^2HS^2)^-1(ZH^2SH)^-1', 'tM'] with key 12
+Accepted indices: 9491/10000
+Effective shots: 9491
+Key: 12
+Expectation value: 1.0
+
+Running circuit 203: ['XSHS^2', 'H^2S', 'HSHS^2', 'X^2S^2HSH', 'ZSHSH', 'ZHSH', 'Z^2HS', 'X^2Z^2H^2S', 'XZSHSH', 'X^2HSH', 'ZSH', 'XZSHS', '(XSHS^2)^-1(H^2S)^-1(HSHS^2)^-1(X^2S^2HSH)^-1(ZSHSH)^-1(ZHSH)^-1(Z^2HS)^-1(X^2Z^2H^2S)^-1(XZSHSH)^-1(X^2HSH)^-1(ZSH)^-1(XZSHS)^-1', 'tM'] with key 12
+Accepted indices: 9490/10000
+Effective shots: 9490
+Key: 12
+Expectation value: 0.9996838944268805
+
+Running circuit 204: ['ZH^2SHS', 'X^2ZSHS', 'X^2', 'S^2HS', 'X^2Z^2HSHS^2', 'X^2Z^2S^2HSH', 'X^2HSHS', 'Z^2XH^2SH', 'Z^2XHS^2', 'X^2Z^2HSHS', 'XS^2HS', 'X^2ZH^2SHS', '(ZH^2SHS)^-1(X^2ZSHS)^-1(X^2)^-1(S^2HS)^-1(X^2Z^2HSHS^2)^-1(X^2Z^2S^2HSH)^-1(X^2HSHS)^-1(Z^2XH^2SH)^-1(Z^2XHS^2)^-1(X^2Z^2HSHS)^-1(XS^2HS)^-1(X^2ZH^2SHS)^-1', 'tM'] with key 12
+Accepted indices: 9528/10000
+Effective shots: 9528
+Key: 12
+Expectation value: 1.0
+
+Running circuit 205: ['X^2ZHSHS', 'X^2ZH^2SH', 'XHS^2', 'X^2Z^2HSHS^2', 'XZHS', 'X^2Z^2H^3SH', 'H^2SHS', 'Z^2XH^2S^2', 'SH', 'X^2H^2S', 'Z^2SHS', 'ZH^2', '(X^2ZHSHS)^-1(X^2ZH^2SH)^-1(XHS^2)^-1(X^2Z^2HSHS^2)^-1(XZHS)^-1(X^2Z^2H^3SH)^-1(H^2SHS)^-1(Z^2XH^2S^2)^-1(SH)^-1(X^2H^2S)^-1(Z^2SHS)^-1(ZH^2)^-1', 'tM'] with key 12
+Accepted indices: 9438/10000
+Effective shots: 9438
+Key: 12
+Expectation value: 0.9998410722334509
+
+Running circuit 206: ['XZS^2', 'X^2Z^2H^2S', 'Z^2HSHS', 'X^2ZHSHS^2', 'X^2Z^2HSHS^2', 'Z^2HSHS', 'XZSHS', 'X^2Z^2SHS', 'Z^2H', 'X^2S^2', 'X^2Z^2HSHS^2', 'XZH^2S', '(XZS^2)^-1(X^2Z^2H^2S)^-1(Z^2HSHS)^-1(X^2ZHSHS^2)^-1(X^2Z^2HSHS^2)^-1(Z^2HSHS)^-1(XZSHS)^-1(X^2Z^2SHS)^-1(Z^2H)^-1(X^2S^2)^-1(X^2Z^2HSHS^2)^-1(XZH^2S)^-1', 'tM'] with key 12
+Accepted indices: 9475/10000
+Effective shots: 9475
+Key: 12
+Expectation value: 0.9998416928320953
+
+Running circuit 207: ['XZH', 'ZH^2S^2', 'XZS^2H', 'XZSHSH', 'X^2Z^2H^2S', 'X^2ZH^3S', 'XZH^3S', 'Z^2SHS', 'X^2Z^2HSH', 'X^2ZS', 'X^2S^2HS', 'XZHSHS', '(XZH)^-1(ZH^2S^2)^-1(XZS^2H)^-1(XZSHSH)^-1(X^2Z^2H^2S)^-1(X^2ZH^3S)^-1(XZH^3S)^-1(Z^2SHS)^-1(X^2Z^2HSH)^-1(X^2ZS)^-1(X^2S^2HS)^-1(XZHSHS)^-1', 'tM'] with key 12
+Accepted indices: 9491/10000
+Effective shots: 9491
+Key: 12
+Expectation value: 0.9998419597004912
+
+Running circuit 208: ['S^2HSH', 'XS', 'X^2ZS', 'Z^2XH^2SH', 'X^2Z^2HSHS', 'XSHSH', 'Z^2XH^2S', 'H^2S^2', 'Z^2H^2S', 'Z^2XS^2H', 'X^2Z^2S^2HS', 'Z^2XHSH', '(S^2HSH)^-1(XS)^-1(X^2ZS)^-1(Z^2XH^2SH)^-1(X^2Z^2HSHS)^-1(XSHSH)^-1(Z^2XH^2S)^-1(H^2S^2)^-1(Z^2H^2S)^-1(Z^2XS^2H)^-1(X^2Z^2S^2HS)^-1(Z^2XHSH)^-1', 'tM'] with key 12
+Accepted indices: 9490/10000
+Effective shots: 9490
+Key: 12
+Expectation value: 1.0
+
+Running circuit 209: ['X^2ZHS^2', 'XZS^2', 'Z^2', 'X^2HS', 'X^2SHS', 'X^2Z', 'X^2Z^2H^2S^2', 'Z^2XH^3S', 'HS^2', 'X^2', 'X^2H^3SH', 'X^2Z^2S^2', '(X^2ZHS^2)^-1(XZS^2)^-1(Z^2)^-1(X^2HS)^-1(X^2SHS)^-1(X^2Z)^-1(X^2Z^2H^2S^2)^-1(Z^2XH^3S)^-1(HS^2)^-1(X^2)^-1(X^2H^3SH)^-1(X^2Z^2S^2)^-1', 'tM'] with key 12
+Accepted indices: 9568/10000
+Effective shots: 9568
+Key: 12
+Expectation value: 1.0
+
+Running circuit 210: ['Z^2SHS^2', 'X^2Z^2S^2HS', 'XHSHS', 'Z^2H^3SH', 'HSH', 'X^2S', 'H^3S', 'Z^2XS', 'H^2S^2', 'H^3', 'Z^2S^2H', 'X^2Z^2HSHS', 'XZSHS^2', 'X^2SHS', '(Z^2SHS^2)^-1(X^2Z^2S^2HS)^-1(XHSHS)^-1(Z^2H^3SH)^-1(HSH)^-1(X^2S)^-1(H^3S)^-1(Z^2XS)^-1(H^2S^2)^-1(H^3)^-1(Z^2S^2H)^-1(X^2Z^2HSHS)^-1(XZSHS^2)^-1(X^2SHS)^-1', 'tM'] with key 14
+Accepted indices: 9421/10000
+Effective shots: 9421
+Key: 14
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 211: ['Z^2XH^3S', 'ZH^3SH', 'Z^2H^2SHS', 'X^2ZSHS^2', 'SHS^2', 'XZH^3', 'X^2ZS^2HS', 'XZSHS^2', 'XZH^2S^2', 'XZH^2', 'SHS^2', 'Z^2S^2', 'Z^2XH^2', 'X^2Z^2H', '(Z^2XH^3S)^-1(ZH^3SH)^-1(Z^2H^2SHS)^-1(X^2ZSHS^2)^-1(SHS^2)^-1(XZH^3)^-1(X^2ZS^2HS)^-1(XZSHS^2)^-1(XZH^2S^2)^-1(XZH^2)^-1(SHS^2)^-1(Z^2S^2)^-1(Z^2XH^2)^-1(X^2Z^2H)^-1', 'tM'] with key 14
+Accepted indices: 9371/10000
+Effective shots: 9371
+Key: 14
+Expectation value: 1.0
+
+Running circuit 212: ['Z^2SH', 'X^2ZSHS^2', 'Z^2XS^2HS', 'S^2H', 'XZH^2SHS', 'H^3', 'X^2ZS^2HSH', 'XS^2H', 'Z^2XHSH', 'SHSH', 'X^2Z^2HS', 'XZS^2HS', 'X^2ZS^2H', 'X^2S^2HS', '(Z^2SH)^-1(X^2ZSHS^2)^-1(Z^2XS^2HS)^-1(S^2H)^-1(XZH^2SHS)^-1(H^3)^-1(X^2ZS^2HSH)^-1(XS^2H)^-1(Z^2XHSH)^-1(SHSH)^-1(X^2Z^2HS)^-1(XZS^2HS)^-1(X^2ZS^2H)^-1(X^2S^2HS)^-1', 'tM'] with key 14
+Accepted indices: 9395/10000
+Effective shots: 9395
+Key: 14
+Expectation value: 1.0
+
+Running circuit 213: ['S^2H', 'HSHS^2', 'XS^2HSH', 'Z^2SHS', 'X^2HSHS', 'Z^2XS', 'Z^2H^2SH', 'X^2Z', 'XZHS^2', 'X^2Z^2HS^2', 'X^2S^2', 'ZHS^2', 'X^2Z^2SHSH', 'XHS', '(S^2H)^-1(HSHS^2)^-1(XS^2HSH)^-1(Z^2SHS)^-1(X^2HSHS)^-1(Z^2XS)^-1(Z^2H^2SH)^-1(X^2Z)^-1(XZHS^2)^-1(X^2Z^2HS^2)^-1(X^2S^2)^-1(ZHS^2)^-1(X^2Z^2SHSH)^-1(XHS)^-1', 'tM'] with key 14
+Accepted indices: 9462/10000
+Effective shots: 9462
+Key: 14
+Expectation value: 0.9996829422954978
+
+Running circuit 214: ['Z^2XHS', 'XZ', 'XZH', 'HSHS^2', 'X^2Z^2S^2H', 'Z^2H^3SH', 'X^2HSHS^2', 'XZH^3SH', 'XZH^2S', 'ZH^2SH', 'X^2ZS^2HS', 'XSH', 'X^2Z^2HSHS^2', 'Z^2XH^2S', '(Z^2XHS)^-1(XZ)^-1(XZH)^-1(HSHS^2)^-1(X^2Z^2S^2H)^-1(Z^2H^3SH)^-1(X^2HSHS^2)^-1(XZH^3SH)^-1(XZH^2S)^-1(ZH^2SH)^-1(X^2ZS^2HS)^-1(XSH)^-1(X^2Z^2HSHS^2)^-1(Z^2XH^2S)^-1', 'tM'] with key 14
+Accepted indices: 9465/10000
+Effective shots: 9465
+Key: 14
+Expectation value: 0.9995245683717375
+
+Running circuit 215: ['HSHS^2', 'Z^2XSHSH', 'X^2Z^2H^3SH', 'X^2SHS^2', 'X^2ZHS^2', 'Z^2XSHS^2', 'X^2Z^2H^2S^2', 'XSHS', 'Z^2XS^2H', 'Z^2', 'X^2ZH', 'X^2ZHS^2', 'X^2ZS^2HSH', 'S^2H', '(HSHS^2)^-1(Z^2XSHSH)^-1(X^2Z^2H^3SH)^-1(X^2SHS^2)^-1(X^2ZHS^2)^-1(Z^2XSHS^2)^-1(X^2Z^2H^2S^2)^-1(XSHS)^-1(Z^2XS^2H)^-1(Z^2)^-1(X^2ZH)^-1(X^2ZHS^2)^-1(X^2ZS^2HSH)^-1(S^2H)^-1', 'tM'] with key 14
+Accepted indices: 9422/10000
+Effective shots: 9422
+Key: 14
+Expectation value: 0.9996816131662676
+
+Running circuit 216: ['XZS^2HS', 'X^2ZS^2HSH', 'XZS^2', 'ZH', 'X^2SH', 'XH^3', 'X^2Z^2HS^2', 'X^2ZS^2HSH', 'XZS^2HS', 'X^2H^3', 'X^2H^2S^2', 'X^2ZS^2', 'Z^2XH^2SH', 'ZHS', '(XZS^2HS)^-1(X^2ZS^2HSH)^-1(XZS^2)^-1(ZH)^-1(X^2SH)^-1(XH^3)^-1(X^2Z^2HS^2)^-1(X^2ZS^2HSH)^-1(XZS^2HS)^-1(X^2H^3)^-1(X^2H^2S^2)^-1(X^2ZS^2)^-1(Z^2XH^2SH)^-1(ZHS)^-1', 'tM'] with key 14
+Accepted indices: 9363/10000
+Effective shots: 9363
+Key: 14
+Expectation value: 0.99967958987504
+
+Running circuit 217: ['H^3SH', 'XZSHS^2', 'X^2Z^2H^2SH', 'Z^2XHSHS^2', 'X^2HSH', 'X^2ZHSHS^2', 'ZHS^2', 'H', 'X^2Z^2H^2S', 'ZH', 'X^2Z^2H^3S', 'Z^2S^2H', 'XZSHS^2', 'Z^2XH', '(H^3SH)^-1(XZSHS^2)^-1(X^2Z^2H^2SH)^-1(Z^2XHSHS^2)^-1(X^2HSH)^-1(X^2ZHSHS^2)^-1(ZHS^2)^-1(H)^-1(X^2Z^2H^2S)^-1(ZH)^-1(X^2Z^2H^3S)^-1(Z^2S^2H)^-1(XZSHS^2)^-1(Z^2XH)^-1', 'tM'] with key 14
+Accepted indices: 9418/10000
+Effective shots: 9418
+Key: 14
+Expectation value: 0.9998407347445013
+
+Running circuit 218: ['XHS^2', 'ZS^2H', 'X^2ZH^2SH', 'X^2ZH^2SH', 'Z^2SH', 'X^2ZH^3SH', 'S^2', 'XHSHS^2', 'Z^2XSHSH', 'XZS^2', 'X^2HS', 'XHS^2', 'S^2H', 'XH^2SHS', '(XHS^2)^-1(ZS^2H)^-1(X^2ZH^2SH)^-1(X^2ZH^2SH)^-1(Z^2SH)^-1(X^2ZH^3SH)^-1(S^2)^-1(XHSHS^2)^-1(Z^2XSHSH)^-1(XZS^2)^-1(X^2HS)^-1(XHS^2)^-1(S^2H)^-1(XH^2SHS)^-1', 'tM'] with key 14
+Accepted indices: 9363/10000
+Effective shots: 9363
+Key: 14
+Expectation value: 0.99967958987504
+
+Running circuit 219: ['X^2ZS', 'H^2S', 'X^2Z^2H^3SH', 'X^2S^2H', 'ZSH', 'Z^2X', 'X^2S^2HS', 'XZH^2SH', 'XZSHS', 'XSHS^2', 'X^2ZS^2', 'ZS', 'ZH', 'Z^2XH^3SH', '(X^2ZS)^-1(H^2S)^-1(X^2Z^2H^3SH)^-1(X^2S^2H)^-1(ZSH)^-1(Z^2X)^-1(X^2S^2HS)^-1(XZH^2SH)^-1(XZSHS)^-1(XSHS^2)^-1(X^2ZS^2)^-1(ZS)^-1(ZH)^-1(Z^2XH^3SH)^-1', 'tM'] with key 14
+Accepted indices: 9452/10000
+Effective shots: 9452
+Key: 14
+Expectation value: 1.0
+
+Running circuit 220: ['X^2Z^2H^2S', 'XH^3', 'X^2ZH^2SHS', 'ZH^3S', 'X^2ZSHSH', 'X^2Z^2HSH', 'ZS^2H', 'Z^2XH^3SH', 'X^2HS^2', 'XS^2', 'XZH^2S', 'Z^2', 'Z^2XS^2HSH', 'Z^2HSHS', '(X^2Z^2H^2S)^-1(XH^3)^-1(X^2ZH^2SHS)^-1(ZH^3S)^-1(X^2ZSHSH)^-1(X^2Z^2HSH)^-1(ZS^2H)^-1(Z^2XH^3SH)^-1(X^2HS^2)^-1(XS^2)^-1(XZH^2S)^-1(Z^2)^-1(Z^2XS^2HSH)^-1(Z^2HSHS)^-1', 'tM'] with key 14
+Accepted indices: 9441/10000
+Effective shots: 9441
+Key: 14
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 221: ['ZS^2HS', 'XZS^2HSH', 'HSHS', 'Z^2H^2S', 'X^2HS', 'X^2ZH^2S^2', 'X^2Z^2S^2H', 'XZS^2HS', 'X^2ZSHS', 'HS^2', 'XZHSH', 'ZHS', 'ZH^2SHS', 'Z^2S^2HS', '(ZS^2HS)^-1(XZS^2HSH)^-1(HSHS)^-1(Z^2H^2S)^-1(X^2HS)^-1(X^2ZH^2S^2)^-1(X^2Z^2S^2H)^-1(XZS^2HS)^-1(X^2ZSHS)^-1(HS^2)^-1(XZHSH)^-1(ZHS)^-1(ZH^2SHS)^-1(Z^2S^2HS)^-1', 'tM'] with key 14
+Accepted indices: 9414/10000
+Effective shots: 9414
+Key: 14
+Expectation value: 1.0
+
+Running circuit 222: ['Z^2H^2SH', 'HSH', 'Z^2XH^2S', 'S^2', 'X^2Z^2H^3SH', 'ZS', 'XSHS^2', 'X^2SH', 'X^2H^3', 'H^2S', 'Z^2H^3SH', 'Z^2XS^2HS', 'X^2HSHS^2', 'Z^2XHSHS^2', '(Z^2H^2SH)^-1(HSH)^-1(Z^2XH^2S)^-1(S^2)^-1(X^2Z^2H^3SH)^-1(ZS)^-1(XSHS^2)^-1(X^2SH)^-1(X^2H^3)^-1(H^2S)^-1(Z^2H^3SH)^-1(Z^2XS^2HS)^-1(X^2HSHS^2)^-1(Z^2XHSHS^2)^-1', 'tM'] with key 14
+Accepted indices: 9413/10000
+Effective shots: 9413
+Key: 14
+Expectation value: 0.9998406501481855
+
+Running circuit 223: ['ZH^2S', 'Z^2HS', 'X^2H^2S', 'X^2Z^2H^2S', 'Z^2XH^3', 'X^2SHS', 'X^2H^2SHS', 'X^2ZSHS', 'Z^2H^2', 'XZHSHS^2', 'HSH', 'XZSH', 'ZS', 'Z', '(ZH^2S)^-1(Z^2HS)^-1(X^2H^2S)^-1(X^2Z^2H^2S)^-1(Z^2XH^3)^-1(X^2SHS)^-1(X^2H^2SHS)^-1(X^2ZSHS)^-1(Z^2H^2)^-1(XZHSHS^2)^-1(HSH)^-1(XZSH)^-1(ZS)^-1(Z)^-1', 'tM'] with key 14
+Accepted indices: 9420/10000
+Effective shots: 9420
+Key: 14
+Expectation value: 0.9996815286624204
+
+Running circuit 224: ['XZH^2', 'X^2Z^2SHSH', 'X^2Z^2HS^2', 'XZH^3SH', 'XHSHS', 'X^2ZH^2S^2', 'X^2Z^2HSH', 'XH^2S^2', 'ZS^2H', 'Z^2XH^2SH', 'X^2ZH^2SH', 'XZSH', 'X^2SHS^2', 'Z^2', '(XZH^2)^-1(X^2Z^2SHSH)^-1(X^2Z^2HS^2)^-1(XZH^3SH)^-1(XHSHS)^-1(X^2ZH^2S^2)^-1(X^2Z^2HSH)^-1(XH^2S^2)^-1(ZS^2H)^-1(Z^2XH^2SH)^-1(X^2ZH^2SH)^-1(XZSH)^-1(X^2SHS^2)^-1(Z^2)^-1', 'tM'] with key 14
+Accepted indices: 9441/10000
+Effective shots: 9441
+Key: 14
+Expectation value: 1.0
+
+Running circuit 225: ['ZSHS^2', 'Z^2H^2SH', 'XZSHS', 'X^2ZH^3SH', 'XZ', 'H^3SH', 'XZS', 'X^2Z', 'Z^2H^2S^2', 'XHS', 'Z^2XH^3', 'HS', 'ZH^2SHS', 'XS^2', '(ZSHS^2)^-1(Z^2H^2SH)^-1(XZSHS)^-1(X^2ZH^3SH)^-1(XZ)^-1(H^3SH)^-1(XZS)^-1(X^2Z)^-1(Z^2H^2S^2)^-1(XHS)^-1(Z^2XH^3)^-1(HS)^-1(ZH^2SHS)^-1(XS^2)^-1', 'tM'] with key 14
+Accepted indices: 9426/10000
+Effective shots: 9426
+Key: 14
+Expectation value: 0.9996817313812857
+
+Running circuit 226: ['X^2ZH', 'ZSHS', 'X^2ZSHS', 'X^2H^3S', 'H^3SH', 'H^3SH', 'X^2ZSH', 'Z^2XSH', 'ZH^3S', 'XSHS^2', 'Z^2XHS', 'X^2ZSHSH', 'ZHSHS', 'XZH^2SH', '(X^2ZH)^-1(ZSHS)^-1(X^2ZSHS)^-1(X^2H^3S)^-1(H^3SH)^-1(H^3SH)^-1(X^2ZSH)^-1(Z^2XSH)^-1(ZH^3S)^-1(XSHS^2)^-1(Z^2XHS)^-1(X^2ZSHSH)^-1(ZHSHS)^-1(XZH^2SH)^-1', 'tM'] with key 14
+Accepted indices: 9478/10000
+Effective shots: 9478
+Key: 14
+Expectation value: 0.9998417429385492
+
+Running circuit 227: ['Z^2H^2S^2', 'XZ', 'X^2ZS', 'H^2', 'Z^2XS^2H', 'XZH^2S^2', 'X^2H^2S^2', 'X^2Z^2HS^2', 'XS^2HS', 'X^2S^2', 'X^2ZS^2', 'Z^2XHS', 'X^2ZH', 'X^2ZH^2', '(Z^2H^2S^2)^-1(XZ)^-1(X^2ZS)^-1(H^2)^-1(Z^2XS^2H)^-1(XZH^2S^2)^-1(X^2H^2S^2)^-1(X^2Z^2HS^2)^-1(XS^2HS)^-1(X^2S^2)^-1(X^2ZS^2)^-1(Z^2XHS)^-1(X^2ZH)^-1(X^2ZH^2)^-1', 'tM'] with key 14
+Accepted indices: 9453/10000
+Effective shots: 9453
+Key: 14
+Expectation value: 0.9996826572231203
+
+Running circuit 228: ['XHSHS^2', 'X^2SHSH', 'Z^2SHS^2', 'XHS^2', 'Z^2HS', 'X^2HS', 'X^2Z^2S^2HSH', 'Z^2XH^2S^2', 'HS', 'XZH^3SH', 'XZSHS^2', 'XZ', 'X^2ZHSHS', 'XZSHS^2', '(XHSHS^2)^-1(X^2SHSH)^-1(Z^2SHS^2)^-1(XHS^2)^-1(Z^2HS)^-1(X^2HS)^-1(X^2Z^2S^2HSH)^-1(Z^2XH^2S^2)^-1(HS)^-1(XZH^3SH)^-1(XZSHS^2)^-1(XZ)^-1(X^2ZHSHS)^-1(XZSHS^2)^-1', 'tM'] with key 14
+Accepted indices: 9446/10000
+Effective shots: 9446
+Key: 14
+Expectation value: 0.9998412068288851
+
+Running circuit 229: ['X^2Z^2SHS^2', 'Z^2SHSH', 'X^2HSH', 'X^2HS', 'H^3SH', 'X^2Z^2SHS', 'Z^2SHS^2', 'I', 'XHS^2', 'XZSHS^2', 'Z^2HSH', 'XS^2H', 'X^2Z^2H', 'XZH^2SHS', '(X^2Z^2SHS^2)^-1(Z^2SHSH)^-1(X^2HSH)^-1(X^2HS)^-1(H^3SH)^-1(X^2Z^2SHS)^-1(Z^2SHS^2)^-1(I)^-1(XHS^2)^-1(XZSHS^2)^-1(Z^2HSH)^-1(XS^2H)^-1(X^2Z^2H)^-1(XZH^2SHS)^-1', 'tM'] with key 14
+Accepted indices: 9428/10000
+Effective shots: 9428
+Key: 14
+Expectation value: 0.9998409036679535
+
+Running circuit 230: ['H^3S', 'XZH^2SHS', 'X^2ZH', 'Z^2SHS', 'X^2ZS^2HSH', 'Z^2XH^2SH', 'X^2Z^2SHS^2', 'XSHS^2', 'X^2ZSH', 'S^2HS', 'X^2ZH^2S', 'X^2H^2', 'S^2', 'Z^2S^2HSH', '(H^3S)^-1(XZH^2SHS)^-1(X^2ZH)^-1(Z^2SHS)^-1(X^2ZS^2HSH)^-1(Z^2XH^2SH)^-1(X^2Z^2SHS^2)^-1(XSHS^2)^-1(X^2ZSH)^-1(S^2HS)^-1(X^2ZH^2S)^-1(X^2H^2)^-1(S^2)^-1(Z^2S^2HSH)^-1', 'tM'] with key 14
+Accepted indices: 9365/10000
+Effective shots: 9365
+Key: 14
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 231: ['X^2HS', 'X^2Z^2H^2S^2', 'X^2S^2HS', 'X^2HSHS', 'Z^2XS^2H', 'X^2Z^2H^2S^2', 'X^2ZH^3SH', 'X^2S^2H', 'Z^2S^2HS', 'XH^2S', 'X^2ZHSHS', 'XZH^2S^2', 'ZH^2SHS', 'Z^2XS^2', '(X^2HS)^-1(X^2Z^2H^2S^2)^-1(X^2S^2HS)^-1(X^2HSHS)^-1(Z^2XS^2H)^-1(X^2Z^2H^2S^2)^-1(X^2ZH^3SH)^-1(X^2S^2H)^-1(Z^2S^2HS)^-1(XH^2S)^-1(X^2ZHSHS)^-1(XZH^2S^2)^-1(ZH^2SHS)^-1(Z^2XS^2)^-1', 'tM'] with key 14
+Accepted indices: 9360/10000
+Effective shots: 9360
+Key: 14
+Expectation value: 0.9998397478707823
+
+Running circuit 232: ['Z^2H^3SH', 'Z^2H^2', 'XZS^2HS', 'X^2Z^2H^2S^2', 'I', 'X^2S^2', 'Z^2H^3SH', 'Z^2SHSH', 'Z^2H^3S', 'XSHS', 'S^2', 'XZSHS', 'X^2Z^2H^2S^2', 'X^2Z^2HSH', '(Z^2H^3SH)^-1(Z^2H^2)^-1(XZS^2HS)^-1(X^2Z^2H^2S^2)^-1(I)^-1(X^2S^2)^-1(Z^2H^3SH)^-1(Z^2SHSH)^-1(Z^2H^3S)^-1(XSHS)^-1(S^2)^-1(XZSHS)^-1(X^2Z^2H^2S^2)^-1(X^2Z^2HSH)^-1', 'tM'] with key 14
+Accepted indices: 9437/10000
+Effective shots: 9437
+Key: 14
+Expectation value: 0.9996821192115463
+
+Running circuit 233: ['X^2Z^2H^2S^2', 'ZHS^2', 'XZH^3S', 'X^2ZHSHS', 'X^2ZH^3S', 'S^2H', 'ZH^2S', 'H^2', 'XHSH', 'XS^2HSH', 'XSHSH', 'S^2H', 'ZHS', 'X^2Z^2H^2SHS', '(X^2Z^2H^2S^2)^-1(ZHS^2)^-1(XZH^3S)^-1(X^2ZHSHS)^-1(X^2ZH^3S)^-1(S^2H)^-1(ZH^2S)^-1(H^2)^-1(XHSH)^-1(XS^2HSH)^-1(XSHSH)^-1(S^2H)^-1(ZHS)^-1(X^2Z^2H^2SHS)^-1', 'tM'] with key 14
+Accepted indices: 9414/10000
+Effective shots: 9414
+Key: 14
+Expectation value: 0.9995219927611365
+
+Running circuit 234: ['S', 'X^2ZSH', 'X^2ZSH', 'Z^2XS^2H', 'Z^2XH^2SHS', 'X^2SHS^2', 'S^2HS', 'X^2SH', 'ZHS', 'X^2ZSHS^2', 'X^2ZH^3SH', 'XZH^2S^2', 'Z^2H^2SHS', 'X^2Z^2S^2HS', '(S)^-1(X^2ZSH)^-1(X^2ZSH)^-1(Z^2XS^2H)^-1(Z^2XH^2SHS)^-1(X^2SHS^2)^-1(S^2HS)^-1(X^2SH)^-1(ZHS)^-1(X^2ZSHS^2)^-1(X^2ZH^3SH)^-1(XZH^2S^2)^-1(Z^2H^2SHS)^-1(X^2Z^2S^2HS)^-1', 'tM'] with key 14
+Accepted indices: 9431/10000
+Effective shots: 9431
+Key: 14
+Expectation value: 1.0
+
+Running circuit 235: ['X^2Z^2SHS', 'X^2ZH^2SHS', 'Z^2H^2SH', 'S^2HSH', 'Z^2XH^3SH', 'XZH^2SHS', 'X^2ZSHS^2', 'X^2HSH', 'Z^2XS^2HS', 'ZH^3', 'Z^2H^3S', 'ZH^2S^2', 'X^2Z^2S^2HS', 'Z^2XHSH', '(X^2Z^2SHS)^-1(X^2ZH^2SHS)^-1(Z^2H^2SH)^-1(S^2HSH)^-1(Z^2XH^3SH)^-1(XZH^2SHS)^-1(X^2ZSHS^2)^-1(X^2HSH)^-1(Z^2XS^2HS)^-1(ZH^3)^-1(Z^2H^3S)^-1(ZH^2S^2)^-1(X^2Z^2S^2HS)^-1(Z^2XHSH)^-1', 'tM'] with key 14
+Accepted indices: 9434/10000
+Effective shots: 9434
+Key: 14
+Expectation value: 0.9996820012719948
+
+Running circuit 236: ['XZH', 'XH^2', 'X^2HSHS', 'Z^2H^2S', 'ZSHS', 'X^2ZH^3SH', 'Z^2H', 'S^2HS', 'X^2SHS^2', 'X^2', 'X^2Z^2H^2S', 'ZHS^2', 'ZHS', 'X^2Z^2H^3', '(XZH)^-1(XH^2)^-1(X^2HSHS)^-1(Z^2H^2S)^-1(ZSHS)^-1(X^2ZH^3SH)^-1(Z^2H)^-1(S^2HS)^-1(X^2SHS^2)^-1(X^2)^-1(X^2Z^2H^2S)^-1(ZHS^2)^-1(ZHS)^-1(X^2Z^2H^3)^-1', 'tM'] with key 14
+Accepted indices: 9468/10000
+Effective shots: 9468
+Key: 14
+Expectation value: 0.9998415757935544
+
+Running circuit 237: ['S^2', 'ZHS^2', 'S^2H', 'XSH', 'XH^2SHS', 'X^2Z^2HSHS', 'H^2S', 'X^2Z^2HSHS', 'X^2Z', 'X^2ZH^2S^2', 'ZS^2', 'Z^2H^3', 'HSHS', 'Z^2XS', '(S^2)^-1(ZHS^2)^-1(S^2H)^-1(XSH)^-1(XH^2SHS)^-1(X^2Z^2HSHS)^-1(H^2S)^-1(X^2Z^2HSHS)^-1(X^2Z)^-1(X^2ZH^2S^2)^-1(ZS^2)^-1(Z^2H^3)^-1(HSHS)^-1(Z^2XS)^-1', 'tM'] with key 14
+Accepted indices: 9423/10000
+Effective shots: 9423
+Key: 14
+Expectation value: 1.0
+
+Running circuit 238: ['X^2ZSHS', 'H^2S', 'Z^2S^2H', 'X^2S^2HS', 'Z^2HSHS', 'Z^2SH', 'XZS^2', 'X^2ZH^2', 'XH^2S', 'ZS^2', 'X', 'XZS^2HSH', 'ZH^2S^2', 'XZH^2SHS', '(X^2ZSHS)^-1(H^2S)^-1(Z^2S^2H)^-1(X^2S^2HS)^-1(Z^2HSHS)^-1(Z^2SH)^-1(XZS^2)^-1(X^2ZH^2)^-1(XH^2S)^-1(ZS^2)^-1(X)^-1(XZS^2HSH)^-1(ZH^2S^2)^-1(XZH^2SHS)^-1', 'tM'] with key 14
+Accepted indices: 9440/10000
+Effective shots: 9440
+Key: 14
+Expectation value: 0.9996822033898305
+
+Running circuit 239: ['X^2H^2', 'Z^2XS^2HSH', 'XZH', 'Z^2XS^2HS', 'Z^2XS', 'XH^3S', 'Z^2XS^2H', 'X^2Z^2S^2HSH', 'XH^3S', 'X^2S^2HS', 'ZSHS', 'X^2Z^2S^2HSH', 'ZSH', 'X^2ZS^2H', '(X^2H^2)^-1(Z^2XS^2HSH)^-1(XZH)^-1(Z^2XS^2HS)^-1(Z^2XS)^-1(XH^3S)^-1(Z^2XS^2H)^-1(X^2Z^2S^2HSH)^-1(XH^3S)^-1(X^2S^2HS)^-1(ZSHS)^-1(X^2Z^2S^2HSH)^-1(ZSH)^-1(X^2ZS^2H)^-1', 'tM'] with key 14
+Accepted indices: 9411/10000
+Effective shots: 9411
+Key: 14
+Expectation value: 0.9993624651460666
+
+Running circuit 240: ['Z^2XSHSH', 'X^2ZHS^2', 'XH^2S^2', 'Z^2H^2SH', 'X^2ZHSH', 'XS^2HS', 'XZH^2S^2', 'ZHSH', 'X^2HSH', 'ZHS^2', 'H^3', 'X^2H^2', 'Z^2XH^3S', 'S^2H', 'X^2Z^2H^3', 'Z^2S^2HS', '(Z^2XSHSH)^-1(X^2ZHS^2)^-1(XH^2S^2)^-1(Z^2H^2SH)^-1(X^2ZHSH)^-1(XS^2HS)^-1(XZH^2S^2)^-1(ZHSH)^-1(X^2HSH)^-1(ZHS^2)^-1(H^3)^-1(X^2H^2)^-1(Z^2XH^3S)^-1(S^2H)^-1(X^2Z^2H^3)^-1(Z^2S^2HS)^-1', 'tM'] with key 16
+Accepted indices: 9307/10000
+Effective shots: 9307
+Key: 16
+Expectation value: 1.0
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 241: ['XH^2', 'ZH^2S', 'HSH', 'X^2Z^2', 'XSHS', 'Z^2XSH', 'X^2SH', 'X^2Z^2H^2SHS', 'X^2Z^2H^2', 'XH^2SHS', 'X^2H^2', 'X^2S^2H', 'ZH^2', 'Z^2H^3', 'Z^2XSH', 'XZS^2HSH', '(XH^2)^-1(ZH^2S)^-1(HSH)^-1(X^2Z^2)^-1(XSHS)^-1(Z^2XSH)^-1(X^2SH)^-1(X^2Z^2H^2SHS)^-1(X^2Z^2H^2)^-1(XH^2SHS)^-1(X^2H^2)^-1(X^2S^2H)^-1(ZH^2)^-1(Z^2H^3)^-1(Z^2XSH)^-1(XZS^2HSH)^-1', 'tM'] with key 16
+Accepted indices: 9338/10000
+Effective shots: 9338
+Key: 16
+Expectation value: 0.9996787492702497
+
+Running circuit 242: ['XZS^2H', 'XZSH', 'Z^2XH^3', 'ZH^2SHS', 'ZH^2SHS', 'X^2Z^2H^2SH', 'Z^2XHSHS', 'ZHS', 'X^2H', 'XHSHS^2', 'X^2ZH^2S^2', 'XH^2SH', 'XH^2S', 'Z^2S^2HS', 'X^2HS', 'X^2ZH^2S^2', '(XZS^2H)^-1(XZSH)^-1(Z^2XH^3)^-1(ZH^2SHS)^-1(ZH^2SHS)^-1(X^2Z^2H^2SH)^-1(Z^2XHSHS)^-1(ZHS)^-1(X^2H)^-1(XHSHS^2)^-1(X^2ZH^2S^2)^-1(XH^2SH)^-1(XH^2S)^-1(Z^2S^2HS)^-1(X^2HS)^-1(X^2ZH^2S^2)^-1', 'tM'] with key 16
+Accepted indices: 9296/10000
+Effective shots: 9296
+Key: 16
+Expectation value: 0.9998386446155809
+
+Running circuit 243: ['H^2S^2', 'X^2ZHS^2', 'SHS', 'XZS^2', 'HS^2', 'XZHSHS', 'XZ', 'XH^3', 'ZH^2S', 'ZHSHS^2', 'XSH', 'X^2Z^2H^2S^2', 'XH^3S', 'Z^2XHSHS^2', 'XH^2SHS', 'X^2ZH^2S', '(H^2S^2)^-1(X^2ZHS^2)^-1(SHS)^-1(XZS^2)^-1(HS^2)^-1(XZHSHS)^-1(XZ)^-1(XH^3)^-1(ZH^2S)^-1(ZHSHS^2)^-1(XSH)^-1(X^2Z^2H^2S^2)^-1(XH^3S)^-1(Z^2XHSHS^2)^-1(XH^2SHS)^-1(X^2ZH^2S)^-1', 'tM'] with key 16
+Accepted indices: 9353/10000
+Effective shots: 9353
+Key: 16
+Expectation value: 0.9998396279376156
+
+Running circuit 244: ['ZSH', 'X^2ZH^2S^2', 'Z^2XS^2', 'X^2ZSHS^2', 'S^2', 'XH^2S', 'X^2ZH^2S', 'XHS^2', 'XH^2SH', 'ZS^2HSH', 'XZSH', 'Z^2HSHS^2', 'X^2ZS^2', 'X^2SH', 'XS^2', 'Z^2S^2HSH', '(ZSH)^-1(X^2ZH^2S^2)^-1(Z^2XS^2)^-1(X^2ZSHS^2)^-1(S^2)^-1(XH^2S)^-1(X^2ZH^2S)^-1(XHS^2)^-1(XH^2SH)^-1(ZS^2HSH)^-1(XZSH)^-1(Z^2HSHS^2)^-1(X^2ZS^2)^-1(X^2SH)^-1(XS^2)^-1(Z^2S^2HSH)^-1', 'tM'] with key 16
+Accepted indices: 9319/10000
+Effective shots: 9319
+Key: 16
+Expectation value: 1.0
+
+Running circuit 245: ['XH^3SH', 'X^2ZSH', 'XS^2H', 'Z^2XH^3', 'ZSHS', 'ZSHS', 'H^3S', 'XH^2S^2', 'Z^2XSHSH', 'X^2H^3S', 'HSH', 'S^2', 'Z^2HSHS', 'X^2ZSHS', 'XZHSHS^2', 'Z^2XS^2', '(XH^3SH)^-1(X^2ZSH)^-1(XS^2H)^-1(Z^2XH^3)^-1(ZSHS)^-1(ZSHS)^-1(H^3S)^-1(XH^2S^2)^-1(Z^2XSHSH)^-1(X^2H^3S)^-1(HSH)^-1(S^2)^-1(Z^2HSHS)^-1(X^2ZSHS)^-1(XZHSHS^2)^-1(Z^2XS^2)^-1', 'tM'] with key 16
+Accepted indices: 9315/10000
+Effective shots: 9315
+Key: 16
+Expectation value: 0.9996779561011778
+
+Running circuit 246: ['Z^2H', 'X^2Z^2S^2', 'X^2Z^2S^2H', 'ZHSH', 'X^2Z^2H^2S', 'X^2SH', 'S^2HS', 'Z^2SHS^2', 'H^3', 'X^2ZHS^2', 'Z^2S^2', 'X^2ZSHS', 'Z^2XSHS', 'XSH', 'Z^2H^3', 'X^2SHS', '(Z^2H)^-1(X^2Z^2S^2)^-1(X^2Z^2S^2H)^-1(ZHSH)^-1(X^2Z^2H^2S)^-1(X^2SH)^-1(S^2HS)^-1(Z^2SHS^2)^-1(H^3)^-1(X^2ZHS^2)^-1(Z^2S^2)^-1(X^2ZSHS)^-1(Z^2XSHS)^-1(XSH)^-1(Z^2H^3)^-1(X^2SHS)^-1', 'tM'] with key 16
+Accepted indices: 9325/10000
+Effective shots: 9325
+Key: 16
+Expectation value: 0.999839146404391
+
+Running circuit 247: ['ZHSH', 'X^2ZHS^2', 'X^2Z^2S', 'Z^2XHSH', 'X^2Z^2H^3SH', 'Z^2XHSHS^2', 'ZH^2SH', 'Z^2XHSHS^2', 'Z^2XS^2', 'X^2Z', 'XZ', 'X^2H^3S', 'ZHSHS', 'Z^2XSHSH', 'XZS', 'Z^2XHS^2', '(ZHSH)^-1(X^2ZHS^2)^-1(X^2Z^2S)^-1(Z^2XHSH)^-1(X^2Z^2H^3SH)^-1(Z^2XHSHS^2)^-1(ZH^2SH)^-1(Z^2XHSHS^2)^-1(Z^2XS^2)^-1(X^2Z)^-1(XZ)^-1(X^2H^3S)^-1(ZHSHS)^-1(Z^2XSHSH)^-1(XZS)^-1(Z^2XHS^2)^-1', 'tM'] with key 16
+Accepted indices: 9324/10000
+Effective shots: 9324
+Key: 16
+Expectation value: 0.9995173788329268
+
+Running circuit 248: ['X^2ZH^3S', 'Z^2XS', 'Z^2S^2HSH', 'Z^2S^2HS', 'Z^2XH^2S^2', 'XZS^2HSH', 'X^2ZSHS', 'X^2HSH', 'S', 'Z^2S^2HS', 'XH^2', 'X^2Z^2H', 'XZH^2SH', 'X^2Z^2H^2SH', 'X^2HS^2', 'X^2Z^2H^3SH', '(X^2ZH^3S)^-1(Z^2XS)^-1(Z^2S^2HSH)^-1(Z^2S^2HS)^-1(Z^2XH^2S^2)^-1(XZS^2HSH)^-1(X^2ZSHS)^-1(X^2HSH)^-1(S)^-1(Z^2S^2HS)^-1(XH^2)^-1(X^2Z^2H)^-1(XZH^2SH)^-1(X^2Z^2H^2SH)^-1(X^2HS^2)^-1(X^2Z^2H^3SH)^-1', 'tM'] with key 16
+Accepted indices: 9331/10000
+Effective shots: 9331
+Key: 16
+Expectation value: 0.9998392498333598
+
+Running circuit 249: ['X^2SHS^2', 'Z^2SHS', 'X^2ZH^3S', 'Z^2XS^2HS', 'X^2ZH^2S', 'X^2H^2S', 'Z^2H^2S', 'X^2Z^2HSHS^2', 'HSH', 'X^2Z', 'X^2H^3S', 'XZH^2S', 'Z^2XHSHS^2', 'X^2Z^2SHS^2', 'Z^2XS^2H', 'I', '(X^2SHS^2)^-1(Z^2SHS)^-1(X^2ZH^3S)^-1(Z^2XS^2HS)^-1(X^2ZH^2S)^-1(X^2H^2S)^-1(Z^2H^2S)^-1(X^2Z^2HSHS^2)^-1(HSH)^-1(X^2Z)^-1(X^2H^3S)^-1(XZH^2S)^-1(Z^2XHSHS^2)^-1(X^2Z^2SHS^2)^-1(Z^2XS^2H)^-1(I)^-1', 'tM'] with key 16
+Accepted indices: 9360/10000
+Effective shots: 9360
+Key: 16
+Expectation value: 0.9998397478707823
+
+Running circuit 250: ['XHS', 'X^2Z^2H^3SH', 'X^2H^2S^2', 'ZS^2HSH', 'X^2Z', 'S^2HS', 'Z^2H^2SH', 'X^2ZH^2S^2', 'X^2Z^2H^3S', 'ZHS^2', 'S', 'XZH^2S^2', 'Z^2H', 'XZSH', 'X^2Z^2H^3SH', 'H^2', '(XHS)^-1(X^2Z^2H^3SH)^-1(X^2H^2S^2)^-1(ZS^2HSH)^-1(X^2Z)^-1(S^2HS)^-1(Z^2H^2SH)^-1(X^2ZH^2S^2)^-1(X^2Z^2H^3S)^-1(ZHS^2)^-1(S)^-1(XZH^2S^2)^-1(Z^2H)^-1(XZSH)^-1(X^2Z^2H^3SH)^-1(H^2)^-1', 'tM'] with key 16
+Accepted indices: 9336/10000
+Effective shots: 9336
+Key: 16
+Expectation value: 0.9998393359226168
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 251: ['X^2ZS^2HSH', 'X^2Z^2HSHS^2', 'Z^2HSHS^2', 'X^2Z^2SHS', 'S^2H', 'XZH^2SHS', 'Z^2XSHS', 'ZH', 'Z^2H^2S^2', 'X^2ZH^2SHS', 'H^3SH', 'S^2H', 'XZSHSH', 'ZH^2SHS', 'ZS^2HSH', 'XZH^3SH', '(X^2ZS^2HSH)^-1(X^2Z^2HSHS^2)^-1(Z^2HSHS^2)^-1(X^2Z^2SHS)^-1(S^2H)^-1(XZH^2SHS)^-1(Z^2XSHS)^-1(ZH)^-1(Z^2H^2S^2)^-1(X^2ZH^2SHS)^-1(H^3SH)^-1(S^2H)^-1(XZSHSH)^-1(ZH^2SHS)^-1(ZS^2HSH)^-1(XZH^3SH)^-1', 'tM'] with key 16
+Accepted indices: 9352/10000
+Effective shots: 9352
+Key: 16
+Expectation value: 0.999679230158786
+
+Running circuit 252: ['H^3', 'ZS^2H', 'X^2ZS^2H', 'XH^2S^2', 'Z^2SHS^2', 'X^2ZS^2HSH', 'XZS', 'Z^2XHSH', 'XZH^2S^2', 'X^2S', 'XZHSH', 'HS', 'ZH', 'XSH', 'X^2ZH^2SH', 'X^2ZS', '(H^3)^-1(ZS^2H)^-1(X^2ZS^2H)^-1(XH^2S^2)^-1(Z^2SHS^2)^-1(X^2ZS^2HSH)^-1(XZS)^-1(Z^2XHSH)^-1(XZH^2S^2)^-1(X^2S)^-1(XZHSH)^-1(HS)^-1(ZH)^-1(XSH)^-1(X^2ZH^2SH)^-1(X^2ZS)^-1', 'tM'] with key 16
+Accepted indices: 9358/10000
+Effective shots: 9358
+Key: 16
+Expectation value: 0.999679418679205
+
+Running circuit 253: ['XZSHS^2', 'XZS^2', 'XHSHS', 'ZSHS', 'XH^2SHS', 'XS^2H', 'X^2SHS', 'XS^2HS', 'XZHS^2', 'H^2SHS', 'HSH', 'X^2ZH^3S', 'S^2HS', 'ZH', 'X^2Z^2H^2S', 'ZHS^2', '(XZSHS^2)^-1(XZS^2)^-1(XHSHS)^-1(ZSHS)^-1(XH^2SHS)^-1(XS^2H)^-1(X^2SHS)^-1(XS^2HS)^-1(XZHS^2)^-1(H^2SHS)^-1(HSH)^-1(X^2ZH^3S)^-1(S^2HS)^-1(ZH)^-1(X^2Z^2H^2S)^-1(ZHS^2)^-1', 'tM'] with key 16
+Accepted indices: 9332/10000
+Effective shots: 9332
+Key: 16
+Expectation value: 0.9996785255036434
+
+Running circuit 254: ['Z^2XH^3', 'Z^2XSHS^2', 'XS^2', 'Z^2HS^2', 'HSHS^2', 'X^2ZSHS^2', 'X^2ZSHSH', 'X^2SHS', 'XHSHS^2', 'X^2Z', 'SHSH', 'S', 'X^2Z^2H^2SH', 'XZHSHS', 'Z^2XH^2SHS', 'ZH', '(Z^2XH^3)^-1(Z^2XSHS^2)^-1(XS^2)^-1(Z^2HS^2)^-1(HSHS^2)^-1(X^2ZSHS^2)^-1(X^2ZSHSH)^-1(X^2SHS)^-1(XHSHS^2)^-1(X^2Z)^-1(SHSH)^-1(S)^-1(X^2Z^2H^2SH)^-1(XZHSHS)^-1(Z^2XH^2SHS)^-1(ZH)^-1', 'tM'] with key 16
+Accepted indices: 9347/10000
+Effective shots: 9347
+Key: 16
+Expectation value: 0.9996790414036589
+
+Running circuit 255: ['ZSH', 'Z^2S^2HSH', 'XH^3SH', 'SH', 'ZS^2HS', 'Z^2SHSH', 'S^2H', 'ZHS', 'Z^2H^2SHS', 'X^2H^2S', 'Z^2H^2S^2', 'XZH^2S^2', 'Z', 'SH', 'X^2ZH', 'Z^2XH^3', '(ZSH)^-1(Z^2S^2HSH)^-1(XH^3SH)^-1(SH)^-1(ZS^2HS)^-1(Z^2SHSH)^-1(S^2H)^-1(ZHS)^-1(Z^2H^2SHS)^-1(X^2H^2S)^-1(Z^2H^2S^2)^-1(XZH^2S^2)^-1(Z)^-1(SH)^-1(X^2ZH)^-1(Z^2XH^3)^-1', 'tM'] with key 16
+Accepted indices: 9374/10000
+Effective shots: 9374
+Key: 16
+Expectation value: 0.999679982938798
+
+Running circuit 256: ['Z^2XH^2S', 'Z^2XSH', 'Z^2S^2H', 'ZH^2', 'X^2Z^2H^2SH', 'ZH^2S^2', 'Z^2XS^2H', 'X^2ZH', 'Z^2S', 'XZS^2HS', 'XZS^2HSH', 'SHS', 'X^2Z', 'Z^2XH^3', 'H^3', 'Z^2XS^2', '(Z^2XH^2S)^-1(Z^2XSH)^-1(Z^2S^2H)^-1(ZH^2)^-1(X^2Z^2H^2SH)^-1(ZH^2S^2)^-1(Z^2XS^2H)^-1(X^2ZH)^-1(Z^2S)^-1(XZS^2HS)^-1(XZS^2HSH)^-1(SHS)^-1(X^2Z)^-1(Z^2XH^3)^-1(H^3)^-1(Z^2XS^2)^-1', 'tM'] with key 16
+Accepted indices: 9366/10000
+Effective shots: 9366
+Key: 16
+Expectation value: 0.9998398505279574
+
+Running circuit 257: ['X^2Z^2S^2HSH', 'X^2ZHSH', 'S^2H', 'SHS', 'X^2ZS', 'ZH^2S^2', 'HSHS', 'S^2', 'XHSH', 'Z^2XS^2H', 'X^2Z^2S^2H', 'ZH^2S', 'X^2Z^2S^2HSH', 'X^2Z^2HS', 'XS^2H', 'X^2Z^2H^3', '(X^2Z^2S^2HSH)^-1(X^2ZHSH)^-1(S^2H)^-1(SHS)^-1(X^2ZS)^-1(ZH^2S^2)^-1(HSHS)^-1(S^2)^-1(XHSH)^-1(Z^2XS^2H)^-1(X^2Z^2S^2H)^-1(ZH^2S)^-1(X^2Z^2S^2HSH)^-1(X^2Z^2HS)^-1(XS^2H)^-1(X^2Z^2H^3)^-1', 'tM'] with key 16
+Accepted indices: 9286/10000
+Effective shots: 9286
+Key: 16
+Expectation value: 0.9996769330174455
+
+Running circuit 258: ['ZHS', 'Z^2S^2HS', 'Z^2H^2', 'X^2SH', 'XZSHSH', 'Z^2XH^3', 'XZSHSH', 'XZSHS^2', 'X^2ZHSHS^2', 'X^2ZSHS', 'S^2HS', 'X^2ZSHS', 'XZH^2S', 'H^2', 'HSHS^2', 'HS^2', '(ZHS)^-1(Z^2S^2HS)^-1(Z^2H^2)^-1(X^2SH)^-1(XZSHSH)^-1(Z^2XH^3)^-1(XZSHSH)^-1(XZSHS^2)^-1(X^2ZHSHS^2)^-1(X^2ZSHS)^-1(S^2HS)^-1(X^2ZSHS)^-1(XZH^2S)^-1(H^2)^-1(HSHS^2)^-1(HS^2)^-1', 'tM'] with key 16
+Accepted indices: 9304/10000
+Effective shots: 9304
+Key: 16
+Expectation value: 0.9998387833525089
+
+Running circuit 259: ['XZSHSH', 'X^2ZS^2', 'Z^2XSHS', 'ZHSHS', 'X^2Z^2SH', 'X^2Z^2H^2SHS', 'H', 'X^2Z^2H^3SH', 'X^2Z^2H^3SH', 'X^2Z^2S^2', 'XZHS', 'Z^2SHS^2', 'XH^3S', 'X^2Z^2HSHS', 'S^2HS', 'X^2Z^2HS^2', '(XZSHSH)^-1(X^2ZS^2)^-1(Z^2XSHS)^-1(ZHSHS)^-1(X^2Z^2SH)^-1(X^2Z^2H^2SHS)^-1(H)^-1(X^2Z^2H^3SH)^-1(X^2Z^2H^3SH)^-1(X^2Z^2S^2)^-1(XZHS)^-1(Z^2SHS^2)^-1(XH^3S)^-1(X^2Z^2HSHS)^-1(S^2HS)^-1(X^2Z^2HS^2)^-1', 'tM'] with key 16
+Accepted indices: 9287/10000
+Effective shots: 9287
+Key: 16
+Expectation value: 0.9996769852017109
+
+Running circuit 260: ['XZH^3', 'ZH^2SHS', 'X^2HS', 'Z^2H^2SH', 'Z^2XH^3SH', 'ZH', 'Z^2SH', 'X^2H^3S', 'X^2Z^2', 'Z^2', 'H^2S', 'H^3S', 'SHS^2', 'X^2Z^2H^2', 'X^2Z^2S^2', 'X^2ZH^2SH', '(XZH^3)^-1(ZH^2SHS)^-1(X^2HS)^-1(Z^2H^2SH)^-1(Z^2XH^3SH)^-1(ZH)^-1(Z^2SH)^-1(X^2H^3S)^-1(X^2Z^2)^-1(Z^2)^-1(H^2S)^-1(H^3S)^-1(SHS^2)^-1(X^2Z^2H^2)^-1(X^2Z^2S^2)^-1(X^2ZH^2SH)^-1', 'tM'] with key 16
+Accepted indices: 9352/10000
+Effective shots: 9352
+Key: 16
+Expectation value: 0.9996792130025662
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 261: ['Z^2S^2', 'Z^2H', 'ZS^2', 'Z^2XS^2HSH', 'Z^2SH', 'Z^2XH^2S^2', 'Z^2H^3S', 'H^3', 'X^2ZSHSH', 'X^2H^2SH', 'X^2S^2HS', 'Z^2S', 'X^2ZH^3', 'X^2', 'X^2SHS', 'XZH^3SH', '(Z^2S^2)^-1(Z^2H)^-1(ZS^2)^-1(Z^2XS^2HSH)^-1(Z^2SH)^-1(Z^2XH^2S^2)^-1(Z^2H^3S)^-1(H^3)^-1(X^2ZSHSH)^-1(X^2H^2SH)^-1(X^2S^2HS)^-1(Z^2S)^-1(X^2ZH^3)^-1(X^2)^-1(X^2SHS)^-1(XZH^3SH)^-1', 'tM'] with key 16
+Accepted indices: 9357/10000
+Effective shots: 9357
+Key: 16
+Expectation value: 1.0
+
+Running circuit 262: ['H^3SH', 'X^2S^2H', 'X', 'X^2Z^2SH', 'X^2H^2S^2', 'X^2Z^2H^2SHS', 'XHS', 'Z^2XSHS^2', 'X^2Z^2HSHS', 'X^2Z^2HSHS^2', 'Z^2S^2H', 'X^2Z^2H^2SHS', 'X^2SHS^2', 'ZH^3', 'XZHS', 'XZHS', '(H^3SH)^-1(X^2S^2H)^-1(X)^-1(X^2Z^2SH)^-1(X^2H^2S^2)^-1(X^2Z^2H^2SHS)^-1(XHS)^-1(Z^2XSHS^2)^-1(X^2Z^2HSHS)^-1(X^2Z^2HSHS^2)^-1(Z^2S^2H)^-1(X^2Z^2H^2SHS)^-1(X^2SHS^2)^-1(ZH^3)^-1(XZHS)^-1(XZHS)^-1', 'tM'] with key 16
+Accepted indices: 9383/10000
+Effective shots: 9383
+Key: 16
+Expectation value: 0.9998401406769996
+
+Running circuit 263: ['ZHS^2', 'Z^2XH^2', 'Z^2H^3', 'Z^2XH^3SH', 'Z^2H^3SH', 'XS^2', 'Z^2XSH', 'X^2Z^2S^2', 'ZS^2H', 'HSH', 'Z^2XS^2HS', 'XZH^2SH', 'XZHSHS^2', 'ZH^2S', 'X^2Z', 'XZSH', '(ZHS^2)^-1(Z^2XH^2)^-1(Z^2H^3)^-1(Z^2XH^3SH)^-1(Z^2H^3SH)^-1(XS^2)^-1(Z^2XSH)^-1(X^2Z^2S^2)^-1(ZS^2H)^-1(HSH)^-1(Z^2XS^2HS)^-1(XZH^2SH)^-1(XZHSHS^2)^-1(ZH^2S)^-1(X^2Z)^-1(XZSH)^-1', 'tM'] with key 16
+Accepted indices: 9351/10000
+Effective shots: 9351
+Key: 16
+Expectation value: 0.999839593638017
+
+Running circuit 264: ['Z^2XH^3', 'Z^2XHS^2', 'Z^2XSH', 'ZSHS^2', 'S^2H', 'XH^2', 'X^2Z^2H', 'Z^2H^2SHS', 'ZHSH', 'H', 'X^2ZHSH', 'XHS', 'X^2H^3', 'X^2S^2', 'Z^2XH^2SHS', 'Z^2XS^2', '(Z^2XH^3)^-1(Z^2XHS^2)^-1(Z^2XSH)^-1(ZSHS^2)^-1(S^2H)^-1(XH^2)^-1(X^2Z^2H)^-1(Z^2H^2SHS)^-1(ZHSH)^-1(H)^-1(X^2ZHSH)^-1(XHS)^-1(X^2H^3)^-1(X^2S^2)^-1(Z^2XH^2SHS)^-1(Z^2XS^2)^-1', 'tM'] with key 16
+Accepted indices: 9320/10000
+Effective shots: 9320
+Key: 16
+Expectation value: 0.9998390601118593
+
+Running circuit 265: ['X^2Z^2HSHS^2', 'Z^2X', 'ZH^3SH', 'ZH^2', 'X^2Z^2HSH', 'Z^2XS^2HS', 'X^2Z^2HS^2', 'X^2Z^2S^2', 'X^2HS^2', 'XS', 'S', 'X^2H^2S^2', 'X^2H', 'X^2SHSH', 'X^2ZH^3S', 'X^2SHS^2', '(X^2Z^2HSHS^2)^-1(Z^2X)^-1(ZH^3SH)^-1(ZH^2)^-1(X^2Z^2HSH)^-1(Z^2XS^2HS)^-1(X^2Z^2HS^2)^-1(X^2Z^2S^2)^-1(X^2HS^2)^-1(XS)^-1(S)^-1(X^2H^2S^2)^-1(X^2H)^-1(X^2SHSH)^-1(X^2ZH^3S)^-1(X^2SHS^2)^-1', 'tM'] with key 16
+Accepted indices: 9313/10000
+Effective shots: 9313
+Key: 16
+Expectation value: 0.9996778696445829
+
+Running circuit 266: ['XZS^2H', 'XZSH', 'H^3SH', 'ZH^2S^2', 'XZH', 'Z^2HSH', 'X^2Z^2SHSH', 'XZH^2S^2', 'XZH^2S^2', 'XH^2S^2', 'X^2HS^2', 'Z^2XSH', 'X^2Z^2S^2', 'XHSHS^2', 'XH^2SHS', 'Z^2H^3S', '(XZS^2H)^-1(XZSH)^-1(H^3SH)^-1(ZH^2S^2)^-1(XZH)^-1(Z^2HSH)^-1(X^2Z^2SHSH)^-1(XZH^2S^2)^-1(XZH^2S^2)^-1(XH^2S^2)^-1(X^2HS^2)^-1(Z^2XSH)^-1(X^2Z^2S^2)^-1(XHSHS^2)^-1(XH^2SHS)^-1(Z^2H^3S)^-1', 'tM'] with key 16
+Accepted indices: 9306/10000
+Effective shots: 9306
+Key: 16
+Expectation value: 0.999838817999471
+
+Running circuit 267: ['X^2ZS^2H', 'X^2Z^2HSH', 'XHSHS^2', 'X^2Z^2SHSH', 'Z^2XHS', 'Z^2XS^2HSH', 'X^2Z^2SHS', 'XZH', 'X^2Z^2HS^2', 'X^2H^2', 'Z^2H^3', 'XHS', 'X^2H^2S^2', 'H^3S', 'X^2ZH^3S', 'ZHSH', '(X^2ZS^2H)^-1(X^2Z^2HSH)^-1(XHSHS^2)^-1(X^2Z^2SHSH)^-1(Z^2XHS)^-1(Z^2XS^2HSH)^-1(X^2Z^2SHS)^-1(XZH)^-1(X^2Z^2HS^2)^-1(X^2H^2)^-1(Z^2H^3)^-1(XHS)^-1(X^2H^2S^2)^-1(H^3S)^-1(X^2ZH^3S)^-1(ZHSH)^-1', 'tM'] with key 16
+Accepted indices: 9365/10000
+Effective shots: 9365
+Key: 16
+Expectation value: 0.9998398334275629
+
+Running circuit 268: ['XZHSHS', 'X^2H^2S^2', 'X^2ZSHSH', 'XZHS^2', 'X^2Z^2HS', 'X^2ZHS^2', 'X^2ZSHSH', 'X^2ZS^2HSH', 'X^2H^3', 'X^2H^2SHS', 'X^2Z^2SHS^2', 'H^3SH', 'Z^2HS^2', 'Z^2H', 'XSHS^2', 'X^2ZH^2SHS', '(XZHSHS)^-1(X^2H^2S^2)^-1(X^2ZSHSH)^-1(XZHS^2)^-1(X^2Z^2HS)^-1(X^2ZHS^2)^-1(X^2ZSHSH)^-1(X^2ZS^2HSH)^-1(X^2H^3)^-1(X^2H^2SHS)^-1(X^2Z^2SHS^2)^-1(H^3SH)^-1(Z^2HS^2)^-1(Z^2H)^-1(XSHS^2)^-1(X^2ZH^2SHS)^-1', 'tM'] with key 16
+Accepted indices: 9361/10000
+Effective shots: 9361
+Key: 16
+Expectation value: 0.9993591113522305
+
+Running circuit 269: ['HS^2', 'Z^2SHS^2', 'X^2H^2', 'Z^2H^2S^2', 'XZS^2HS', 'X^2ZHS^2', 'SHSH', 'XZSH', 'XS^2', 'XZHS', 'X^2H^3SH', 'X^2S^2HSH', 'XS', 'S^2HSH', 'Z^2XSHS^2', 'SHS^2', '(HS^2)^-1(Z^2SHS^2)^-1(X^2H^2)^-1(Z^2H^2S^2)^-1(XZS^2HS)^-1(X^2ZHS^2)^-1(SHSH)^-1(XZSH)^-1(XS^2)^-1(XZHS)^-1(X^2H^3SH)^-1(X^2S^2HSH)^-1(XS)^-1(S^2HSH)^-1(Z^2XSHS^2)^-1(SHS^2)^-1', 'tM'] with key 16
+Accepted indices: 9368/10000
+Effective shots: 9368
+Key: 16
+Expectation value: 0.9995196798080844
+
+Running circuit 270: ['XS^2HSH', 'XZH^2SH', 'HSHS^2', 'X^2H^3SH', 'Z^2SHS', 'XSH', 'X^2ZS^2', 'XSH', 'Z^2XHS', 'H^3SH', 'X^2ZHS', 'X^2Z^2H', 'X^2ZSHS^2', 'ZSHSH', 'X^2Z^2H^2', 'X^2Z^2H^2SHS', 'X^2H^2SHS', 'X^2SHSH', '(XS^2HSH)^-1(XZH^2SH)^-1(HSHS^2)^-1(X^2H^3SH)^-1(Z^2SHS)^-1(XSH)^-1(X^2ZS^2)^-1(XSH)^-1(Z^2XHS)^-1(H^3SH)^-1(X^2ZHS)^-1(X^2Z^2H)^-1(X^2ZSHS^2)^-1(ZSHSH)^-1(X^2Z^2H^2)^-1(X^2Z^2H^2SHS)^-1(X^2H^2SHS)^-1(X^2SHSH)^-1', 'tM'] with key 18
+Accepted indices: 9263/10000
+Effective shots: 9263
+Key: 18
+Expectation value: 0.9998380697927455
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 271: ['ZH', 'X^2ZS^2H', 'ZHS', 'XZHS', 'X^2Z^2SH', 'Z^2XSHS', 'Z^2S^2H', 'Z^2', 'ZHS^2', 'Z^2XS', 'Z^2XH^2S', 'XH^3SH', 'X^2ZHSHS', 'SH', 'X^2Z^2H^2S^2', 'Z^2H^3', 'ZH', 'X^2HS^2', '(ZH)^-1(X^2ZS^2H)^-1(ZHS)^-1(XZHS)^-1(X^2Z^2SH)^-1(Z^2XSHS)^-1(Z^2S^2H)^-1(Z^2)^-1(ZHS^2)^-1(Z^2XS)^-1(Z^2XH^2S)^-1(XH^3SH)^-1(X^2ZHSHS)^-1(SH)^-1(X^2Z^2H^2S^2)^-1(Z^2H^3)^-1(ZH)^-1(X^2HS^2)^-1', 'tM'] with key 18
+Accepted indices: 9302/10000
+Effective shots: 9302
+Key: 18
+Expectation value: 0.9998387486906486
+
+Running circuit 272: ['XHSH', 'X^2S^2HS', 'X^2Z^2HS^2', 'H^2SHS', 'X^2ZH^2S', 'X^2', 'Z^2XH^2SHS', 'Z^2XHSHS^2', 'X^2ZH^2S^2', 'Z^2H', 'Z^2XH^3SH', 'XH^2S', 'ZH^2S^2', 'X^2HSHS', 'X^2ZSHSH', 'ZH', 'XH^2', 'XHSHS^2', '(XHSH)^-1(X^2S^2HS)^-1(X^2Z^2HS^2)^-1(H^2SHS)^-1(X^2ZH^2S)^-1(X^2)^-1(Z^2XH^2SHS)^-1(Z^2XHSHS^2)^-1(X^2ZH^2S^2)^-1(Z^2H)^-1(Z^2XH^3SH)^-1(XH^2S)^-1(ZH^2S^2)^-1(X^2HSHS)^-1(X^2ZSHSH)^-1(ZH)^-1(XH^2)^-1(XHSHS^2)^-1', 'tM'] with key 18
+Accepted indices: 9279/10000
+Effective shots: 9279
+Key: 18
+Expectation value: 0.9993533960297387
+
+Running circuit 273: ['X^2ZH', 'X^2Z^2S^2', 'Z^2XH', 'ZH^2SH', 'Z^2XH^2S^2', 'X^2', 'HSHS', 'X^2H^2', 'ZH^2SHS', 'Z^2S^2H', 'S', 'XSHS', 'H^3SH', 'I', 'Z^2XHSH', 'X^2ZS^2H', 'X^2Z^2S', 'H^3', '(X^2ZH)^-1(X^2Z^2S^2)^-1(Z^2XH)^-1(ZH^2SH)^-1(Z^2XH^2S^2)^-1(X^2)^-1(HSHS)^-1(X^2H^2)^-1(ZH^2SHS)^-1(Z^2S^2H)^-1(S)^-1(XSHS)^-1(H^3SH)^-1(I)^-1(Z^2XHSH)^-1(X^2ZS^2H)^-1(X^2Z^2S)^-1(H^3)^-1', 'tM'] with key 18
+Accepted indices: 9331/10000
+Effective shots: 9331
+Key: 18
+Expectation value: 1.0
+
+Running circuit 274: ['Z^2XS', 'H^2SH', 'Z^2XHS', 'SHSH', 'X^2Z^2H^3', 'X^2Z^2S^2H', 'X^2ZH^3', 'ZS^2', 'Z^2H^2S^2', 'Z^2XHSHS', 'X^2HS', 'XZHSHS^2', 'ZH^3S', 'Z^2XH^3SH', 'X^2ZHS^2', 'XZHS', 'ZH^3SH', 'ZS^2HS', '(Z^2XS)^-1(H^2SH)^-1(Z^2XHS)^-1(SHSH)^-1(X^2Z^2H^3)^-1(X^2Z^2S^2H)^-1(X^2ZH^3)^-1(ZS^2)^-1(Z^2H^2S^2)^-1(Z^2XHSHS)^-1(X^2HS)^-1(XZHSHS^2)^-1(ZH^3S)^-1(Z^2XH^3SH)^-1(X^2ZHS^2)^-1(XZHS)^-1(ZH^3SH)^-1(ZS^2HS)^-1', 'tM'] with key 18
+Accepted indices: 9232/10000
+Effective shots: 9232
+Key: 18
+Expectation value: 0.9991877184050251
+
+Running circuit 275: ['X^2ZSHS', 'XZSHS^2', 'XZHSHS^2', 'Z^2XHS^2', 'Z^2XH^3', 'X^2Z^2S^2HSH', 'X^2ZS^2H', 'X^2Z^2HS^2', 'X^2ZH^3S', 'H^3SH', 'XZHS', 'XZSHS', 'X^2ZH^2SHS', 'Z^2S^2H', 'Z', 'Z^2H^2SH', 'SH', 'ZH^3S', '(X^2ZSHS)^-1(XZSHS^2)^-1(XZHSHS^2)^-1(Z^2XHS^2)^-1(Z^2XH^3)^-1(X^2Z^2S^2HSH)^-1(X^2ZS^2H)^-1(X^2Z^2HS^2)^-1(X^2ZH^3S)^-1(H^3SH)^-1(XZHS)^-1(XZSHS)^-1(X^2ZH^2SHS)^-1(Z^2S^2H)^-1(Z)^-1(Z^2H^2SH)^-1(SH)^-1(ZH^3S)^-1', 'tM'] with key 18
+Accepted indices: 9254/10000
+Effective shots: 9254
+Key: 18
+Expectation value: 1.0
+
+Running circuit 276: ['X^2ZS', 'XZH^2S^2', 'X^2ZSHS', 'X^2S^2HSH', 'H^2S', 'X^2ZH^3', 'X^2ZH^3SH', 'ZHSHS^2', 'XZHSHS', 'Z^2SHSH', 'X^2ZHSH', 'Z^2XS^2HS', 'XSHSH', 'ZSH', 'X^2ZS^2HSH', 'XZS', 'Z^2XSHSH', 'Z^2XS^2HS', '(X^2ZS)^-1(XZH^2S^2)^-1(X^2ZSHS)^-1(X^2S^2HSH)^-1(H^2S)^-1(X^2ZH^3)^-1(X^2ZH^3SH)^-1(ZHSHS^2)^-1(XZHSHS)^-1(Z^2SHSH)^-1(X^2ZHSH)^-1(Z^2XS^2HS)^-1(XSHSH)^-1(ZSH)^-1(X^2ZS^2HSH)^-1(XZS)^-1(Z^2XSHSH)^-1(Z^2XS^2HS)^-1', 'tM'] with key 18
+Accepted indices: 9299/10000
+Effective shots: 9299
+Key: 18
+Expectation value: 0.9998386966699023
+
+Running circuit 277: ['XZH^2SHS', 'X^2ZHSHS', 'Z^2H^2SH', 'X^2H', 'X^2ZS^2H', 'Z^2H^2S^2', 'Z^2SHSH', 'XZS', 'X^2H^2S', 'X^2Z^2HS^2', 'X^2HSH', 'Z^2XS^2HSH', 'XS^2H', 'XHS', 'Z^2H^2SH', 'Z^2H^2SHS', 'ZHS^2', 'X^2Z^2H^3', '(XZH^2SHS)^-1(X^2ZHSHS)^-1(Z^2H^2SH)^-1(X^2H)^-1(X^2ZS^2H)^-1(Z^2H^2S^2)^-1(Z^2SHSH)^-1(XZS)^-1(X^2H^2S)^-1(X^2Z^2HS^2)^-1(X^2HSH)^-1(Z^2XS^2HSH)^-1(XS^2H)^-1(XHS)^-1(Z^2H^2SH)^-1(Z^2H^2SHS)^-1(ZHS^2)^-1(X^2Z^2H^3)^-1', 'tM'] with key 18
+Accepted indices: 9274/10000
+Effective shots: 9274
+Key: 18
+Expectation value: 0.9996765324342077
+
+Running circuit 278: ['Z^2XHSHS', 'X^2H', 'ZHSH', 'H^2SH', 'Z^2S', 'X', 'Z^2S^2HS', 'HSH', 'XHSHS', 'Z^2H^3S', 'ZSH', 'X^2Z^2S^2HS', 'XSHS', 'HSHS', 'XS^2', 'ZH^3', 'XZS^2HSH', 'HS^2', '(Z^2XHSHS)^-1(X^2H)^-1(ZHSH)^-1(H^2SH)^-1(Z^2S)^-1(X)^-1(Z^2S^2HS)^-1(HSH)^-1(XHSHS)^-1(Z^2H^3S)^-1(ZSH)^-1(X^2Z^2S^2HS)^-1(XSHS)^-1(HSHS)^-1(XS^2)^-1(ZH^3)^-1(XZS^2HSH)^-1(HS^2)^-1', 'tM'] with key 18
+Accepted indices: 9312/10000
+Effective shots: 9312
+Key: 18
+Expectation value: 0.9995167915174819
+
+Running circuit 279: ['X^2ZH^2S', 'Z^2XS^2HS', 'XZS^2H', 'Z^2XHS', 'ZS^2HS', 'X^2Z^2H^3SH', 'X^2Z^2H^3SH', 'X^2S^2H', 'Z^2XS^2HSH', 'Z^2XHS^2', 'ZS^2H', 'SHS', 'HS^2', 'X^2ZHSHS^2', 'ZH^2S', 'XH', 'ZSHS^2', 'SHS', '(X^2ZH^2S)^-1(Z^2XS^2HS)^-1(XZS^2H)^-1(Z^2XHS)^-1(ZS^2HS)^-1(X^2Z^2H^3SH)^-1(X^2Z^2H^3SH)^-1(X^2S^2H)^-1(Z^2XS^2HSH)^-1(Z^2XHS^2)^-1(ZS^2H)^-1(SHS)^-1(HS^2)^-1(X^2ZHSHS^2)^-1(ZH^2S)^-1(XH)^-1(ZSHS^2)^-1(SHS)^-1', 'tM'] with key 18
+Accepted indices: 9271/10000
+Effective shots: 9271
+Key: 18
+Expectation value: 0.9995146198326343
+
+Running circuit 280: ['H^2S', 'X^2H^2S^2', 'X^2ZH^3SH', 'X^2HS', 'XH', 'ZHSH', 'X^2ZH^3SH', 'X^2H^2', 'Z^2XH^2', 'X^2Z^2SHSH', 'Z', 'XH^2S^2', 'XZH^2S^2', 'X^2Z^2H^2', 'X^2ZS^2HS', 'X^2ZSH', 'X^2H^2SHS', 'XZS^2HSH', '(H^2S)^-1(X^2H^2S^2)^-1(X^2ZH^3SH)^-1(X^2HS)^-1(XH)^-1(ZHSH)^-1(X^2ZH^3SH)^-1(X^2H^2)^-1(Z^2XH^2)^-1(X^2Z^2SHSH)^-1(Z)^-1(XH^2S^2)^-1(XZH^2S^2)^-1(X^2Z^2H^2)^-1(X^2ZS^2HS)^-1(X^2ZSH)^-1(X^2H^2SHS)^-1(XZS^2HSH)^-1', 'tM'] with key 18
+Accepted indices: 9260/10000
+Effective shots: 9260
+Key: 18
+Expectation value: 0.9995140782557279
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 281: ['SHS^2', 'X^2ZS^2H', 'X^2H^3', 'X^2Z^2H^3S', 'Z^2S', 'Z^2', 'X^2ZSHSH', 'X^2ZH^2', 'XH^3SH', 'Z^2XHSHS^2', 'XZSHS', 'X^2H', 'X^2ZH^2S', 'X^2Z^2S^2', 'H^3SH', 'Z^2', 'X^2ZH^2SHS', 'XH^2S', '(SHS^2)^-1(X^2ZS^2H)^-1(X^2H^3)^-1(X^2Z^2H^3S)^-1(Z^2S)^-1(Z^2)^-1(X^2ZSHSH)^-1(X^2ZH^2)^-1(XH^3SH)^-1(Z^2XHSHS^2)^-1(XZSHS)^-1(X^2H)^-1(X^2ZH^2S)^-1(X^2Z^2S^2)^-1(H^3SH)^-1(Z^2)^-1(X^2ZH^2SHS)^-1(XH^2S)^-1', 'tM'] with key 18
+Accepted indices: 9309/10000
+Effective shots: 9309
+Key: 18
+Expectation value: 0.9998388699420011
+
+Running circuit 282: ['XHSH', 'XS', 'X^2ZHS^2', 'Z^2H^2', 'X^2ZHS', 'X^2Z^2H^2SHS', 'X^2S^2HS', 'X^2SHS^2', 'X^2ZH^2S', 'Z^2XH^2SHS', 'X^2Z^2', 'X^2ZS', 'X^2S', 'X^2SHSH', 'Z^2H^3', 'X', 'X^2Z^2SHS^2', 'Z^2X', '(XHSH)^-1(XS)^-1(X^2ZHS^2)^-1(Z^2H^2)^-1(X^2ZHS)^-1(X^2Z^2H^2SHS)^-1(X^2S^2HS)^-1(X^2SHS^2)^-1(X^2ZH^2S)^-1(Z^2XH^2SHS)^-1(X^2Z^2)^-1(X^2ZS)^-1(X^2S)^-1(X^2SHSH)^-1(Z^2H^3)^-1(X)^-1(X^2Z^2SHS^2)^-1(Z^2X)^-1', 'tM'] with key 18
+Accepted indices: 9314/10000
+Effective shots: 9314
+Key: 18
+Expectation value: 1.0
+
+Running circuit 283: ['X^2Z', 'Z^2XH^2S^2', 'X^2S', 'XZH^2SH', 'ZHSHS^2', 'Z^2H^3SH', 'XZHSHS', 'XSHS^2', 'X^2Z^2SHS^2', 'Z^2XH^2S^2', 'X^2Z^2H^2SH', 'X^2SHS', 'ZSHSH', 'Z^2HSHS^2', 'H^2', 'XS', 'XZH^2', 'Z^2XS^2H', '(X^2Z)^-1(Z^2XH^2S^2)^-1(X^2S)^-1(XZH^2SH)^-1(ZHSHS^2)^-1(Z^2H^3SH)^-1(XZHSHS)^-1(XSHS^2)^-1(X^2Z^2SHS^2)^-1(Z^2XH^2S^2)^-1(X^2Z^2H^2SH)^-1(X^2SHS)^-1(ZSHSH)^-1(Z^2HSHS^2)^-1(H^2)^-1(XS)^-1(XZH^2)^-1(Z^2XS^2H)^-1', 'tM'] with key 18
+Accepted indices: 9255/10000
+Effective shots: 9255
+Key: 18
+Expectation value: 0.9995137807172716
+
+Running circuit 284: ['X^2Z^2HS^2', 'Z^2H^2S', 'S^2H', 'X^2ZH^3', 'X^2H^2SH', 'SH', 'X^2Z^2H^3', 'XZS^2HS', 'X^2Z^2S^2', 'Z^2XH^2S^2', 'X^2Z^2SHSH', 'Z^2XH^3SH', 'Z^2H^2S', 'ZH^3S', 'X^2H^2S', 'ZSHS', 'H^2S', 'Z^2S^2HS', '(X^2Z^2HS^2)^-1(Z^2H^2S)^-1(S^2H)^-1(X^2ZH^3)^-1(X^2H^2SH)^-1(SH)^-1(X^2Z^2H^3)^-1(XZS^2HS)^-1(X^2Z^2S^2)^-1(Z^2XH^2S^2)^-1(X^2Z^2SHSH)^-1(Z^2XH^3SH)^-1(Z^2H^2S)^-1(ZH^3S)^-1(X^2H^2S)^-1(ZSHS)^-1(H^2S)^-1(Z^2S^2HS)^-1', 'tM'] with key 18
+Accepted indices: 9252/10000
+Effective shots: 9252
+Key: 18
+Expectation value: 0.9998378772739243
+
+Running circuit 285: ['X^2Z^2SH', 'X^2Z^2H^3S', 'X^2ZS^2H', 'X^2ZH^2', 'X^2ZH', 'X^2Z^2HS^2', 'XH^2S', 'Z^2XS^2HSH', 'ZH^2', 'XZS', 'ZSH', 'X^2ZH^2S', 'X^2ZH^2S^2', 'X^2H^2S^2', 'ZSH', 'X^2SHSH', 'XSHS', 'XSHS^2', '(X^2Z^2SH)^-1(X^2Z^2H^3S)^-1(X^2ZS^2H)^-1(X^2ZH^2)^-1(X^2ZH)^-1(X^2Z^2HS^2)^-1(XH^2S)^-1(Z^2XS^2HSH)^-1(ZH^2)^-1(XZS)^-1(ZSH)^-1(X^2ZH^2S)^-1(X^2ZH^2S^2)^-1(X^2H^2S^2)^-1(ZSH)^-1(X^2SHSH)^-1(XSHS)^-1(XSHS^2)^-1', 'tM'] with key 18
+Accepted indices: 9192/10000
+Effective shots: 9192
+Key: 18
+Expectation value: 1.0
+
+Running circuit 286: ['ZH^2', 'HSHS', 'HS^2', 'HS', 'X^2Z^2HSHS^2', 'X^2Z^2SHSH', 'XZH^3S', 'Z^2SH', 'Z^2SH', 'ZHSH', 'Z^2XSHS^2', 'X^2SHSH', 'ZH^2', 'XZH^2SHS', 'ZHSHS', 'X^2S^2HSH', 'XZH^2SHS', 'XH^2', '(ZH^2)^-1(HSHS)^-1(HS^2)^-1(HS)^-1(X^2Z^2HSHS^2)^-1(X^2Z^2SHSH)^-1(XZH^3S)^-1(Z^2SH)^-1(Z^2SH)^-1(ZHSH)^-1(Z^2XSHS^2)^-1(X^2SHSH)^-1(ZH^2)^-1(XZH^2SHS)^-1(ZHSHS)^-1(X^2S^2HSH)^-1(XZH^2SHS)^-1(XH^2)^-1', 'tM'] with key 18
+Accepted indices: 9294/10000
+Effective shots: 9294
+Key: 18
+Expectation value: 0.9996772284749903
+
+Running circuit 287: ['ZHS^2', 'X^2S^2', 'Z^2H^2', 'Z^2HS', 'XH^2S^2', 'X^2Z^2SHSH', 'Z^2S', 'HSHS', 'XZHSH', 'XSH', 'X^2SHSH', 'ZHSH', 'ZS^2', 'X^2H^3', 'Z^2HS^2', 'S^2HSH', 'H^2S^2', 'Z^2S^2H', '(ZHS^2)^-1(X^2S^2)^-1(Z^2H^2)^-1(Z^2HS)^-1(XH^2S^2)^-1(X^2Z^2SHSH)^-1(Z^2S)^-1(HSHS)^-1(XZHSH)^-1(XSH)^-1(X^2SHSH)^-1(ZHSH)^-1(ZS^2)^-1(X^2H^3)^-1(Z^2HS^2)^-1(S^2HSH)^-1(H^2S^2)^-1(Z^2S^2H)^-1', 'tM'] with key 18
+Accepted indices: 9256/10000
+Effective shots: 9256
+Key: 18
+Expectation value: 0.999675903425841
+
+Running circuit 288: ['Z^2XS^2', 'X^2ZHS', 'X^2ZH^2SH', 'ZHSHS', 'H^2S', 'X^2Z^2S^2HSH', 'XZSHS', 'Z^2', 'X', 'X^2Z^2HSHS^2', 'X^2ZH^2', 'X^2Z^2SH', 'ZSHS^2', 'Z^2XS^2HSH', 'X^2Z^2SHSH', 'X^2ZHSHS^2', 'S', 'ZHSHS^2', '(Z^2XS^2)^-1(X^2ZHS)^-1(X^2ZH^2SH)^-1(ZHSHS)^-1(H^2S)^-1(X^2Z^2S^2HSH)^-1(XZSHS)^-1(Z^2)^-1(X)^-1(X^2Z^2HSHS^2)^-1(X^2ZH^2)^-1(X^2Z^2SH)^-1(ZSHS^2)^-1(Z^2XS^2HSH)^-1(X^2Z^2SHSH)^-1(X^2ZHSHS^2)^-1(S)^-1(ZHSHS^2)^-1', 'tM'] with key 18
+Accepted indices: 9267/10000
+Effective shots: 9267
+Key: 18
+Expectation value: 1.0
+
+Running circuit 289: ['H^2SHS', 'Z^2XH^2S^2', 'XZH', 'XSHS^2', 'H^2SH', 'X^2Z', 'Z^2HSHS', 'S^2H', 'X^2Z^2S^2HSH', 'Z^2S^2', 'X^2Z^2HSH', 'S^2', 'ZH^3SH', 'X^2ZHS^2', 'X^2Z^2H^2S^2', 'X^2Z^2SHS', 'X^2ZS^2HS', 'X^2Z^2H^2SHS', '(H^2SHS)^-1(Z^2XH^2S^2)^-1(XZH)^-1(XSHS^2)^-1(H^2SH)^-1(X^2Z)^-1(Z^2HSHS)^-1(S^2H)^-1(X^2Z^2S^2HSH)^-1(Z^2S^2)^-1(X^2Z^2HSH)^-1(S^2)^-1(ZH^3SH)^-1(X^2ZHS^2)^-1(X^2Z^2H^2S^2)^-1(X^2Z^2SHS)^-1(X^2ZS^2HS)^-1(X^2Z^2H^2SHS)^-1', 'tM'] with key 18
+Accepted indices: 9295/10000
+Effective shots: 9295
+Key: 18
+Expectation value: 0.9996772631984061
+
+Running circuit 290: ['X^2Z^2', 'ZHSHS', 'H^3', 'X^2ZS', 'X^2SHSH', 'HS^2', 'Z^2XSH', 'X^2ZHSHS^2', 'X^2S^2H', 'X^2ZS', 'X^2H^3', 'X^2Z^2HSHS^2', 'HSHS', 'X^2ZHSHS^2', 'X^2ZHS^2', 'Z^2HS', 'X^2Z^2HS^2', 'Z^2XHSH', '(X^2Z^2)^-1(ZHSHS)^-1(H^3)^-1(X^2ZS)^-1(X^2SHSH)^-1(HS^2)^-1(Z^2XSH)^-1(X^2ZHSHS^2)^-1(X^2S^2H)^-1(X^2ZS)^-1(X^2H^3)^-1(X^2Z^2HSHS^2)^-1(HSHS)^-1(X^2ZHSHS^2)^-1(X^2ZHS^2)^-1(Z^2HS)^-1(X^2Z^2HS^2)^-1(Z^2XHSH)^-1', 'tM'] with key 18
+Accepted indices: 9289/10000
+Effective shots: 9289
+Key: 18
+Expectation value: 0.9991925977395792
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 291: ['X^2Z^2SHSH', 'XZSH', 'Z^2HS', 'ZH', 'X^2Z^2HSH', 'X^2Z^2SHS', 'ZH^3', 'H^2', 'XHSHS^2', 'Z^2HS', 'XS', 'X^2SHS^2', 'SH', 'ZHS', 'SHSH', 'X^2Z^2HSHS^2', 'ZS^2', 'X^2', '(X^2Z^2SHSH)^-1(XZSH)^-1(Z^2HS)^-1(ZH)^-1(X^2Z^2HSH)^-1(X^2Z^2SHS)^-1(ZH^3)^-1(H^2)^-1(XHSHS^2)^-1(Z^2HS)^-1(XS)^-1(X^2SHS^2)^-1(SH)^-1(ZHS)^-1(SHSH)^-1(X^2Z^2HSHS^2)^-1(ZS^2)^-1(X^2)^-1', 'tM'] with key 18
+Accepted indices: 9216/10000
+Effective shots: 9216
+Key: 18
+Expectation value: 0.9996744791666667
+
+Running circuit 292: ['X^2Z^2HSHS^2', 'XZ', 'XS^2HS', 'S', 'X^2Z^2S^2H', 'X^2ZH^2', 'X^2Z^2HS^2', 'SHS', 'Z^2XS^2HSH', 'Z^2XHS', 'X^2Z^2HSH', 'X^2Z^2S^2H', 'Z^2H^2SHS', 'XZH^2S^2', 'X', 'X^2Z^2', 'S^2HSH', 'XHS', '(X^2Z^2HSHS^2)^-1(XZ)^-1(XS^2HS)^-1(S)^-1(X^2Z^2S^2H)^-1(X^2ZH^2)^-1(X^2Z^2HS^2)^-1(SHS)^-1(Z^2XS^2HSH)^-1(Z^2XHS)^-1(X^2Z^2HSH)^-1(X^2Z^2S^2H)^-1(Z^2H^2SHS)^-1(XZH^2S^2)^-1(X)^-1(X^2Z^2)^-1(S^2HSH)^-1(XHS)^-1', 'tM'] with key 18
+Accepted indices: 9308/10000
+Effective shots: 9308
+Key: 18
+Expectation value: 0.9998388526315445
+
+Running circuit 293: ['Z^2XHS', 'Z^2H^3S', 'X^2Z^2H^2S', 'Z^2S^2HS', 'X^2ZH^2S', 'Z^2XHSHS', 'XH^2S', 'XZSHSH', 'X^2Z^2H^2SH', 'S^2HS', 'X^2Z^2SH', 'ZHSH', 'X^2ZSHS', 'H^3S', 'Z^2XH', 'X^2ZH^2S', 'XZH^3SH', 'X^2H^3S', '(Z^2XHS)^-1(Z^2H^3S)^-1(X^2Z^2H^2S)^-1(Z^2S^2HS)^-1(X^2ZH^2S)^-1(Z^2XHSHS)^-1(XH^2S)^-1(XZSHSH)^-1(X^2Z^2H^2SH)^-1(S^2HS)^-1(X^2Z^2SH)^-1(ZHSH)^-1(X^2ZSHS)^-1(H^3S)^-1(Z^2XH)^-1(X^2ZH^2S)^-1(XZH^3SH)^-1(X^2H^3S)^-1', 'tM'] with key 18
+Accepted indices: 9235/10000
+Effective shots: 9235
+Key: 18
+Expectation value: 0.9996751664838478
+
+Running circuit 294: ['XZSH', 'XH^2S^2', 'XZH^2SH', 'ZHSHS^2', 'X^2ZH^2S^2', 'X^2Z^2H^3', 'ZH^2S', 'X^2S^2', 'Z^2XS^2HSH', 'XHSH', 'XHSHS^2', 'Z^2SHS^2', 'Z^2S^2H', 'XHSH', 'X^2ZH^2S^2', 'XHS', 'X^2Z^2H^3SH', 'Z^2XHS^2', '(XZSH)^-1(XH^2S^2)^-1(XZH^2SH)^-1(ZHSHS^2)^-1(X^2ZH^2S^2)^-1(X^2Z^2H^3)^-1(ZH^2S)^-1(X^2S^2)^-1(Z^2XS^2HSH)^-1(XHSH)^-1(XHSHS^2)^-1(Z^2SHS^2)^-1(Z^2S^2H)^-1(XHSH)^-1(X^2ZH^2S^2)^-1(XHS)^-1(X^2Z^2H^3SH)^-1(Z^2XHS^2)^-1', 'tM'] with key 18
+Accepted indices: 9263/10000
+Effective shots: 9263
+Key: 18
+Expectation value: 0.9998380697927455
+
+Running circuit 295: ['Z^2XH^2S^2', 'Z', 'S^2', 'X^2ZSH', 'X^2H^3S', 'ZSHS^2', 'Z^2XH^2', 'XZSHS', 'Z^2XSHS^2', 'XS', 'Z^2XH^2SH', 'Z^2H^2S', 'Z^2S^2', 'X^2ZS^2H', 'XZH^3', 'ZS^2', 'H^3S', 'ZHSHS^2', '(Z^2XH^2S^2)^-1(Z)^-1(S^2)^-1(X^2ZSH)^-1(X^2H^3S)^-1(ZSHS^2)^-1(Z^2XH^2)^-1(XZSHS)^-1(Z^2XSHS^2)^-1(XS)^-1(Z^2XH^2SH)^-1(Z^2H^2S)^-1(Z^2S^2)^-1(X^2ZS^2H)^-1(XZH^3)^-1(ZS^2)^-1(H^3S)^-1(ZHSHS^2)^-1', 'tM'] with key 18
+Accepted indices: 9239/10000
+Effective shots: 9239
+Key: 18
+Expectation value: 1.0
+
+Running circuit 296: ['X^2H^3S', 'X^2ZS^2H', 'X^2S', 'X^2ZH^3SH', 'ZS^2', 'X^2ZHS^2', 'XS^2', 'X^2SH', 'XS^2', 'X^2SHSH', 'Z^2XH^2S', 'X^2S', 'XZH^3SH', 'XZH^2SHS', 'X^2Z^2S^2HS', 'X^2Z^2S^2H', 'X^2ZH^2S', 'X^2S^2HS', '(X^2H^3S)^-1(X^2ZS^2H)^-1(X^2S)^-1(X^2ZH^3SH)^-1(ZS^2)^-1(X^2ZHS^2)^-1(XS^2)^-1(X^2SH)^-1(XS^2)^-1(X^2SHSH)^-1(Z^2XH^2S)^-1(X^2S)^-1(XZH^3SH)^-1(XZH^2SHS)^-1(X^2Z^2S^2HS)^-1(X^2Z^2S^2H)^-1(X^2ZH^2S)^-1(X^2S^2HS)^-1', 'tM'] with key 18
+Accepted indices: 9230/10000
+Effective shots: 9230
+Key: 18
+Expectation value: 0.9993500163030328
+
+Running circuit 297: ['XH', 'X^2Z^2S^2HS', 'Z^2SH', 'X^2Z^2H^2', 'Z^2XHS', 'H^2SHS', 'Z^2XH^3', 'XSHSH', 'Z^2XHS^2', 'Z^2XSH', 'ZHSH', 'X^2H^2', 'XZH^2S', 'XZSH', 'Z^2XHS^2', 'Z^2SHS', 'X^2S', 'X^2Z^2SH', '(XH)^-1(X^2Z^2S^2HS)^-1(Z^2SH)^-1(X^2Z^2H^2)^-1(Z^2XHS)^-1(H^2SHS)^-1(Z^2XH^3)^-1(XSHSH)^-1(Z^2XHS^2)^-1(Z^2XSH)^-1(ZHSH)^-1(X^2H^2)^-1(XZH^2S)^-1(XZSH)^-1(Z^2XHS^2)^-1(Z^2SHS)^-1(X^2S)^-1(X^2Z^2SH)^-1', 'tM'] with key 18
+Accepted indices: 9239/10000
+Effective shots: 9239
+Key: 18
+Expectation value: 0.9993505790669986
+
+Running circuit 298: ['S', 'X^2HSHS^2', 'XZH^2SHS', 'Z^2XH^3S', 'Z^2XHSH', 'X^2H^2S', 'Z^2HS^2', 'XZH^2SHS', 'X^2Z^2SHSH', 'X^2Z^2S^2HSH', 'Z^2H', 'X^2Z^2S^2HS', 'Z^2SH', 'S^2H', 'X^2Z^2HSHS', 'ZSH', 'X^2ZS', 'XZH^2SH', '(S)^-1(X^2HSHS^2)^-1(XZH^2SHS)^-1(Z^2XH^3S)^-1(Z^2XHSH)^-1(X^2H^2S)^-1(Z^2HS^2)^-1(XZH^2SHS)^-1(X^2Z^2SHSH)^-1(X^2Z^2S^2HSH)^-1(Z^2H)^-1(X^2Z^2S^2HS)^-1(Z^2SH)^-1(S^2H)^-1(X^2Z^2HSHS)^-1(ZSH)^-1(X^2ZS)^-1(XZH^2SH)^-1', 'tM'] with key 18
+Accepted indices: 9282/10000
+Effective shots: 9282
+Key: 18
+Expectation value: 0.9996767937944409
+
+Running circuit 299: ['XZHS', 'ZHS', 'X^2Z^2S', 'XH^2S^2', 'ZHSHS^2', 'X^2S^2', 'X^2Z^2S', 'HSHS^2', 'ZS^2HSH', 'XZHS^2', 'Z^2H^3SH', 'ZS^2', 'X^2Z^2SH', 'X^2ZH^3', 'X^2ZHSH', 'Z^2XH^3S', 'H^2SHS', 'X^2Z^2H^3S', '(XZHS)^-1(ZHS)^-1(X^2Z^2S)^-1(XH^2S^2)^-1(ZHSHS^2)^-1(X^2S^2)^-1(X^2Z^2S)^-1(HSHS^2)^-1(ZS^2HSH)^-1(XZHS^2)^-1(Z^2H^3SH)^-1(ZS^2)^-1(X^2Z^2SH)^-1(X^2ZH^3)^-1(X^2ZHSH)^-1(Z^2XH^3S)^-1(H^2SHS)^-1(X^2Z^2H^3S)^-1', 'tM'] with key 18
+Accepted indices: 9241/10000
+Effective shots: 9241
+Key: 18
+Expectation value: 0.9995130792552906
+
+Running circuit 300: ['X^2Z^2SHS', 'Z^2SH', 'X^2Z^2HS^2', 'Z^2XSHS', 'X^2ZH^2S', 'S^2HS', 'ZHS^2', 'X^2HS', 'Z^2S^2HS', 'X^2ZH^3', 'X^2H^2', 'Z^2SH', 'X^2Z^2S^2', 'ZH^2SH', 'X^2Z^2H^2', 'X^2HSH', 'X^2ZS^2H', 'XSHS', 'Z^2H^3', 'X^2SH', '(X^2Z^2SHS)^-1(Z^2SH)^-1(X^2Z^2HS^2)^-1(Z^2XSHS)^-1(X^2ZH^2S)^-1(S^2HS)^-1(ZHS^2)^-1(X^2HS)^-1(Z^2S^2HS)^-1(X^2ZH^3)^-1(X^2H^2)^-1(Z^2SH)^-1(X^2Z^2S^2)^-1(ZH^2SH)^-1(X^2Z^2H^2)^-1(X^2HSH)^-1(X^2ZS^2H)^-1(XSHS)^-1(Z^2H^3)^-1(X^2SH)^-1', 'tM'] with key 20
+Accepted indices: 9191/10000
+Effective shots: 9191
+Key: 20
+Expectation value: 0.9996735937329997
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 301: ['XH^2SHS', 'H^3S', 'X^2Z^2H', 'H^2S^2', 'XH^2S', 'Z^2HSHS', 'Z^2XHSHS', 'XZS^2HSH', 'XHSHS^2', 'ZH^2SH', 'XH^3SH', 'Z^2XH^2S', 'X^2ZH^2S', 'Z^2XHS^2', 'X^2Z^2H', 'ZSHS^2', 'Z^2XHS', 'Z^2XH', 'HSHS^2', 'X^2Z^2SHS^2', '(XH^2SHS)^-1(H^3S)^-1(X^2Z^2H)^-1(H^2S^2)^-1(XH^2S)^-1(Z^2HSHS)^-1(Z^2XHSHS)^-1(XZS^2HSH)^-1(XHSHS^2)^-1(ZH^2SH)^-1(XH^3SH)^-1(Z^2XH^2S)^-1(X^2ZH^2S)^-1(Z^2XHS^2)^-1(X^2Z^2H)^-1(ZSHS^2)^-1(Z^2XHS)^-1(Z^2XH)^-1(HSHS^2)^-1(X^2Z^2SHS^2)^-1', 'tM'] with key 20
+Accepted indices: 9181/10000
+Effective shots: 9181
+Key: 20
+Expectation value: 1.0
+
+Running circuit 302: ['Z', 'Z^2H', 'X^2ZSHS', 'X^2HSH', 'XS^2H', 'Z^2SHS^2', 'X^2Z^2SH', 'ZH^3SH', 'X^2ZH^3SH', 'Z^2XH^3S', 'X^2H^2S^2', 'XZS', 'Z^2XSH', 'X^2Z^2HSH', 'X^2SH', 'Z^2XSHS^2', 'XZHS', 'Z^2XH^3S', 'X^2H^2SH', 'Z^2HS', '(Z)^-1(Z^2H)^-1(X^2ZSHS)^-1(X^2HSH)^-1(XS^2H)^-1(Z^2SHS^2)^-1(X^2Z^2SH)^-1(ZH^3SH)^-1(X^2ZH^3SH)^-1(Z^2XH^3S)^-1(X^2H^2S^2)^-1(XZS)^-1(Z^2XSH)^-1(X^2Z^2HSH)^-1(X^2SH)^-1(Z^2XSHS^2)^-1(XZHS)^-1(Z^2XH^3S)^-1(X^2H^2SH)^-1(Z^2HS)^-1', 'tM'] with key 20
+Accepted indices: 9177/10000
+Effective shots: 9177
+Key: 20
+Expectation value: 0.9996730957829357
+
+Running circuit 303: ['Z^2SHSH', 'ZH^3SH', 'X^2Z^2H^3', 'Z^2S^2HS', 'X^2ZH^2', 'ZH^2', 'X^2S^2', 'XZSHSH', 'X^2Z^2HSHS', 'SHS^2', 'H^3', 'Z^2HSHS', 'S^2H', 'SH', 'X^2Z^2H', 'S^2', 'Z^2SHSH', 'Z^2XS^2HSH', 'X^2', 'Z^2XH^3S', '(Z^2SHSH)^-1(ZH^3SH)^-1(X^2Z^2H^3)^-1(Z^2S^2HS)^-1(X^2ZH^2)^-1(ZH^2)^-1(X^2S^2)^-1(XZSHSH)^-1(X^2Z^2HSHS)^-1(SHS^2)^-1(H^3)^-1(Z^2HSHS)^-1(S^2H)^-1(SH)^-1(X^2Z^2H)^-1(S^2)^-1(Z^2SHSH)^-1(Z^2XS^2HSH)^-1(X^2)^-1(Z^2XH^3S)^-1', 'tM'] with key 20
+Accepted indices: 9162/10000
+Effective shots: 9162
+Key: 20
+Expectation value: 0.9996725784515756
+
+Running circuit 304: ['X^2Z^2SH', 'Z^2HS^2', 'XH^2S^2', 'XZS^2', 'XZHSH', 'Z^2HS', 'X^2ZHS^2', 'X^2ZH^2S^2', 'Z^2S', 'X^2H^2S^2', 'X^2HSH', 'ZS^2HS', 'XSHS^2', 'X^2Z^2S^2', 'X^2HSHS', 'X^2HSHS', 'X^2ZH^2S^2', 'Z^2XS^2HSH', 'X^2ZS^2HSH', 'X^2H^3S', '(X^2Z^2SH)^-1(Z^2HS^2)^-1(XH^2S^2)^-1(XZS^2)^-1(XZHSH)^-1(Z^2HS)^-1(X^2ZHS^2)^-1(X^2ZH^2S^2)^-1(Z^2S)^-1(X^2H^2S^2)^-1(X^2HSH)^-1(ZS^2HS)^-1(XSHS^2)^-1(X^2Z^2S^2)^-1(X^2HSHS)^-1(X^2HSHS)^-1(X^2ZH^2S^2)^-1(Z^2XS^2HSH)^-1(X^2ZS^2HSH)^-1(X^2H^3S)^-1', 'tM'] with key 20
+Accepted indices: 9182/10000
+Effective shots: 9182
+Key: 20
+Expectation value: 0.9996732915940418
+
+Running circuit 305: ['XH^2S', 'Z^2XHSH', 'ZH^3', 'X^2', 'Z^2XS^2HS', 'Z^2H^2S^2', 'X^2Z^2S', 'X^2Z^2HS', 'XH^2S', 'ZSHS', 'X^2Z^2HSHS', 'Z^2XH', 'X^2ZH^2S', 'H^3', 'X^2H', 'ZH^3', 'ZS^2H', 'ZS^2H', 'X^2Z^2HSHS', 'XH^2S^2', '(XH^2S)^-1(Z^2XHSH)^-1(ZH^3)^-1(X^2)^-1(Z^2XS^2HS)^-1(Z^2H^2S^2)^-1(X^2Z^2S)^-1(X^2Z^2HS)^-1(XH^2S)^-1(ZSHS)^-1(X^2Z^2HSHS)^-1(Z^2XH)^-1(X^2ZH^2S)^-1(H^3)^-1(X^2H)^-1(ZH^3)^-1(ZS^2H)^-1(ZS^2H)^-1(X^2Z^2HSHS)^-1(XH^2S^2)^-1', 'tM'] with key 20
+Accepted indices: 9141/10000
+Effective shots: 9141
+Key: 20
+Expectation value: 0.9996718262935896
+
+Running circuit 306: ['Z^2H^2S', 'X^2Z^2SH', 'ZH^2SH', 'X^2ZS^2HS', 'XZSHS', 'H^3S', 'XH^2S^2', 'X^2ZH^3', 'ZHS', 'Z^2XS^2', 'X^2Z^2H^2S^2', 'XSHS^2', 'Z^2XSH', 'Z^2XS^2H', 'XH^3S', 'S^2H', 'Z^2XH^3S', 'X^2ZS^2HSH', 'Z^2XH^3', 'X^2Z^2S^2H', '(Z^2H^2S)^-1(X^2Z^2SH)^-1(ZH^2SH)^-1(X^2ZS^2HS)^-1(XZSHS)^-1(H^3S)^-1(XH^2S^2)^-1(X^2ZH^3)^-1(ZHS)^-1(Z^2XS^2)^-1(X^2Z^2H^2S^2)^-1(XSHS^2)^-1(Z^2XSH)^-1(Z^2XS^2H)^-1(XH^3S)^-1(S^2H)^-1(Z^2XH^3S)^-1(X^2ZS^2HSH)^-1(Z^2XH^3)^-1(X^2Z^2S^2H)^-1', 'tM'] with key 20
+Accepted indices: 9155/10000
+Effective shots: 9155
+Key: 20
+Expectation value: 0.9996723281156309
+
+Running circuit 307: ['XZH^2S', 'XZH^2S^2', 'Z^2H^3', 'ZH^2', 'Z^2', 'X^2Z^2HS^2', 'XZH^3SH', 'X^2Z^2H^2', 'SH', 'X^2Z^2HS^2', 'X^2ZS^2HSH', 'H^2S', 'H^2S', 'ZH^2S^2', 'X^2H^3SH', 'X^2H^3SH', 'XS', 'XZSHS', 'XS', 'Z^2XS^2H', '(XZH^2S)^-1(XZH^2S^2)^-1(Z^2H^3)^-1(ZH^2)^-1(Z^2)^-1(X^2Z^2HS^2)^-1(XZH^3SH)^-1(X^2Z^2H^2)^-1(SH)^-1(X^2Z^2HS^2)^-1(X^2ZS^2HSH)^-1(H^2S)^-1(H^2S)^-1(ZH^2S^2)^-1(X^2H^3SH)^-1(X^2H^3SH)^-1(XS)^-1(XZSHS)^-1(XS)^-1(Z^2XS^2H)^-1', 'tM'] with key 20
+Accepted indices: 9227/10000
+Effective shots: 9227
+Key: 20
+Expectation value: 0.9996748672374554
+
+Running circuit 308: ['X^2Z^2H^2S', 'X^2ZS^2', 'Z^2S', 'H^2S', 'H^3S', 'Z^2XH^2S', 'X^2Z^2H^2S', 'ZHS', 'X^2H^2S', 'XH^2SHS', 'XHSHS^2', 'XS', 'Z^2XHSHS', 'XZH^3S', 'X^2Z^2H^3SH', 'ZS^2H', 'X^2Z^2S^2H', 'Z^2XHS', 'HSHS', 'X^2Z^2H^2SH', '(X^2Z^2H^2S)^-1(X^2ZS^2)^-1(Z^2S)^-1(H^2S)^-1(H^3S)^-1(Z^2XH^2S)^-1(X^2Z^2H^2S)^-1(ZHS)^-1(X^2H^2S)^-1(XH^2SHS)^-1(XHSHS^2)^-1(XS)^-1(Z^2XHSHS)^-1(XZH^3S)^-1(X^2Z^2H^3SH)^-1(ZS^2H)^-1(X^2Z^2S^2H)^-1(Z^2XHS)^-1(HSHS)^-1(X^2Z^2H^2SH)^-1', 'tM'] with key 20
+Accepted indices: 9163/10000
+Effective shots: 9163
+Key: 20
+Expectation value: 0.999672614182632
+
+Running circuit 309: ['Z^2XH', 'X^2ZSH', 'XZSHS', 'X^2H^2SHS', 'X^2H', 'XSHS^2', 'X^2ZSHSH', 'XS^2', 'X^2HSH', 'Z^2XHSHS^2', 'X^2ZH', 'ZH^2', 'XZHSHS^2', 'X^2H^2', 'X^2Z^2H^3SH', 'ZS^2', 'Z^2HS', 'X^2ZH^2S', 'X^2ZS^2H', 'ZS^2H', '(Z^2XH)^-1(X^2ZSH)^-1(XZSHS)^-1(X^2H^2SHS)^-1(X^2H)^-1(XSHS^2)^-1(X^2ZSHSH)^-1(XS^2)^-1(X^2HSH)^-1(Z^2XHSHS^2)^-1(X^2ZH)^-1(ZH^2)^-1(XZHSHS^2)^-1(X^2H^2)^-1(X^2Z^2H^3SH)^-1(ZS^2)^-1(Z^2HS)^-1(X^2ZH^2S)^-1(X^2ZS^2H)^-1(ZS^2H)^-1', 'tM'] with key 20
+Accepted indices: 9191/10000
+Effective shots: 9191
+Key: 20
+Expectation value: 0.9998368013064349
+
+Running circuit 310: ['XZSH', 'Z^2S^2HSH', 'X^2Z^2SHSH', 'S^2H', 'XHS^2', 'XZH^3', 'XH^2S', 'X^2H^3SH', 'Z^2HSHS', 'X^2S^2HSH', 'XZSHSH', 'ZHS^2', 'X^2H^2SHS', 'S^2HS', 'XZS^2HSH', 'ZS^2HSH', 'X^2S^2HS', 'ZS^2HSH', 'XH', 'X^2ZH^2S', '(XZSH)^-1(Z^2S^2HSH)^-1(X^2Z^2SHSH)^-1(S^2H)^-1(XHS^2)^-1(XZH^3)^-1(XH^2S)^-1(X^2H^3SH)^-1(Z^2HSHS)^-1(X^2S^2HSH)^-1(XZSHSH)^-1(ZHS^2)^-1(X^2H^2SHS)^-1(S^2HS)^-1(XZS^2HSH)^-1(ZS^2HSH)^-1(X^2S^2HS)^-1(ZS^2HSH)^-1(XH)^-1(X^2ZH^2S)^-1', 'tM'] with key 20
+Accepted indices: 9161/10000
+Effective shots: 9161
+Key: 20
+Expectation value: 0.9998362668858312
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 311: ['XH^3', 'XHS', 'Z^2XHS', 'XHSHS^2', 'X^2ZS^2HSH', 'Z^2S', 'Z^2XH^3', 'XSHS^2', 'X^2Z^2HSHS', 'H', 'Z^2S^2HS', 'Z^2S^2', 'Z^2H^2SH', 'ZH^2', 'Z^2XH^2SH', 'H^3S', 'XZHSHS^2', 'ZH^2S^2', 'ZS^2', 'X^2Z^2H^2S', '(XH^3)^-1(XHS)^-1(Z^2XHS)^-1(XHSHS^2)^-1(X^2ZS^2HSH)^-1(Z^2S)^-1(Z^2XH^3)^-1(XSHS^2)^-1(X^2Z^2HSHS)^-1(H)^-1(Z^2S^2HS)^-1(Z^2S^2)^-1(Z^2H^2SH)^-1(ZH^2)^-1(Z^2XH^2SH)^-1(H^3S)^-1(XZHSHS^2)^-1(ZH^2S^2)^-1(ZS^2)^-1(X^2Z^2H^2S)^-1', 'tM'] with key 20
+Accepted indices: 9155/10000
+Effective shots: 9155
+Key: 20
+Expectation value: 0.9995084697958893
+
+Running circuit 312: ['HSH', 'Z^2XSHS', 'Z^2HSHS^2', 'ZH^2SHS', 'Z^2XS^2H', 'Z^2H^3S', 'XZH^3S', 'XZ', 'X^2ZS^2H', 'Z^2HS', 'XZS^2H', 'ZH^2SH', 'H^2S', 'X^2HSHS', 'XZS^2H', 'X^2ZHSHS^2', 'XSHSH', 'Z^2XH^2S^2', 'Z^2XS^2HSH', 'Z^2XH^2S', '(HSH)^-1(Z^2XSHS)^-1(Z^2HSHS^2)^-1(ZH^2SHS)^-1(Z^2XS^2H)^-1(Z^2H^3S)^-1(XZH^3S)^-1(XZ)^-1(X^2ZS^2H)^-1(Z^2HS)^-1(XZS^2H)^-1(ZH^2SH)^-1(H^2S)^-1(X^2HSHS)^-1(XZS^2H)^-1(X^2ZHSHS^2)^-1(XSHSH)^-1(Z^2XH^2S^2)^-1(Z^2XS^2HSH)^-1(Z^2XH^2S)^-1', 'tM'] with key 20
+Accepted indices: 9155/10000
+Effective shots: 9155
+Key: 20
+Expectation value: 0.9996723102129983
+
+Running circuit 313: ['ZSHS^2', 'S', 'Z^2H^3SH', 'H^2SH', 'ZS^2', 'X^2Z^2S^2', 'H', 'X^2H^2SHS', 'XZS^2HSH', 'X^2ZHSH', 'X^2Z', 'XH^2S', 'Z^2H^2SH', 'X^2ZH^3S', 'XH^2SHS', 'XS^2', 'ZS^2HSH', 'XZH^2', 'X^2ZSH', 'X^2ZH^3SH', '(ZSHS^2)^-1(S)^-1(Z^2H^3SH)^-1(H^2SH)^-1(ZS^2)^-1(X^2Z^2S^2)^-1(H)^-1(X^2H^2SHS)^-1(XZS^2HSH)^-1(X^2ZHSH)^-1(X^2Z)^-1(XH^2S)^-1(Z^2H^2SH)^-1(X^2ZH^3S)^-1(XH^2SHS)^-1(XS^2)^-1(ZS^2HSH)^-1(XZH^2)^-1(X^2ZSH)^-1(X^2ZH^3SH)^-1', 'tM'] with key 20
+Accepted indices: 9175/10000
+Effective shots: 9175
+Key: 20
+Expectation value: 0.9993461203682683
+
+Running circuit 314: ['X^2H^2S^2', 'HSH', 'XZ', 'X^2S^2HS', 'X^2Z', 'X^2Z^2', 'ZSHS', 'H^2S', 'HSHS^2', 'Z^2XH^3SH', 'ZH^3', 'SH', 'ZHSHS^2', 'XZSH', 'X^2ZSHS^2', 'X^2Z^2HS', 'XH^2SHS', 'Z^2S', 'X^2Z^2H^2SHS', 'ZHS^2', '(X^2H^2S^2)^-1(HSH)^-1(XZ)^-1(X^2S^2HS)^-1(X^2Z)^-1(X^2Z^2)^-1(ZSHS)^-1(H^2S)^-1(HSHS^2)^-1(Z^2XH^3SH)^-1(ZH^3)^-1(SH)^-1(ZHSHS^2)^-1(XZSH)^-1(X^2ZSHS^2)^-1(X^2Z^2HS)^-1(XH^2SHS)^-1(Z^2S)^-1(X^2Z^2H^2SHS)^-1(ZHS^2)^-1', 'tM'] with key 20
+Accepted indices: 9212/10000
+Effective shots: 9212
+Key: 20
+Expectation value: 0.9998371733298308
+
+Running circuit 315: ['Z^2H^2SHS', 'X^2Z^2S^2HS', 'Z^2XSHSH', 'X^2Z^2H^3', 'Z^2XS', 'ZSHS', 'XH^3', 'X^2HSHS', 'X^2H^2SH', 'ZH^3S', 'Z^2SHSH', 'X^2H^3S', 'X^2Z^2SHSH', 'X^2ZH^2SH', 'XZH^3SH', 'X^2H^3S', 'ZH^2S', 'XSHS^2', 'X^2HSHS^2', 'X^2ZSHS', '(Z^2H^2SHS)^-1(X^2Z^2S^2HS)^-1(Z^2XSHSH)^-1(X^2Z^2H^3)^-1(Z^2XS)^-1(ZSHS)^-1(XH^3)^-1(X^2HSHS)^-1(X^2H^2SH)^-1(ZH^3S)^-1(Z^2SHSH)^-1(X^2H^3S)^-1(X^2Z^2SHSH)^-1(X^2ZH^2SH)^-1(XZH^3SH)^-1(X^2H^3S)^-1(ZH^2S)^-1(XSHS^2)^-1(X^2HSHS^2)^-1(X^2ZSHS)^-1', 'tM'] with key 20
+Accepted indices: 9173/10000
+Effective shots: 9173
+Key: 20
+Expectation value: 0.999672971064742
+
+Running circuit 316: ['ZH^2SHS', 'X^2Z^2SHS^2', 'X^2S^2HS', 'Z^2S^2HSH', 'X^2ZH^2SHS', 'Z^2H^3S', 'X^2Z^2SH', 'ZH^3SH', 'Z^2H^3S', 'Z^2H^2S', 'XS^2H', 'XZS^2H', 'ZS', 'X^2ZHSHS', 'XZS^2', 'X^2ZH^2SH', 'SHSH', 'X^2ZSHSH', 'X^2ZH^2', 'Z^2XS^2H', '(ZH^2SHS)^-1(X^2Z^2SHS^2)^-1(X^2S^2HS)^-1(Z^2S^2HSH)^-1(X^2ZH^2SHS)^-1(Z^2H^3S)^-1(X^2Z^2SH)^-1(ZH^3SH)^-1(Z^2H^3S)^-1(Z^2H^2S)^-1(XS^2H)^-1(XZS^2H)^-1(ZS)^-1(X^2ZHSHS)^-1(XZS^2)^-1(X^2ZH^2SH)^-1(SHSH)^-1(X^2ZSHSH)^-1(X^2ZH^2)^-1(Z^2XS^2H)^-1', 'tM'] with key 20
+Accepted indices: 9096/10000
+Effective shots: 9096
+Key: 20
+Expectation value: 0.9995052815795205
+
+Running circuit 317: ['SHS^2', 'X^2ZSH', 'X^2H^2S', 'X^2HS', 'X^2H^3S', 'X^2Z^2SHS', 'S^2H', 'X^2ZH^3SH', 'XZH^2S^2', 'X^2Z^2SHS', 'X^2Z^2SHS^2', 'HS', 'S^2', 'ZSH', 'X^2ZH^2SHS', 'X^2ZH^3', 'X^2Z^2SHSH', 'H^2S', 'XZH^3SH', 'Z^2XHS^2', '(SHS^2)^-1(X^2ZSH)^-1(X^2H^2S)^-1(X^2HS)^-1(X^2H^3S)^-1(X^2Z^2SHS)^-1(S^2H)^-1(X^2ZH^3SH)^-1(XZH^2S^2)^-1(X^2Z^2SHS)^-1(X^2Z^2SHS^2)^-1(HS)^-1(S^2)^-1(ZSH)^-1(X^2ZH^2SHS)^-1(X^2ZH^3)^-1(X^2Z^2SHSH)^-1(H^2S)^-1(XZH^3SH)^-1(Z^2XHS^2)^-1', 'tM'] with key 20
+Accepted indices: 9142/10000
+Effective shots: 9142
+Key: 20
+Expectation value: 0.9996718621889895
+
+Running circuit 318: ['XZH^3S', 'Z^2S^2HSH', 'Z^2SHS', 'X^2ZS^2H', 'H^2S^2', 'X^2ZH^2S', 'HS', 'X^2ZH^2', 'XHSHS', 'Z^2XH^2SH', 'X^2ZHS', 'X^2HS^2', 'Z^2SHSH', 'X^2Z^2H^2S^2', 'XZS^2', 'SHS', 'Z^2XH^3SH', 'SH', 'Z^2XH^3SH', 'ZH^2SH', '(XZH^3S)^-1(Z^2S^2HSH)^-1(Z^2SHS)^-1(X^2ZS^2H)^-1(H^2S^2)^-1(X^2ZH^2S)^-1(HS)^-1(X^2ZH^2)^-1(XHSHS)^-1(Z^2XH^2SH)^-1(X^2ZHS)^-1(X^2HS^2)^-1(Z^2SHSH)^-1(X^2Z^2H^2S^2)^-1(XZS^2)^-1(SHS)^-1(Z^2XH^3SH)^-1(SH)^-1(Z^2XH^3SH)^-1(ZH^2SH)^-1', 'tM'] with key 20
+Accepted indices: 9220/10000
+Effective shots: 9220
+Key: 20
+Expectation value: 1.0
+
+Running circuit 319: ['X^2H', 'ZSHS^2', 'Z^2XH^2SH', 'XZSHSH', 'Z^2XS', 'X^2Z^2S^2', 'XH', 'ZH^2S^2', 'XZHS', 'XHS^2', 'X^2Z^2S^2H', 'X^2H^3SH', 'Z^2H^2SH', 'XSH', 'X^2Z^2H^2S', 'XS', 'Z^2H^2', 'Z^2H^2SH', 'H', 'XZH^3S', '(X^2H)^-1(ZSHS^2)^-1(Z^2XH^2SH)^-1(XZSHSH)^-1(Z^2XS)^-1(X^2Z^2S^2)^-1(XH)^-1(ZH^2S^2)^-1(XZHS)^-1(XHS^2)^-1(X^2Z^2S^2H)^-1(X^2H^3SH)^-1(Z^2H^2SH)^-1(XSH)^-1(X^2Z^2H^2S)^-1(XS)^-1(Z^2H^2)^-1(Z^2H^2SH)^-1(H)^-1(XZH^3S)^-1', 'tM'] with key 20
+Accepted indices: 9185/10000
+Effective shots: 9185
+Key: 20
+Expectation value: 0.999510110792273
+
+Running circuit 320: ['X^2ZHSHS', 'XSH', 'XZH^2', 'X^2Z^2H^3S', 'X^2Z^2HSHS', 'XZH^3SH', 'X^2SHS^2', 'X^2Z^2H^3', 'Z^2XH^2', 'H^3', 'X^2SH', 'X^2H^3', 'XHSHS^2', 'X^2S^2HSH', 'X^2Z^2S', 'X^2Z^2SHS^2', 'Z^2XHSHS', 'Z^2XSHS^2', 'HSH', 'ZH^3S', '(X^2ZHSHS)^-1(XSH)^-1(XZH^2)^-1(X^2Z^2H^3S)^-1(X^2Z^2HSHS)^-1(XZH^3SH)^-1(X^2SHS^2)^-1(X^2Z^2H^3)^-1(Z^2XH^2)^-1(H^3)^-1(X^2SH)^-1(X^2H^3)^-1(XHSHS^2)^-1(X^2S^2HSH)^-1(X^2Z^2S)^-1(X^2Z^2SHS^2)^-1(Z^2XHSHS)^-1(Z^2XSHS^2)^-1(HSH)^-1(ZH^3S)^-1', 'tM'] with key 20
+Accepted indices: 9158/10000
+Effective shots: 9158
+Key: 20
+Expectation value: 0.9993448530136055
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 321: ['X^2Z^2S^2HS', 'XS', 'X^2Z^2SHS', 'X^2ZH^3S', 'XZSH', 'XZHS', 'Z^2', 'S^2', 'XS^2H', 'X^2HS^2', 'X^2S^2HSH', 'Z^2XHS', 'I', 'XZH^2S^2', 'SHSH', 'X^2ZHS^2', 'XZ', 'I', 'X^2ZH^3S', 'X^2SHS', '(X^2Z^2S^2HS)^-1(XS)^-1(X^2Z^2SHS)^-1(X^2ZH^3S)^-1(XZSH)^-1(XZHS)^-1(Z^2)^-1(S^2)^-1(XS^2H)^-1(X^2HS^2)^-1(X^2S^2HSH)^-1(Z^2XHS)^-1(I)^-1(XZH^2S^2)^-1(SHSH)^-1(X^2ZHS^2)^-1(XZ)^-1(I)^-1(X^2ZH^3S)^-1(X^2SHS)^-1', 'tM'] with key 20
+Accepted indices: 9231/10000
+Effective shots: 9231
+Key: 20
+Expectation value: 1.0
+
+Running circuit 322: ['XZH^2S^2', 'X^2ZSHS', 'H^3SH', 'X^2ZH^2', 'X^2Z^2S^2H', 'XZS^2HS', 'Z^2SHSH', 'X^2H^3S', 'ZSHS', 'XZHSH', 'X^2Z^2HSHS^2', 'X^2Z^2SH', 'XHSHS', 'X^2Z^2SHSH', 'XH^2S^2', 'ZS^2H', 'ZHS', 'XZHS^2', 'ZHSHS', 'Z', '(XZH^2S^2)^-1(X^2ZSHS)^-1(H^3SH)^-1(X^2ZH^2)^-1(X^2Z^2S^2H)^-1(XZS^2HS)^-1(Z^2SHSH)^-1(X^2H^3S)^-1(ZSHS)^-1(XZHSH)^-1(X^2Z^2HSHS^2)^-1(X^2Z^2SH)^-1(XHSHS)^-1(X^2Z^2SHSH)^-1(XH^2S^2)^-1(ZS^2H)^-1(ZHS)^-1(XZHS^2)^-1(ZHSHS)^-1(Z)^-1', 'tM'] with key 20
+Accepted indices: 9190/10000
+Effective shots: 9190
+Key: 20
+Expectation value: 0.9995103773043434
+
+Running circuit 323: ['X^2Z^2SHS', 'XHS', 'XHS^2', 'H^3', 'Z^2XH^2', 'Z^2XS^2HSH', 'XZS^2HS', 'XS^2HS', 'X^2HSHS^2', 'XS^2HS', 'SHS', 'Z^2XS^2', 'X^2ZH^3S', 'XZH', 'X^2Z^2S^2HS', 'X^2H^2S^2', 'XZSH', 'H', 'S^2H', 'ZH^2S', '(X^2Z^2SHS)^-1(XHS)^-1(XHS^2)^-1(H^3)^-1(Z^2XH^2)^-1(Z^2XS^2HSH)^-1(XZS^2HS)^-1(XS^2HS)^-1(X^2HSHS^2)^-1(XS^2HS)^-1(SHS)^-1(Z^2XS^2)^-1(X^2ZH^3S)^-1(XZH)^-1(X^2Z^2S^2HS)^-1(X^2H^2S^2)^-1(XZSH)^-1(H)^-1(S^2H)^-1(ZH^2S)^-1', 'tM'] with key 20
+Accepted indices: 9161/10000
+Effective shots: 9161
+Key: 20
+Expectation value: 0.9995087917208288
+
+Running circuit 324: ['X^2Z^2H^2SH', 'ZH^3SH', 'Z^2H', 'SHSH', 'I', 'Z^2SHSH', 'Z^2XSH', 'X^2Z^2HSH', 'ZH^2', 'ZH', 'X^2Z^2S^2HS', 'XZH^2SH', 'XH^2S^2', 'X^2ZS^2', 'Z^2XH', 'X^2Z^2S^2', 'HSHS^2', 'X^2Z^2HS^2', 'X^2ZHSHS^2', 'X^2ZH', '(X^2Z^2H^2SH)^-1(ZH^3SH)^-1(Z^2H)^-1(SHSH)^-1(I)^-1(Z^2SHSH)^-1(Z^2XSH)^-1(X^2Z^2HSH)^-1(ZH^2)^-1(ZH)^-1(X^2Z^2S^2HS)^-1(XZH^2SH)^-1(XH^2S^2)^-1(X^2ZS^2)^-1(Z^2XH)^-1(X^2Z^2S^2)^-1(HSHS^2)^-1(X^2Z^2HS^2)^-1(X^2ZHSHS^2)^-1(X^2ZH)^-1', 'tM'] with key 20
+Accepted indices: 9228/10000
+Effective shots: 9228
+Key: 20
+Expectation value: 0.9996749024707412
+
+Running circuit 325: ['X^2ZH^2SHS', 'X^2ZS^2', 'ZH^2S', 'Z^2SHS^2', 'X^2Z^2HS^2', 'Z^2XHSHS', 'XHSHS^2', 'X^2ZH^2', 'XZH^2SH', 'X^2SHSH', 'XS', 'ZH^2SH', 'Z^2S^2HS', 'Z^2H', 'XZSHS', 'Z^2H^2', 'XZH^2SH', 'X^2Z', 'X^2ZSHS^2', 'Z^2S^2', '(X^2ZH^2SHS)^-1(X^2ZS^2)^-1(ZH^2S)^-1(Z^2SHS^2)^-1(X^2Z^2HS^2)^-1(Z^2XHSHS)^-1(XHSHS^2)^-1(X^2ZH^2)^-1(XZH^2SH)^-1(X^2SHSH)^-1(XS)^-1(ZH^2SH)^-1(Z^2S^2HS)^-1(Z^2H)^-1(XZSHS)^-1(Z^2H^2)^-1(XZH^2SH)^-1(X^2Z)^-1(X^2ZSHS^2)^-1(Z^2S^2)^-1', 'tM'] with key 20
+Accepted indices: 9209/10000
+Effective shots: 9209
+Key: 20
+Expectation value: 0.9998371202875086
+
+Running circuit 326: ['X^2ZS^2HS', 'H^3', 'Z^2XH^3SH', 'X^2Z^2H^2SHS', 'Z^2H', 'S^2HSH', 'Z^2H^2S^2', 'XH^2', 'Z^2XHS', 'XZSHSH', 'XZS', 'Z^2H', 'H^2S', 'XH^3SH', 'SHS', 'XH^2S', 'Z^2XS^2HSH', 'Z^2HS^2', 'X^2ZSHSH', 'H^2S', '(X^2ZS^2HS)^-1(H^3)^-1(Z^2XH^3SH)^-1(X^2Z^2H^2SHS)^-1(Z^2H)^-1(S^2HSH)^-1(Z^2H^2S^2)^-1(XH^2)^-1(Z^2XHS)^-1(XZSHSH)^-1(XZS)^-1(Z^2H)^-1(H^2S)^-1(XH^3SH)^-1(SHS)^-1(XH^2S)^-1(Z^2XS^2HSH)^-1(Z^2HS^2)^-1(X^2ZSHSH)^-1(H^2S)^-1', 'tM'] with key 20
+Accepted indices: 9191/10000
+Effective shots: 9191
+Key: 20
+Expectation value: 0.9991839887753351
+
+Running circuit 327: ['X^2Z^2H^3', 'S^2H', 'X^2ZH^3S', 'SH', 'Z^2XS^2H', 'Z^2S^2HSH', 'X^2Z^2H^2S', 'H^2', 'ZH^2S^2', 'Z^2SH', 'Z^2H^2S', 'XZSHSH', 'X^2S^2HS', 'ZS^2HS', 'ZH^2S^2', 'Z^2XH^2S^2', 'I', 'Z^2XHSHS', 'X^2SHSH', 'Z^2H', '(X^2Z^2H^3)^-1(S^2H)^-1(X^2ZH^3S)^-1(SH)^-1(Z^2XS^2H)^-1(Z^2S^2HSH)^-1(X^2Z^2H^2S)^-1(H^2)^-1(ZH^2S^2)^-1(Z^2SH)^-1(Z^2H^2S)^-1(XZSHSH)^-1(X^2S^2HS)^-1(ZS^2HS)^-1(ZH^2S^2)^-1(Z^2XH^2S^2)^-1(I)^-1(Z^2XHSHS)^-1(X^2SHSH)^-1(Z^2H)^-1', 'tM'] with key 20
+Accepted indices: 9222/10000
+Effective shots: 9222
+Key: 20
+Expectation value: 0.999512040846181
+
+Running circuit 328: ['X^2Z^2HSHS', 'XS^2H', 'X^2Z^2HSHS^2', 'XZHSH', 'Z^2S^2', 'XZS', 'Z^2XSHS^2', 'Z^2S^2HS', 'Z^2XHSHS^2', 'ZH^3S', 'Z^2XH^2S', 'X^2Z^2SHSH', 'S', 'H^3S', 'X^2ZS^2HS', 'Z^2XHSHS^2', 'X^2H', 'Z^2XH^3SH', 'X^2Z^2HSH', 'Z^2XHS^2', '(X^2Z^2HSHS)^-1(XS^2H)^-1(X^2Z^2HSHS^2)^-1(XZHSH)^-1(Z^2S^2)^-1(XZS)^-1(Z^2XSHS^2)^-1(Z^2S^2HS)^-1(Z^2XHSHS^2)^-1(ZH^3S)^-1(Z^2XH^2S)^-1(X^2Z^2SHSH)^-1(S)^-1(H^3S)^-1(X^2ZS^2HS)^-1(Z^2XHSHS^2)^-1(X^2H)^-1(Z^2XH^3SH)^-1(X^2Z^2HSH)^-1(Z^2XHS^2)^-1', 'tM'] with key 20
+Accepted indices: 9200/10000
+Effective shots: 9200
+Key: 20
+Expectation value: 1.0
+
+Running circuit 329: ['XH^3S', 'X^2SH', 'X^2Z^2H^3', 'XZS', 'X^2H^3S', 'Z^2XH^3SH', 'XZS^2H', 'XH^3S', 'Z^2H^2S^2', 'XHSH', 'H^2', 'ZHS^2', 'X^2SHSH', 'ZH^2', 'X^2ZH^3', 'Z^2S^2', 'X^2Z^2HS^2', 'X^2Z^2HSH', 'ZHS', 'Z^2SHS', '(XH^3S)^-1(X^2SH)^-1(X^2Z^2H^3)^-1(XZS)^-1(X^2H^3S)^-1(Z^2XH^3SH)^-1(XZS^2H)^-1(XH^3S)^-1(Z^2H^2S^2)^-1(XHSH)^-1(H^2)^-1(ZHS^2)^-1(X^2SHSH)^-1(ZH^2)^-1(X^2ZH^3)^-1(Z^2S^2)^-1(X^2Z^2HS^2)^-1(X^2Z^2HSH)^-1(ZHS)^-1(Z^2SHS)^-1', 'tM'] with key 20
+Accepted indices: 9158/10000
+Effective shots: 9158
+Key: 20
+Expectation value: 0.9991810483709725
+
+Running circuit 330: ['Z^2XH^2S^2', 'ZH^2', 'XZSH', 'XZH', 'S^2HS', 'ZSHSH', 'X^2ZS^2HSH', 'HSHS', 'X^2Z^2SHS^2', 'Z^2H^3', 'XZHSHS', 'Z^2XH', 'Z^2XH^3SH', 'XS^2HSH', 'Z^2S^2H', 'XZHS', 'X^2Z^2HS', 'Z^2S^2H', 'XZS^2HSH', 'X^2Z^2H^3SH', 'Z^2', 'XH^3SH', '(Z^2XH^2S^2)^-1(ZH^2)^-1(XZSH)^-1(XZH)^-1(S^2HS)^-1(ZSHSH)^-1(X^2ZS^2HSH)^-1(HSHS)^-1(X^2Z^2SHS^2)^-1(Z^2H^3)^-1(XZHSHS)^-1(Z^2XH)^-1(Z^2XH^3SH)^-1(XS^2HSH)^-1(Z^2S^2H)^-1(XZHS)^-1(X^2Z^2HS)^-1(Z^2S^2H)^-1(XZS^2HSH)^-1(X^2Z^2H^3SH)^-1(Z^2)^-1(XH^3SH)^-1', 'tM'] with key 22
+Accepted indices: 9115/10000
+Effective shots: 9115
+Key: 22
+Expectation value: 0.9991771849890134
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 331: ['X^2Z^2', 'ZHSHS', 'Z^2XHSHS^2', 'ZHSH', 'X^2Z^2H^2S^2', 'ZS^2HS', 'SHS^2', 'Z^2XSHS', 'X^2H^2SHS', 'Z^2XH^3SH', 'XHSHS^2', 'ZH^3S', 'X^2ZHS^2', 'X^2ZH^3S', 'Z^2H', 'HSHS^2', 'XZSHS', 'XZS^2H', 'X^2ZS^2', 'X^2ZS^2HS', 'X^2H^3SH', 'X^2HSHS', '(X^2Z^2)^-1(ZHSHS)^-1(Z^2XHSHS^2)^-1(ZHSH)^-1(X^2Z^2H^2S^2)^-1(ZS^2HS)^-1(SHS^2)^-1(Z^2XSHS)^-1(X^2H^2SHS)^-1(Z^2XH^3SH)^-1(XHSHS^2)^-1(ZH^3S)^-1(X^2ZHS^2)^-1(X^2ZH^3S)^-1(Z^2H)^-1(HSHS^2)^-1(XZSHS)^-1(XZS^2H)^-1(X^2ZS^2)^-1(X^2ZS^2HS)^-1(X^2H^3SH)^-1(X^2HSHS)^-1', 'tM'] with key 22
+Accepted indices: 9078/10000
+Effective shots: 9078
+Key: 22
+Expectation value: 0.9996695307336418
+
+Running circuit 332: ['XZS^2', 'Z^2', 'S^2HS', 'Z^2S', 'X^2HSHS', 'X^2Z^2SHS', 'XHSH', 'X^2Z^2S^2HSH', 'Z^2XS^2', 'Z^2S^2HSH', 'X^2Z^2H^3SH', 'X^2ZHSHS^2', 'XS', 'H^2', 'ZH^2S', 'Z^2X', 'X', 'X^2Z^2H^2SHS', 'XH^3S', 'XZHS', 'X^2ZHSHS', 'XH^2SH', '(XZS^2)^-1(Z^2)^-1(S^2HS)^-1(Z^2S)^-1(X^2HSHS)^-1(X^2Z^2SHS)^-1(XHSH)^-1(X^2Z^2S^2HSH)^-1(Z^2XS^2)^-1(Z^2S^2HSH)^-1(X^2Z^2H^3SH)^-1(X^2ZHSHS^2)^-1(XS)^-1(H^2)^-1(ZH^2S)^-1(Z^2X)^-1(X)^-1(X^2Z^2H^2SHS)^-1(XH^3S)^-1(XZHS)^-1(X^2ZHSHS)^-1(XH^2SH)^-1', 'tM'] with key 22
+Accepted indices: 9164/10000
+Effective shots: 9164
+Key: 22
+Expectation value: 0.9995089525252181
+
+Running circuit 333: ['Z^2HSH', 'X^2Z^2HSH', 'Z^2XSHS^2', 'XZS^2', 'Z^2XSHS', 'X^2HSHS^2', 'Z^2XHSHS', 'X^2Z^2SH', 'Z^2SHS^2', 'X^2ZHSH', 'X^2HSH', 'X^2Z^2HSH', 'X^2HS', 'XZHSHS', 'Z^2H^3SH', 'S^2', 'XZH^3S', 'X^2H^3SH', 'X^2ZH^3', 'X^2Z^2HSHS', 'H^2', 'X^2Z^2HSH', '(Z^2HSH)^-1(X^2Z^2HSH)^-1(Z^2XSHS^2)^-1(XZS^2)^-1(Z^2XSHS)^-1(X^2HSHS^2)^-1(Z^2XHSHS)^-1(X^2Z^2SH)^-1(Z^2SHS^2)^-1(X^2ZHSH)^-1(X^2HSH)^-1(X^2Z^2HSH)^-1(X^2HS)^-1(XZHSHS)^-1(Z^2H^3SH)^-1(S^2)^-1(XZH^3S)^-1(X^2H^3SH)^-1(X^2ZH^3)^-1(X^2Z^2HSHS)^-1(H^2)^-1(X^2Z^2HSH)^-1', 'tM'] with key 22
+Accepted indices: 9065/10000
+Effective shots: 9065
+Key: 22
+Expectation value: 0.9995035897836122
+
+Running circuit 334: ['Z^2XSHS^2', 'XZ', 'X^2Z^2HSH', 'X^2Z^2SHSH', 'XSHS', 'X^2Z^2H^3', 'Z^2SHS', 'XZH^3SH', 'Z^2SHSH', 'XHS', 'X^2H^3', 'XZSHS^2', 'X^2ZSH', 'X^2ZH^2S', 'X^2S^2', 'Z^2XSHS^2', 'X^2Z^2SHS^2', 'S^2H', 'XZHSHS^2', 'Z^2H', 'X^2Z^2HSHS^2', 'HSH', '(Z^2XSHS^2)^-1(XZ)^-1(X^2Z^2HSH)^-1(X^2Z^2SHSH)^-1(XSHS)^-1(X^2Z^2H^3)^-1(Z^2SHS)^-1(XZH^3SH)^-1(Z^2SHSH)^-1(XHS)^-1(X^2H^3)^-1(XZSHS^2)^-1(X^2ZSH)^-1(X^2ZH^2S)^-1(X^2S^2)^-1(Z^2XSHS^2)^-1(X^2Z^2SHS^2)^-1(S^2H)^-1(XZHSHS^2)^-1(Z^2H)^-1(X^2Z^2HSHS^2)^-1(HSH)^-1', 'tM'] with key 22
+Accepted indices: 9104/10000
+Effective shots: 9104
+Key: 22
+Expectation value: 0.9998352417835537
+
+Running circuit 335: ['Z^2XHSH', 'X^2ZH^2S', 'Z^2XH', 'HSH', 'X', 'XH^2S', 'Z^2H^2S^2', 'Z^2H^2S', 'ZH^2SHS', 'XZHSHS^2', 'ZS^2H', 'X^2ZS^2HS', 'X^2Z^2S^2H', 'ZS^2HSH', 'X', 'Z^2SHS^2', 'XZH^3SH', 'S^2', 'Z^2XH^2', 'S^2', 'Z^2XSHS^2', 'XH^3S', '(Z^2XHSH)^-1(X^2ZH^2S)^-1(Z^2XH)^-1(HSH)^-1(X)^-1(XH^2S)^-1(Z^2H^2S^2)^-1(Z^2H^2S)^-1(ZH^2SHS)^-1(XZHSHS^2)^-1(ZS^2H)^-1(X^2ZS^2HS)^-1(X^2Z^2S^2H)^-1(ZS^2HSH)^-1(X)^-1(Z^2SHS^2)^-1(XZH^3SH)^-1(S^2)^-1(Z^2XH^2)^-1(S^2)^-1(Z^2XSHS^2)^-1(XH^3S)^-1', 'tM'] with key 22
+Accepted indices: 9139/10000
+Effective shots: 9139
+Key: 22
+Expectation value: 0.999507609262846
+
+Running circuit 336: ['X^2H^2S^2', 'ZH^2SH', 'Z^2XHSHS^2', 'Z^2S^2H', 'Z^2H^3', 'ZH^3', 'X^2SHSH', 'X^2Z^2HSHS', 'Z^2XH^2S', 'ZS', 'X^2Z^2HSHS', 'XZH^2S', 'X^2H', 'X^2Z^2HSHS', 'XH^3SH', 'HSH', 'ZH^2S^2', 'XH^3S', 'X^2Z^2HS^2', 'X^2H^2S^2', 'X^2Z^2SHSH', 'X^2ZS', '(X^2H^2S^2)^-1(ZH^2SH)^-1(Z^2XHSHS^2)^-1(Z^2S^2H)^-1(Z^2H^3)^-1(ZH^3)^-1(X^2SHSH)^-1(X^2Z^2HSHS)^-1(Z^2XH^2S)^-1(ZS)^-1(X^2Z^2HSHS)^-1(XZH^2S)^-1(X^2H)^-1(X^2Z^2HSHS)^-1(XH^3SH)^-1(HSH)^-1(ZH^2S^2)^-1(XH^3S)^-1(X^2Z^2HS^2)^-1(X^2H^2S^2)^-1(X^2Z^2SHSH)^-1(X^2ZS)^-1', 'tM'] with key 22
+Accepted indices: 9056/10000
+Effective shots: 9056
+Key: 22
+Expectation value: 0.9995031330461978
+
+Running circuit 337: ['Z^2XHSH', 'X^2H', 'XH^2S^2', 'XZSH', 'H', 'X^2ZHSHS^2', 'Z^2XS^2HS', 'X^2Z^2SH', 'XH^2S^2', 'X^2ZH^3', 'XS^2HSH', 'Z^2XSH', 'ZH^2SH', 'X^2ZH^2', 'X^2ZS^2HS', 'X^2ZSHS^2', 'XH^3SH', 'XZHSHS^2', 'X^2Z^2H^3S', 'S^2', 'S^2', 'X^2Z^2', '(Z^2XHSH)^-1(X^2H)^-1(XH^2S^2)^-1(XZSH)^-1(H)^-1(X^2ZHSHS^2)^-1(Z^2XS^2HS)^-1(X^2Z^2SH)^-1(XH^2S^2)^-1(X^2ZH^3)^-1(XS^2HSH)^-1(Z^2XSH)^-1(ZH^2SH)^-1(X^2ZH^2)^-1(X^2ZS^2HS)^-1(X^2ZSHS^2)^-1(XH^3SH)^-1(XZHSHS^2)^-1(X^2Z^2H^3S)^-1(S^2)^-1(S^2)^-1(X^2Z^2)^-1', 'tM'] with key 22
+Accepted indices: 9074/10000
+Effective shots: 9074
+Key: 22
+Expectation value: 0.9995041185944843
+
+Running circuit 338: ['X^2ZSHS', 'XZHSHS', 'H^2SHS', 'ZSHS', 'Z^2XH^3', 'Z^2HS', 'Z^2XH^2S^2', 'X^2ZH^3S', 'ZH^3S', 'Z^2HSHS^2', 'Z^2SH', 'X^2Z^2H', 'X^2ZHSH', 'X^2H^2SHS', 'X^2ZH^2SHS', 'XH^2S^2', 'XZS', 'X^2HS', 'S^2HS', 'ZHS', 'Z^2HS^2', 'X^2Z^2H^3', '(X^2ZSHS)^-1(XZHSHS)^-1(H^2SHS)^-1(ZSHS)^-1(Z^2XH^3)^-1(Z^2HS)^-1(Z^2XH^2S^2)^-1(X^2ZH^3S)^-1(ZH^3S)^-1(Z^2HSHS^2)^-1(Z^2SH)^-1(X^2Z^2H)^-1(X^2ZHSH)^-1(X^2H^2SHS)^-1(X^2ZH^2SHS)^-1(XH^2S^2)^-1(XZS)^-1(X^2HS)^-1(S^2HS)^-1(ZHS)^-1(Z^2HS^2)^-1(X^2Z^2H^3)^-1', 'tM'] with key 22
+Accepted indices: 9100/10000
+Effective shots: 9100
+Key: 22
+Expectation value: 0.9998351693643498
+
+Running circuit 339: ['ZH^2SH', 'S^2', 'Z^2H^2SH', 'X^2H^2SH', 'S^2', 'X^2HSHS', 'XZH^2SHS', 'XZHS', 'Z^2S^2', 'HS^2', 'X^2ZS^2HS', 'X^2ZS^2', 'X^2H^2S^2', 'ZHS', 'Z^2S^2HS', 'XH', 'XH^3SH', 'XZH^3', 'X^2Z^2S^2H', 'Z^2SHS', 'Z^2XHSHS^2', 'Z^2S^2HSH', '(ZH^2SH)^-1(S^2)^-1(Z^2H^2SH)^-1(X^2H^2SH)^-1(S^2)^-1(X^2HSHS)^-1(XZH^2SHS)^-1(XZHS)^-1(Z^2S^2)^-1(HS^2)^-1(X^2ZS^2HS)^-1(X^2ZS^2)^-1(X^2H^2S^2)^-1(ZHS)^-1(Z^2S^2HS)^-1(XH)^-1(XH^3SH)^-1(XZH^3)^-1(X^2Z^2S^2H)^-1(Z^2SHS)^-1(Z^2XHSHS^2)^-1(Z^2S^2HSH)^-1', 'tM'] with key 22
+Accepted indices: 9065/10000
+Effective shots: 9065
+Key: 22
+Expectation value: 0.9993381136238279
+
+Running circuit 340: ['X^2Z^2HS^2', 'Z^2H^2SH', 'X^2Z^2SHS', 'S^2H', 'I', 'X^2Z^2H', 'Z', 'XZS^2HS', 'Z^2XH^3', 'ZH^3S', 'ZSHS', 'X^2ZH^3SH', 'X^2Z^2S', 'X^2Z^2HSHS^2', 'X^2SHS^2', 'Z^2H^2S', 'X^2Z', 'XZH^2', 'Z^2XSH', 'XZSH', 'Z^2HSH', 'Z^2XSHS', '(X^2Z^2HS^2)^-1(Z^2H^2SH)^-1(X^2Z^2SHS)^-1(S^2H)^-1(I)^-1(X^2Z^2H)^-1(Z)^-1(XZS^2HS)^-1(Z^2XH^3)^-1(ZH^3S)^-1(ZSHS)^-1(X^2ZH^3SH)^-1(X^2Z^2S)^-1(X^2Z^2HSHS^2)^-1(X^2SHS^2)^-1(Z^2H^2S)^-1(X^2Z)^-1(XZH^2)^-1(Z^2XSH)^-1(XZSH)^-1(Z^2HSH)^-1(Z^2XSHS)^-1', 'tM'] with key 22
+Accepted indices: 9088/10000
+Effective shots: 9088
+Key: 22
+Expectation value: 0.9996698943661972
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 341: ['XS^2H', 'HSHS^2', 'X^2HS^2', 'ZH^2S^2', 'ZH', 'S^2H', 'S^2HS', 'X^2ZSHS^2', 'XH^3S', 'XH', 'Z^2HS', 'ZSH', 'Z^2XS^2H', 'X^2H^2', 'ZHSHS^2', 'XH^2SHS', 'X^2SHS', 'X^2ZSHS^2', 'XZHSH', 'ZHS', 'X', 'XZH^2SH', '(XS^2H)^-1(HSHS^2)^-1(X^2HS^2)^-1(ZH^2S^2)^-1(ZH)^-1(S^2H)^-1(S^2HS)^-1(X^2ZSHS^2)^-1(XH^3S)^-1(XH)^-1(Z^2HS)^-1(ZSH)^-1(Z^2XS^2H)^-1(X^2H^2)^-1(ZHSHS^2)^-1(XH^2SHS)^-1(X^2SHS)^-1(X^2ZSHS^2)^-1(XZHSH)^-1(ZHS)^-1(X)^-1(XZH^2SH)^-1', 'tM'] with key 22
+Accepted indices: 9157/10000
+Effective shots: 9157
+Key: 22
+Expectation value: 0.9996723817844273
+
+Running circuit 342: ['XZHSHS^2', 'XS^2HS', 'X^2ZSHS^2', 'XZH^3SH', 'Z^2H^2S^2', 'Z^2H^2S', 'X^2SHSH', 'X^2ZS^2', 'X^2ZS^2HS', 'ZHS^2', 'H^2S^2', 'X^2ZHSHS^2', 'X^2S^2H', 'X^2H^3S', 'XH', 'X^2Z^2SHS', 'XZ', 'X^2SHS', 'S^2H', 'SHS^2', 'Z^2XS^2H', 'H^2S^2', '(XZHSHS^2)^-1(XS^2HS)^-1(X^2ZSHS^2)^-1(XZH^3SH)^-1(Z^2H^2S^2)^-1(Z^2H^2S)^-1(X^2SHSH)^-1(X^2ZS^2)^-1(X^2ZS^2HS)^-1(ZHS^2)^-1(H^2S^2)^-1(X^2ZHSHS^2)^-1(X^2S^2H)^-1(X^2H^3S)^-1(XH)^-1(X^2Z^2SHS)^-1(XZ)^-1(X^2SHS)^-1(S^2H)^-1(SHS^2)^-1(Z^2XS^2H)^-1(H^2S^2)^-1', 'tM'] with key 22
+Accepted indices: 9101/10000
+Effective shots: 9101
+Key: 22
+Expectation value: 1.0
+
+Running circuit 343: ['ZH^2', 'Z^2H^3SH', 'X^2S^2HS', 'Z^2S^2HS', 'XZS^2H', 'ZH^3SH', 'Z^2SHSH', 'H^2', 'X^2S', 'ZHS^2', 'X^2ZH^2', 'ZHSHS^2', 'X^2ZS^2HS', 'X^2Z^2S^2H', 'HSHS^2', 'Z^2HSHS', 'X^2', 'Z^2XS^2H', 'S^2H', 'Z^2XH', 'X^2ZH^2SHS', 'ZH^2', '(ZH^2)^-1(Z^2H^3SH)^-1(X^2S^2HS)^-1(Z^2S^2HS)^-1(XZS^2H)^-1(ZH^3SH)^-1(Z^2SHSH)^-1(H^2)^-1(X^2S)^-1(ZHS^2)^-1(X^2ZH^2)^-1(ZHSHS^2)^-1(X^2ZS^2HS)^-1(X^2Z^2S^2H)^-1(HSHS^2)^-1(Z^2HSHS)^-1(X^2)^-1(Z^2XS^2H)^-1(S^2H)^-1(Z^2XH)^-1(X^2ZH^2SHS)^-1(ZH^2)^-1', 'tM'] with key 22
+Accepted indices: 9121/10000
+Effective shots: 9121
+Key: 22
+Expectation value: 0.9995066736331386
+
+Running circuit 344: ['X^2Z^2H^2', 'ZSH', 'XZSH', 'Z^2S^2HS', 'Z^2XSH', 'ZS^2HSH', 'X^2S^2HS', 'Z^2XSH', 'Z^2XSHSH', 'XS^2H', 'XS^2H', 'Z^2H', 'X^2ZS^2HSH', 'Z^2', 'X^2Z^2SHS^2', 'XZH^2S^2', 'X^2Z^2S', 'XSHSH', 'ZSH', 'X^2ZH^2S', 'X^2HSHS', 'XZHSHS', '(X^2Z^2H^2)^-1(ZSH)^-1(XZSH)^-1(Z^2S^2HS)^-1(Z^2XSH)^-1(ZS^2HSH)^-1(X^2S^2HS)^-1(Z^2XSH)^-1(Z^2XSHSH)^-1(XS^2H)^-1(XS^2H)^-1(Z^2H)^-1(X^2ZS^2HSH)^-1(Z^2)^-1(X^2Z^2SHS^2)^-1(XZH^2S^2)^-1(X^2Z^2S)^-1(XSHSH)^-1(ZSH)^-1(X^2ZH^2S)^-1(X^2HSHS)^-1(XZHSHS)^-1', 'tM'] with key 22
+Accepted indices: 9108/10000
+Effective shots: 9108
+Key: 22
+Expectation value: 0.9993412384716733
+
+Running circuit 345: ['XZHS^2', 'XZHSHS', 'HSHS^2', 'XS^2H', 'X^2S^2HSH', 'XS^2', 'XH^3S', 'Z^2XHSH', 'X^2ZH^2SHS', 'X^2HSH', 'Z^2XSH', 'X^2SHS^2', 'Z^2XSH', 'X^2ZSHS', 'XSHSH', 'XZH^2S^2', 'X^2ZHSHS', 'X^2Z^2S^2HS', 'Z^2XHSHS', 'X^2H', 'X^2ZH^3SH', 'X^2SHS', '(XZHS^2)^-1(XZHSHS)^-1(HSHS^2)^-1(XS^2H)^-1(X^2S^2HSH)^-1(XS^2)^-1(XH^3S)^-1(Z^2XHSH)^-1(X^2ZH^2SHS)^-1(X^2HSH)^-1(Z^2XSH)^-1(X^2SHS^2)^-1(Z^2XSH)^-1(X^2ZSHS)^-1(XSHSH)^-1(XZH^2S^2)^-1(X^2ZHSHS)^-1(X^2Z^2S^2HS)^-1(Z^2XHSHS)^-1(X^2H)^-1(X^2ZH^3SH)^-1(X^2SHS)^-1', 'tM'] with key 22
+Accepted indices: 9063/10000
+Effective shots: 9063
+Key: 22
+Expectation value: 0.9995035167801207
+
+Running circuit 346: ['Z^2XHS', 'Z^2S^2HSH', 'XZHSHS', 'Z^2XSHS', 'XZSHS^2', 'X^2Z^2SHS', 'X^2SHSH', 'Z^2XHSHS', 'X^2SHS^2', 'X^2ZH^2S', 'X^2Z^2H^2', 'H^2', 'Z^2SH', 'X^2Z^2SHSH', 'X^2H^2S^2', 'I', 'XH^3SH', 'XZSHS', 'X^2HS', 'X^2Z^2H^3', 'X^2Z^2H^2SHS', 'Z^2XSHS^2', '(Z^2XHS)^-1(Z^2S^2HSH)^-1(XZHSHS)^-1(Z^2XSHS)^-1(XZSHS^2)^-1(X^2Z^2SHS)^-1(X^2SHSH)^-1(Z^2XHSHS)^-1(X^2SHS^2)^-1(X^2ZH^2S)^-1(X^2Z^2H^2)^-1(H^2)^-1(Z^2SH)^-1(X^2Z^2SHSH)^-1(X^2H^2S^2)^-1(I)^-1(XH^3SH)^-1(XZSHS)^-1(X^2HS)^-1(X^2Z^2H^3)^-1(X^2Z^2H^2SHS)^-1(Z^2XSHS^2)^-1', 'tM'] with key 22
+Accepted indices: 9090/10000
+Effective shots: 9090
+Key: 22
+Expectation value: 0.9996699851563235
+
+Running circuit 347: ['S', 'XZHSHS', 'ZH^2SH', 'XS^2H', 'XZHSH', 'X^2ZH^2SH', 'Z^2S^2HS', 'X^2HSH', 'HSHS^2', 'Z^2XS^2', 'X^2SHS', 'ZS^2HS', 'X^2ZHSHS', 'HS', 'ZH^2S^2', 'X^2Z^2HSHS^2', 'ZS^2HS', 'Z^2XS', 'H^3S', 'Z^2XH', 'Z^2XSH', 'XS^2HSH', '(S)^-1(XZHSHS)^-1(ZH^2SH)^-1(XS^2H)^-1(XZHSH)^-1(X^2ZH^2SH)^-1(Z^2S^2HS)^-1(X^2HSH)^-1(HSHS^2)^-1(Z^2XS^2)^-1(X^2SHS)^-1(ZS^2HS)^-1(X^2ZHSHS)^-1(HS)^-1(ZH^2S^2)^-1(X^2Z^2HSHS^2)^-1(ZS^2HS)^-1(Z^2XS)^-1(H^3S)^-1(Z^2XH)^-1(Z^2XSH)^-1(XS^2HSH)^-1', 'tM'] with key 22
+Accepted indices: 9107/10000
+Effective shots: 9107
+Key: 22
+Expectation value: 0.9995059153153895
+
+Running circuit 348: ['X^2Z^2H^2S^2', 'Z^2XS^2HS', 'Z^2HSHS', 'XZS^2HSH', 'ZS^2HS', 'X^2Z^2H^3S', 'Z', 'X^2ZS^2HS', 'HSHS', 'XH^3S', 'X^2ZSHSH', 'ZH^3S', 'SHSH', 'X^2S^2HSH', 'XH^2SH', 'Z^2X', 'X^2ZSHSH', 'Z^2XSHSH', 'X^2Z^2H^2S', 'X^2ZSHS', 'X^2H^3S', 'ZH^2SHS', '(X^2Z^2H^2S^2)^-1(Z^2XS^2HS)^-1(Z^2HSHS)^-1(XZS^2HSH)^-1(ZS^2HS)^-1(X^2Z^2H^3S)^-1(Z)^-1(X^2ZS^2HS)^-1(HSHS)^-1(XH^3S)^-1(X^2ZSHSH)^-1(ZH^3S)^-1(SHSH)^-1(X^2S^2HSH)^-1(XH^2SH)^-1(Z^2X)^-1(X^2ZSHSH)^-1(Z^2XSHSH)^-1(X^2Z^2H^2S)^-1(X^2ZSHS)^-1(X^2H^3S)^-1(ZH^2SHS)^-1', 'tM'] with key 22
+Accepted indices: 9102/10000
+Effective shots: 9102
+Key: 22
+Expectation value: 0.9991760460451996
+
+Running circuit 349: ['X^2ZH^3SH', 'S^2H', 'Z^2HSHS^2', 'Z^2XS^2HSH', 'HSH', 'X^2Z^2HS', 'X^2ZH^2S', 'XZS^2HS', 'ZH^3SH', 'X^2Z^2H^2S', 'Z^2XSHSH', 'X^2H', 'XH^2SH', 'X^2S^2HSH', 'Z^2HS^2', 'Z^2XS^2HSH', 'X^2S^2H', 'X^2ZSHSH', 'XZH^2S', 'Z^2HSH', 'X^2ZH^3', 'XHSH', '(X^2ZH^3SH)^-1(S^2H)^-1(Z^2HSHS^2)^-1(Z^2XS^2HSH)^-1(HSH)^-1(X^2Z^2HS)^-1(X^2ZH^2S)^-1(XZS^2HS)^-1(ZH^3SH)^-1(X^2Z^2H^2S)^-1(Z^2XSHSH)^-1(X^2H)^-1(XH^2SH)^-1(X^2S^2HSH)^-1(Z^2HS^2)^-1(Z^2XS^2HSH)^-1(X^2S^2H)^-1(X^2ZSHSH)^-1(XZH^2S)^-1(Z^2HSH)^-1(X^2ZH^3)^-1(XHSH)^-1', 'tM'] with key 22
+Accepted indices: 9170/10000
+Effective shots: 9170
+Key: 22
+Expectation value: 0.9988550734490107
+
+Running circuit 350: ['XSHS^2', 'XHS', 'HSHS^2', 'XZS', 'X^2ZHSH', 'X^2ZH^2S', 'X^2Z^2H^2SHS', 'X^2', 'XZH', 'HSH', 'XZS^2HS', 'XZH', 'SHSH', 'XZHS^2', 'XZH', 'Z^2H^2', 'XH^2SH', 'ZSHS^2', 'SHSH', 'XZH^3', 'X^2S', 'X^2H', '(XSHS^2)^-1(XHS)^-1(HSHS^2)^-1(XZS)^-1(X^2ZHSH)^-1(X^2ZH^2S)^-1(X^2Z^2H^2SHS)^-1(X^2)^-1(XZH)^-1(HSH)^-1(XZS^2HS)^-1(XZH)^-1(SHSH)^-1(XZHS^2)^-1(XZH)^-1(Z^2H^2)^-1(XH^2SH)^-1(ZSHS^2)^-1(SHSH)^-1(XZH^3)^-1(X^2S)^-1(X^2H)^-1', 'tM'] with key 22
+Accepted indices: 9157/10000
+Effective shots: 9157
+Key: 22
+Expectation value: 0.9991809589369713
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Running circuit 351: ['X^2ZSH', 'Z^2X', 'S^2HS', 'X^2HSHS^2', 'XZSHS', 'X^2', 'ZHS^2', 'Z^2XHS^2', 'X^2Z^2S^2', 'X^2HSHS', 'Z^2XSH', 'XS^2H', 'ZHSH', 'X^2Z^2H^3SH', 'XHSHS', 'X^2HSHS^2', 'XZH^3', 'XZ', 'X^2Z^2SHS^2', 'X^2H^2SH', 'X^2SHS^2', 'XZSH', '(X^2ZSH)^-1(Z^2X)^-1(S^2HS)^-1(X^2HSHS^2)^-1(XZSHS)^-1(X^2)^-1(ZHS^2)^-1(Z^2XHS^2)^-1(X^2Z^2S^2)^-1(X^2HSHS)^-1(Z^2XSH)^-1(XS^2H)^-1(ZHSH)^-1(X^2Z^2H^3SH)^-1(XHSHS)^-1(X^2HSHS^2)^-1(XZH^3)^-1(XZ)^-1(X^2Z^2SHS^2)^-1(X^2H^2SH)^-1(X^2SHS^2)^-1(XZSH)^-1', 'tM'] with key 22
+Accepted indices: 9196/10000
+Effective shots: 9196
+Key: 22
+Expectation value: 0.9991844324501832
+
+Running circuit 352: ['Z^2SHS', 'XH^3SH', 'Z^2XHSHS^2', 'X^2HS', 'S^2', 'X^2Z', 'X^2H^2', 'XZH^2SHS', 'XZS^2HSH', 'X^2Z^2SHS', 'ZS^2', 'Z^2XS^2', 'XHSHS^2', 'Z^2XSH', 'X^2ZSHS^2', 'Z^2XH^2SHS', 'Z^2XHS', 'Z^2H^2S', 'X^2ZH^2SH', 'X^2SHS', 'ZHS', 'ZHSHS', '(Z^2SHS)^-1(XH^3SH)^-1(Z^2XHSHS^2)^-1(X^2HS)^-1(S^2)^-1(X^2Z)^-1(X^2H^2)^-1(XZH^2SHS)^-1(XZS^2HSH)^-1(X^2Z^2SHS)^-1(ZS^2)^-1(Z^2XS^2)^-1(XHSHS^2)^-1(Z^2XSH)^-1(X^2ZSHS^2)^-1(Z^2XH^2SHS)^-1(Z^2XHS)^-1(Z^2H^2S)^-1(X^2ZH^2SH)^-1(X^2SHS)^-1(ZHS)^-1(ZHSHS)^-1', 'tM'] with key 22
+Accepted indices: 9117/10000
+Effective shots: 9117
+Key: 22
+Expectation value: 0.9991774016115318
+
+Running circuit 353: ['I', 'X^2Z^2SHS', 'X^2S^2', 'Z^2H^2SH', 'XZSHS^2', 'X^2ZH^3', 'X', 'SHS^2', 'X^2Z^2SHSH', 'ZS^2H', 'Z', 'X^2S', 'X^2Z^2H', 'XZHSHS', 'H^2S', 'XZS^2HS', 'Z^2HS', 'X^2SHS', 'X', 'ZS^2HSH', 'Z^2XHSHS', 'X^2ZH^2S^2', '(I)^-1(X^2Z^2SHS)^-1(X^2S^2)^-1(Z^2H^2SH)^-1(XZSHS^2)^-1(X^2ZH^3)^-1(X)^-1(SHS^2)^-1(X^2Z^2SHSH)^-1(ZS^2H)^-1(Z)^-1(X^2S)^-1(X^2Z^2H)^-1(XZHSHS)^-1(H^2S)^-1(XZS^2HS)^-1(Z^2HS)^-1(X^2SHS)^-1(X)^-1(ZS^2HSH)^-1(Z^2XHSHS)^-1(X^2ZH^2S^2)^-1', 'tM'] with key 22
+Accepted indices: 9139/10000
+Effective shots: 9139
+Key: 22
+Expectation value: 0.9993434909989682
+
+Running circuit 354: ['XZH^2', 'XZHSHS', 'X^2Z^2S^2H', 'XH^2S', 'X^2Z^2S^2H', 'XH^3SH', 'XH^2', 'ZH^2S', 'X^2ZHS^2', 'X^2ZHSHS', 'ZSHS^2', 'Z^2XS^2HS', 'ZHS', 'HS', 'H^2SHS', 'X^2HSHS', 'H^2S^2', 'X^2S^2H', 'H^3SH', 'ZH^2', 'H^2S^2', 'H^2SHS', '(XZH^2)^-1(XZHSHS)^-1(X^2Z^2S^2H)^-1(XH^2S)^-1(X^2Z^2S^2H)^-1(XH^3SH)^-1(XH^2)^-1(ZH^2S)^-1(X^2ZHS^2)^-1(X^2ZHSHS)^-1(ZSHS^2)^-1(Z^2XS^2HS)^-1(ZHS)^-1(HS)^-1(H^2SHS)^-1(X^2HSHS)^-1(H^2S^2)^-1(X^2S^2H)^-1(H^3SH)^-1(ZH^2)^-1(H^2S^2)^-1(H^2SHS)^-1', 'tM'] with key 22
+Accepted indices: 9078/10000
+Effective shots: 9078
+Key: 22
+Expectation value: 0.9995043370744988
+
+Running circuit 355: ['X^2Z^2H^3S', 'X^2Z^2SHS', 'ZS^2', 'ZS^2H', 'Z^2XH^3S', 'Z^2HSH', 'X^2', 'X^2ZH^3', 'Z^2XH^2SHS', 'Z^2H^2S', 'XH^3S', 'ZS^2HS', 'X^2ZH^2S^2', 'ZHS^2', 'X^2H^3SH', 'ZHSHS^2', 'ZSHSH', 'XZS^2H', 'Z^2XH^3SH', 'X^2ZS^2H', 'X^2ZH^2SHS', 'XZSHS^2', '(X^2Z^2H^3S)^-1(X^2Z^2SHS)^-1(ZS^2)^-1(ZS^2H)^-1(Z^2XH^3S)^-1(Z^2HSH)^-1(X^2)^-1(X^2ZH^3)^-1(Z^2XH^2SHS)^-1(Z^2H^2S)^-1(XH^3S)^-1(ZS^2HS)^-1(X^2ZH^2S^2)^-1(ZHS^2)^-1(X^2H^3SH)^-1(ZHSHS^2)^-1(ZSHSH)^-1(XZS^2H)^-1(Z^2XH^3SH)^-1(X^2ZS^2H)^-1(X^2ZH^2SHS)^-1(XZSHS^2)^-1', 'tM'] with key 22
+Accepted indices: 9097/10000
+Effective shots: 9097
+Key: 22
+Expectation value: 0.9996702209519621
+
+Running circuit 356: ['XZ', 'X^2Z^2H^3SH', 'X^2HSH', 'S^2HS', 'Z^2S^2HS', 'Z^2S^2', 'X', 'ZH^3', 'Z^2XH^2S^2', 'X^2ZS^2HSH', 'XZHS', 'X^2Z^2H', 'Z', 'ZH^2S', 'Z^2XSHS', 'Z^2XHS^2', 'XHSH', 'X^2ZSH', 'X^2HSHS^2', 'X^2HSHS', 'ZHSHS^2', 'Z^2XS^2HS', '(XZ)^-1(X^2Z^2H^3SH)^-1(X^2HSH)^-1(S^2HS)^-1(Z^2S^2HS)^-1(Z^2S^2)^-1(X)^-1(ZH^3)^-1(Z^2XH^2S^2)^-1(X^2ZS^2HSH)^-1(XZHS)^-1(X^2Z^2H)^-1(Z)^-1(ZH^2S)^-1(Z^2XSHS)^-1(Z^2XHS^2)^-1(XHSH)^-1(X^2ZSH)^-1(X^2HSHS^2)^-1(X^2HSHS)^-1(ZHSHS^2)^-1(Z^2XS^2HS)^-1', 'tM'] with key 22
+Accepted indices: 9147/10000
+Effective shots: 9147
+Key: 22
+Expectation value: 0.9998360162899063
+
+Running circuit 357: ['X^2HS', 'ZS^2', 'X^2ZH^2S^2', 'X^2Z^2HSHS^2', 'X^2Z^2H', 'H^3S', 'Z^2XH^2SH', 'X^2S^2', 'H^2S', 'XZHS', 'XS^2HS', 'X^2SHSH', 'ZH^2', 'ZSHS^2', 'ZS^2H', 'XZH^3S', 'S^2H', 'ZH^2S', 'XZ', 'Z^2XSHS', 'XSHS^2', 'X^2HS', '(X^2HS)^-1(ZS^2)^-1(X^2ZH^2S^2)^-1(X^2Z^2HSHS^2)^-1(X^2Z^2H)^-1(H^3S)^-1(Z^2XH^2SH)^-1(X^2S^2)^-1(H^2S)^-1(XZHS)^-1(XS^2HS)^-1(X^2SHSH)^-1(ZH^2)^-1(ZSHS^2)^-1(ZS^2H)^-1(XZH^3S)^-1(S^2H)^-1(ZH^2S)^-1(XZ)^-1(Z^2XSHS)^-1(XSHS^2)^-1(X^2HS)^-1', 'tM'] with key 22
+Accepted indices: 9077/10000
+Effective shots: 9077
+Key: 22
+Expectation value: 0.9993390068703474
+
+Running circuit 358: ['XZH^2SH', 'XSHSH', 'S^2H', 'H^2', 'X^2H^2S', 'Z^2S^2H', 'ZHS', 'Z^2XSH', 'Z^2SHS', 'Z^2XSHS', 'XHSHS^2', 'X^2Z^2S', 'X^2H^3S', 'ZH^2SHS', 'X^2ZH^3SH', 'X^2H^2S^2', 'HSHS^2', 'X^2ZH^3SH', 'XH^3SH', 'Z^2HS^2', 'X^2Z^2S^2', 'Z^2XHSHS', '(XZH^2SH)^-1(XSHSH)^-1(S^2H)^-1(H^2)^-1(X^2H^2S)^-1(Z^2S^2H)^-1(ZHS)^-1(Z^2XSH)^-1(Z^2SHS)^-1(Z^2XSHS)^-1(XHSHS^2)^-1(X^2Z^2S)^-1(X^2H^3S)^-1(ZH^2SHS)^-1(X^2ZH^3SH)^-1(X^2H^2S^2)^-1(HSHS^2)^-1(X^2ZH^3SH)^-1(XH^3SH)^-1(Z^2HS^2)^-1(X^2Z^2S^2)^-1(Z^2XHSHS)^-1', 'tM'] with key 22
+Accepted indices: 9079/10000
+Effective shots: 9079
+Key: 22
+Expectation value: 0.9995043552510839
+
+Running circuit 359: ['Z^2XH^2', 'X^2Z^2S^2HSH', 'X^2SHS', 'XZS', 'ZH^3SH', 'X^2ZH^2SHS', 'X^2ZH^2S^2', 'Z^2H^3', 'X^2Z^2H^2S^2', 'X^2S^2HS', 'XZH^2S^2', 'X^2Z^2H^2S', 'S^2HSH', 'XSHSH', 'X^2Z^2H', 'X^2ZHS', 'X^2ZH^2SH', 'X^2Z^2HS', 'I', 'Z^2H^2S', 'Z^2HS^2', 'Z^2H^3SH', '(Z^2XH^2)^-1(X^2Z^2S^2HSH)^-1(X^2SHS)^-1(XZS)^-1(ZH^3SH)^-1(X^2ZH^2SHS)^-1(X^2ZH^2S^2)^-1(Z^2H^3)^-1(X^2Z^2H^2S^2)^-1(X^2S^2HS)^-1(XZH^2S^2)^-1(X^2Z^2H^2S)^-1(S^2HSH)^-1(XSHSH)^-1(X^2Z^2H)^-1(X^2ZHS)^-1(X^2ZH^2SH)^-1(X^2Z^2HS)^-1(I)^-1(Z^2H^2S)^-1(Z^2HS^2)^-1(Z^2H^3SH)^-1', 'tM'] with key 22
+Accepted indices: 9136/10000
+Effective shots: 9136
+Key: 22
+Expectation value: 0.9993432574430823
+
+Checkpoint saved to qutrit_rb_results_terminal_check_local_noise/logicalRB_p0.000615848211.pkl
+Logical error rate for p=0.000615848211: 1.0594289439502802e-05
+Final logical error rate for p=0.000615848211: 1.0594289439502802e-05

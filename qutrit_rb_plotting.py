@@ -1021,7 +1021,7 @@ Raises:
             if self.experiment_name == "logical_noise"
             else (
                 "Terminal-Check Logical RB vs Physical RB "
-                "(No Exponential Fits)"
+                "under Single Qutrit Local Depolarizing Channels"
             )
             if self.experiment_name == "terminal_check" and not fit_curves
             else f"Logical vs Physical RB ({self.experiment_name})"

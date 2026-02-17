@@ -384,7 +384,7 @@ if __name__ == '__main__':
     experiment = SingleQutritRBExperiment(
         qudits=qutrit,
         cliffordGates=cliffordGates,
-        sequenceLengths=[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20],
+        sequenceLengths=[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22],
         circuitsPerSequence=30,
         shots=5000,
         measurementBasisTransformation=(QuditHadamard(3)**-1),
