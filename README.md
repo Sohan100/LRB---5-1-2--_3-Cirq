@@ -31,33 +31,34 @@ The repository is organized so simulation and visualization are separate:
 
 Core simulation entry points:
 
-- `qutrit_physical_rb_sim.py`
+- `scripts/qutrit_physical_rb_sim.py`
   - Physical single-qutrit RB baseline.
-- `qutrit_logical_rb_logical_noise_sim.py`
+- `scripts/qutrit_logical_rb_logical_noise_sim.py`
   - Logical RB with sampled logical depolarizing noise.
-- `qutrit_logical_rb_terminal_check_sim.py`
+- `scripts/qutrit_logical_rb_terminal_check_sim.py`
   - Logical RB with terminal-only stabilizer checks and local physical noise.
 
 Sequence generators:
 
-- `rb_seq.py`
+- `qutrit_rb/rb_seq.py`
   - Physical RB sequence builder.
-- `logical_rb_seq.py`
+- `qutrit_rb/logical_rb_seq.py`
   - Logical RB sequence builder.
 
 Plotting:
 
-- `qutrit_rb_plotting.py`
+- `qutrit_rb/qutrit_rb_plotting.py`
   - Fidelity/survival/success plots and logical-vs-physical overlays.
 
 Support modules:
 
-- `gates.py`, `noise.py`, `pauli.py`
-- `qutrit_clifford.py`, `qutrit_logical_clifford.py`,
-  `qutrit_logical_pauli.py`
-- `qutrit_folded_logical_clifford.py`,
-  `qutrit_folded_logical_plus_state.py`
-- `rb_checkpoint.py`
+- `qutrit_rb/gates.py`, `qutrit_rb/noise.py`, `qutrit_rb/pauli.py`
+- `qutrit_rb/qutrit_clifford.py`,
+  `qutrit_rb/qutrit_logical_clifford.py`,
+  `qutrit_rb/qutrit_logical_pauli.py`
+- `qutrit_rb/qutrit_folded_logical_clifford.py`,
+  `qutrit_rb/qutrit_folded_logical_plus_state.py`
+- `qutrit_rb/rb_checkpoint.py`
 
 Notebook:
 
@@ -65,9 +66,31 @@ Notebook:
 
 Cluster scripts:
 
-- `run_logical_rb_logical_noise3.sh`
-- `run_logical_rb_logical_noise4.sh`
-- `run_logical_rb_terminal_check.sh`
+- `scripts/slurm/run_logical_rb_logical_noise3.sh`
+- `scripts/slurm/run_logical_rb_logical_noise4.sh`
+- `scripts/slurm/run_logical_rb_terminal_check.sh`
+
+## Repository Layout
+
+- `qutrit_rb/`
+  - Reusable Python package with gates, sequence builders, simulators, and
+    plotting utilities.
+- `scripts/`
+  - CLI entry points that call into the package.
+- `scripts/slurm/`
+  - Cluster submission helpers.
+- `tests/`
+  - Smoke-test scripts for gate and noise sanity checks.
+- `examples/`
+  - Standalone exploratory scripts.
+- `Plotting LRB and RB Notebook.ipynb`
+  - Interactive analysis notebook kept at the repository root.
+- `results/`
+  - Generated checkpoints, plots, and simulation outputs.
+- `docs/`
+  - Reference documents and PDFs.
+- `logs/`
+  - Saved run logs.
 
 ## Installation and Environment
 
@@ -105,7 +128,8 @@ Typical analysis loop:
 
 1. Run physical RB sweep to generate baseline file.
 2. Run one logical RB variant across the same `p` values.
-3. Use `qutrit_rb_plotting.py` (or the notebook) to overlay LRB vs RB.
+3. Use `qutrit_rb/qutrit_rb_plotting.py` (or the notebook) to overlay LRB vs
+   RB.
 4. Inspect fitted fidelities and threshold behavior.
 
 Artifacts are saved in your chosen checkpoint directory, then reused by
@@ -118,8 +142,8 @@ plotting without rerunning simulation.
 Run full default sweep:
 
 ```bash
-python qutrit_physical_rb_sim.py \
-  --checkpoint-dir qutrit_rb_results_logical_depolarizing_noise_noise \
+python scripts/qutrit_physical_rb_sim.py \
+  --checkpoint-dir results/qutrit_rb_results_logical_depolarizing_noise_noise \
   --seed 24 \
   --repetitions 5000
 ```
@@ -127,8 +151,8 @@ python qutrit_physical_rb_sim.py \
 Run a single error rate:
 
 ```bash
-python qutrit_physical_rb_sim.py \
-  --checkpoint-dir qutrit_rb_results_logical_depolarizing_noise_noise \
+python scripts/qutrit_physical_rb_sim.py \
+  --checkpoint-dir results/qutrit_rb_results_logical_depolarizing_noise_noise \
   --error-rate 0.0311537409
 ```
 
@@ -142,8 +166,8 @@ Primary outputs:
 Run full default sweep:
 
 ```bash
-python qutrit_logical_rb_logical_noise_sim.py \
-  --checkpoint-dir qutrit_rb_results_logical_depolarizing_noise_noise \
+python scripts/qutrit_logical_rb_logical_noise_sim.py \
+  --checkpoint-dir results/qutrit_rb_results_logical_depolarizing_noise_noise \
   --reps 10000 \
   --seed 24
 ```
@@ -151,8 +175,8 @@ python qutrit_logical_rb_logical_noise_sim.py \
 Run a single error rate:
 
 ```bash
-python qutrit_logical_rb_logical_noise_sim.py \
-  --checkpoint-dir qutrit_rb_results_logical_depolarizing_noise_noise \
+python scripts/qutrit_logical_rb_logical_noise_sim.py \
+  --checkpoint-dir results/qutrit_rb_results_logical_depolarizing_noise_noise \
   --error-rate 0.0311537409 \
   --reps 10000
 ```
@@ -167,8 +191,8 @@ Primary outputs:
 Run full default sweep:
 
 ```bash
-python qutrit_logical_rb_terminal_check_sim.py \
-  --checkpoint-dir qutrit_rb_results_terminal_check_local_noise \
+python scripts/qutrit_logical_rb_terminal_check_sim.py \
+  --checkpoint-dir results/qutrit_rb_results_terminal_check_local_noise \
   --reps 10000 \
   --seed 24
 ```
@@ -176,8 +200,8 @@ python qutrit_logical_rb_terminal_check_sim.py \
 Run a single error rate:
 
 ```bash
-python qutrit_logical_rb_terminal_check_sim.py \
-  --checkpoint-dir qutrit_rb_results_terminal_check_local_noise \
+python scripts/qutrit_logical_rb_terminal_check_sim.py \
+  --checkpoint-dir results/qutrit_rb_results_terminal_check_local_noise \
   --error-rate 0.0311537409 \
   --reps 10000
 ```
@@ -189,24 +213,24 @@ Primary outputs:
 
 ## Plotting and Overlays
 
-All plotting is centralized in `qutrit_rb_plotting.py` using
+All plotting is centralized in `qutrit_rb.qutrit_rb_plotting` using
 `LogicalRbPlotter`.
 
 ### Minimal Overlay Example
 
 ```python
-from qutrit_rb_plotting import LogicalRbPlotter
+from qutrit_rb.qutrit_rb_plotting import LogicalRbPlotter
 
 plotter = LogicalRbPlotter(
     logical_checkpoint_dir=(
-        "qutrit_rb_results_logical_depolarizing_noise_noise"
+        "results/qutrit_rb_results_logical_depolarizing_noise_noise"
     ),
     experiment_name="logical_noise",
 )
 
 fidelity_summary = plotter.overlay_with_physical_rb(
     physical_results_path=(
-        "qutrit_rb_results_logical_depolarizing_noise_noise/"
+        "results/qutrit_rb_results_logical_depolarizing_noise_noise/"
         "physicalRB_SimulationResults.npy"
     ),
     error_rates=None,         # infer from logicalRB_p*.pkl
@@ -239,16 +263,18 @@ This avoids compressed traces while preserving full depth-domain visibility.
 For terminal-check LRB, you can explicitly disable fit overlays:
 
 ```python
-from qutrit_rb_plotting import LogicalRbPlotter
+from qutrit_rb.qutrit_rb_plotting import LogicalRbPlotter
 
 plotter = LogicalRbPlotter(
-    logical_checkpoint_dir="qutrit_rb_results_terminal_check_local_noise",
+    logical_checkpoint_dir=(
+        "results/qutrit_rb_results_terminal_check_local_noise"
+    ),
     experiment_name="terminal_check",
 )
 
 plotter.overlay_terminal_check_with_physical_rb_no_fit(
     physical_results_path=(
-        "qutrit_rb_results_terminal_check_local_noise/"
+        "results/qutrit_rb_results_terminal_check_local_noise/"
         "physicalRB_SimulationResults.npy"
     ),
     error_rates=None,
@@ -379,9 +405,9 @@ Provided scripts use one common pattern:
 
 Scripts:
 
-- `run_logical_rb_logical_noise3.sh`
-- `run_logical_rb_logical_noise4.sh`
-- `run_logical_rb_terminal_check.sh`
+- `scripts/slurm/run_logical_rb_logical_noise3.sh`
+- `scripts/slurm/run_logical_rb_logical_noise4.sh`
+- `scripts/slurm/run_logical_rb_terminal_check.sh`
 
 Edit these fields before submission:
 
@@ -396,7 +422,7 @@ Edit these fields before submission:
 Then submit with:
 
 ```bash
-sbatch run_logical_rb_terminal_check.sh
+sbatch scripts/slurm/run_logical_rb_terminal_check.sh
 ```
 
 and similarly for other scripts.
@@ -405,16 +431,16 @@ and similarly for other scripts.
 
 Lightweight manual test scripts:
 
-- `test_gates.py`
-- `test_noise.py`
+- `tests/test_gates.py`
+- `tests/test_noise.py`
 
 They are smoke-test style scripts, not a strict `pytest` unit suite.
 
 Run:
 
 ```bash
-python test_gates.py
-python test_noise.py
+python tests/test_gates.py
+python tests/test_noise.py
 ```
 
 ## Practical Notes and Troubleshooting
